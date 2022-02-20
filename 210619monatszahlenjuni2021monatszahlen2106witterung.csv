@@ -1,0 +1,1893 @@
+,MONATSZAHL,AUSPRAEGUNG,JAHR,MONAT,WERT,VORJAHRESWERT,VERAEND_VORMONAT_PROZENT,VERAEND_VORJAHRESMONAT_PROZENT,ZWOELF_MONATE_MITTELWERT
+0,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202101,79.0,76.0,-3.66,3.95,70.0
+1,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202102,72.0,65.0,-8.86,10.77,71.0
+2,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202103,65.0,64.0,-9.72,1.56,71.0
+3,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202104,,49.0,,,
+4,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202105,,67.0,,,
+5,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202106,,73.0,,,
+6,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202107,,63.0,,,
+7,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202108,,69.0,,,
+8,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202109,,74.0,,,
+9,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202110,,79.0,,,
+10,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202111,,81.0,,,
+11,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2021,202112,,82.0,,,
+12,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202001,76.0,81.0,0.0,-6.17,70.0
+13,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202002,65.0,70.0,-14.47,-7.14,70.0
+14,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202003,64.0,64.0,-1.54,0.0,70.0
+15,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202004,49.0,59.0,-23.44,-16.95,69.0
+16,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202005,67.0,69.0,36.73,-2.9,69.0
+17,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202006,73.0,62.0,8.96,17.74,70.0
+18,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202007,63.0,63.0,-13.7,0.0,70.0
+19,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202008,69.0,70.0,9.52,-1.43,70.0
+20,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202009,74.0,73.0,7.25,1.37,70.0
+21,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202010,79.0,78.0,6.76,1.28,70.0
+22,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202011,81.0,83.0,2.53,-2.41,70.0
+23,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2020,202012,82.0,76.0,1.23,7.89,70.0
+24,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201901,81.0,79.0,-2.41,2.53,72.0
+25,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201902,70.0,78.0,-13.58,-10.26,72.0
+26,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201903,64.0,72.0,-8.57,-11.11,71.0
+27,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201904,59.0,56.0,-7.81,5.36,71.0
+28,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201905,69.0,67.0,16.95,2.99,71.0
+29,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201906,62.0,68.0,-10.14,-8.82,71.0
+30,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201907,63.0,63.0,1.61,0.0,71.0
+31,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201908,70.0,63.0,11.11,11.11,72.0
+32,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201909,73.0,73.0,4.29,0.0,72.0
+33,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201910,78.0,77.0,6.85,1.3,72.0
+34,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201911,83.0,87.0,6.41,-4.6,71.0
+35,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2019,201912,76.0,83.0,-8.43,-8.43,71.0
+36,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201801,79.0,83.0,1.28,-4.82,72.0
+37,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201802,78.0,76.0,-1.27,2.63,72.0
+38,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201803,72.0,66.0,-7.69,9.09,73.0
+39,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201804,56.0,69.0,-22.22,-18.84,72.0
+40,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201805,67.0,68.0,19.64,-1.47,71.0
+41,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201806,68.0,60.0,1.49,13.33,72.0
+42,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201807,63.0,66.0,-7.35,-4.55,72.0
+43,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201808,63.0,70.0,0.0,-10.0,71.0
+44,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201809,73.0,78.0,15.87,-6.41,71.0
+45,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201810,77.0,75.0,5.48,2.67,71.0
+46,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201811,87.0,78.0,12.99,11.54,72.0
+47,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2018,201812,83.0,78.0,-4.6,6.41,72.0
+48,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201701,83.0,80.0,0.0,3.75,75.0
+49,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201702,76.0,72.0,-8.43,5.56,75.0
+50,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201703,66.0,72.0,-13.16,-8.33,75.0
+51,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201704,69.0,68.0,4.55,1.47,75.0
+52,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201705,68.0,70.0,-1.45,-2.86,75.0
+53,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201706,60.0,72.0,-11.76,-16.67,74.0
+54,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201707,66.0,67.0,10.0,-1.49,74.0
+55,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201708,70.0,70.0,6.06,0.0,74.0
+56,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201709,78.0,75.0,11.43,4.0,74.0
+57,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201710,75.0,84.0,-3.85,-10.71,73.0
+58,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201711,78.0,83.0,4.0,-6.02,73.0
+59,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2017,201712,78.0,83.0,0.0,-6.02,72.0
+60,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201601,80.0,78.0,1.27,2.56,71.0
+61,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201602,72.0,80.0,-10.0,-10.0,70.0
+62,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201603,72.0,67.0,0.0,7.46,71.0
+63,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201604,68.0,58.0,-5.56,17.24,72.0
+64,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201605,70.0,72.0,2.94,-2.78,71.0
+65,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201606,72.0,69.0,2.86,4.35,72.0
+66,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201607,67.0,57.0,-6.94,17.54,73.0
+67,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201608,70.0,61.0,4.48,14.75,73.0
+68,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201609,75.0,70.0,7.14,7.14,74.0
+69,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201610,84.0,85.0,12.0,-1.18,74.0
+70,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201611,83.0,74.0,-1.19,12.16,74.0
+71,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2016,201612,83.0,79.0,0.0,5.06,75.0
+72,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201501,78.0,83.0,0.0,-6.02,73.0
+73,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201502,80.0,71.0,2.56,12.68,74.0
+74,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201503,67.0,65.0,-16.25,3.08,74.0
+75,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201504,58.0,68.0,-13.43,-14.71,73.0
+76,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201505,72.0,68.0,24.14,5.88,73.0
+77,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201506,69.0,57.0,-4.17,21.05,74.0
+78,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201507,57.0,70.0,-17.39,-18.57,73.0
+79,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201508,61.0,71.0,7.02,-14.08,73.0
+80,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201509,70.0,82.0,14.75,-14.63,72.0
+81,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201510,85.0,82.0,21.43,3.66,72.0
+82,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201511,74.0,86.0,-12.94,-13.95,71.0
+83,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2015,201512,79.0,78.0,6.76,1.28,71.0
+84,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201401,83.0,85.0,3.75,-2.35,75.0
+85,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201402,71.0,85.0,-14.46,-16.47,74.0
+86,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201403,65.0,75.0,-8.45,-13.33,73.0
+87,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201404,68.0,70.0,4.62,-2.86,73.0
+88,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201405,68.0,76.0,0.0,-10.53,72.0
+89,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201406,57.0,72.0,-16.18,-20.83,71.0
+90,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201407,70.0,57.0,22.81,22.81,72.0
+91,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201408,71.0,65.0,1.43,9.23,73.0
+92,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201409,82.0,76.0,15.49,7.89,73.0
+93,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201410,82.0,79.0,0.0,3.8,73.0
+94,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201411,86.0,84.0,4.88,2.38,74.0
+95,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2014,201412,78.0,80.0,-9.3,-2.5,73.0
+96,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201301,85.0,80.0,7.59,6.25,73.0
+97,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201302,85.0,75.0,0.0,13.33,74.0
+98,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201303,75.0,70.0,-11.76,7.14,75.0
+99,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201304,70.0,64.0,-6.67,9.38,75.0
+100,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201305,76.0,61.0,8.57,24.59,76.0
+101,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201306,72.0,68.0,-5.26,5.88,77.0
+102,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201307,57.0,66.0,-20.83,-13.64,76.0
+103,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201308,65.0,67.0,14.04,-2.99,76.0
+104,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201309,76.0,77.0,16.92,-1.3,76.0
+105,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201310,79.0,83.0,3.95,-4.82,75.0
+106,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201311,84.0,85.0,6.33,-1.18,75.0
+107,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2013,201312,80.0,79.0,-4.76,1.27,75.0
+108,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201201,80.0,83.0,2.56,-3.61,73.0
+109,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201202,75.0,75.0,-6.25,0.0,73.0
+110,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201203,70.0,65.0,-6.67,7.69,73.0
+111,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201204,64.0,58.0,-8.57,10.34,74.0
+112,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201205,61.0,61.0,-4.69,0.0,74.0
+113,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201206,68.0,73.0,11.48,-6.85,73.0
+114,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201207,66.0,71.0,-2.94,-7.04,73.0
+115,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201208,67.0,68.0,1.52,-1.47,73.0
+116,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201209,77.0,76.0,14.93,1.32,73.0
+117,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201210,83.0,79.0,7.79,5.06,73.0
+118,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201211,85.0,88.0,2.41,-3.41,73.0
+119,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2012,201212,79.0,78.0,-7.06,1.28,73.0
+120,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201101,83.0,86.0,-2.35,-3.49,75.0
+121,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201102,75.0,76.0,-9.64,-1.32,75.0
+122,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201103,65.0,65.0,-13.33,0.0,75.0
+123,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201104,58.0,60.0,-10.77,-3.33,75.0
+124,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201105,61.0,79.0,5.17,-22.78,73.0
+125,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201106,73.0,73.0,19.67,0.0,73.0
+126,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201107,71.0,66.0,-2.74,7.58,73.0
+127,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201108,68.0,74.0,-4.23,-8.11,73.0
+128,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201109,76.0,76.0,11.76,0.0,73.0
+129,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201110,79.0,80.0,3.95,-1.25,73.0
+130,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201111,88.0,80.0,11.39,10.0,74.0
+131,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2011,201112,78.0,85.0,-11.36,-8.24,73.0
+132,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201001,86.0,83.0,6.17,3.61,75.0
+133,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201002,76.0,83.0,-11.63,-8.43,74.0
+134,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201003,65.0,78.0,-14.47,-16.67,73.0
+135,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201004,60.0,59.0,-7.69,1.69,73.0
+136,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201005,79.0,69.0,31.67,14.49,74.0
+137,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201006,73.0,71.0,-7.59,2.82,74.0
+138,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201007,66.0,69.0,-9.59,-4.35,74.0
+139,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201008,74.0,69.0,12.12,7.25,74.0
+140,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201009,76.0,76.0,2.7,0.0,74.0
+141,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201010,80.0,79.0,5.26,1.27,74.0
+142,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201011,80.0,77.0,0.0,3.9,75.0
+143,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2010,201012,85.0,81.0,6.25,4.94,75.0
+144,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200901,83.0,73.0,-1.19,13.7,75.0
+145,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200902,83.0,70.0,0.0,18.57,76.0
+146,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200903,78.0,71.0,-6.02,9.86,77.0
+147,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200904,59.0,75.0,-24.36,-21.33,75.0
+148,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200905,69.0,69.0,16.95,0.0,75.0
+149,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200906,71.0,72.0,2.9,-1.39,75.0
+150,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200907,69.0,69.0,-2.82,0.0,75.0
+151,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200908,69.0,70.0,0.0,-1.43,75.0
+152,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200909,76.0,76.0,10.14,0.0,75.0
+153,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200910,79.0,79.0,3.95,0.0,75.0
+154,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200911,77.0,81.0,-2.53,-4.94,75.0
+155,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2009,200912,81.0,84.0,5.19,-3.57,75.0
+156,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200801,73.0,77.0,-12.05,-5.19,73.0
+157,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200802,70.0,76.0,-4.11,-7.89,72.0
+158,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200803,71.0,70.0,1.43,1.43,72.0
+159,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200804,75.0,55.0,5.63,36.36,74.0
+160,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200805,69.0,63.0,-8.0,9.52,74.0
+161,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200806,72.0,66.0,4.35,9.09,75.0
+162,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200807,69.0,67.0,-4.17,2.99,75.0
+163,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200808,70.0,73.0,1.45,-4.11,75.0
+164,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200809,76.0,79.0,8.57,-3.8,75.0
+165,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200810,79.0,82.0,3.95,-3.66,74.0
+166,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200811,81.0,85.0,2.53,-4.71,74.0
+167,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2008,200812,84.0,83.0,3.7,1.2,74.0
+168,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200701,77.0,83.0,-4.94,-7.23,74.0
+169,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200702,76.0,80.0,-1.3,-5.0,74.0
+170,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200703,70.0,75.0,-7.89,-6.67,73.0
+171,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200704,55.0,73.0,-21.43,-24.66,72.0
+172,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200705,63.0,66.0,14.55,-4.55,72.0
+173,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200706,66.0,65.0,4.76,1.54,72.0
+174,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200707,67.0,60.0,1.52,11.67,72.0
+175,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200708,73.0,76.0,8.96,-3.95,72.0
+176,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200709,79.0,77.0,8.22,2.6,72.0
+177,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200710,82.0,79.0,3.8,3.8,72.0
+178,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200711,85.0,80.0,3.66,6.25,73.0
+179,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2007,200712,83.0,81.0,-2.35,2.47,73.0
+180,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200601,83.0,74.0,-1.19,12.16,76.0
+181,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200602,80.0,81.0,-3.61,-1.23,76.0
+182,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200603,75.0,72.0,-6.25,4.17,76.0
+183,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200604,73.0,65.0,-2.67,12.31,77.0
+184,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200605,66.0,69.0,-9.59,-4.35,76.0
+185,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200606,65.0,63.0,-1.52,3.17,77.0
+186,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200607,60.0,72.0,-7.69,-16.67,76.0
+187,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200608,76.0,77.0,26.67,-1.3,76.0
+188,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200609,77.0,77.0,1.32,0.0,76.0
+189,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200610,79.0,83.0,2.6,-4.82,75.0
+190,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200611,80.0,84.0,1.27,-4.76,75.0
+191,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2006,200612,81.0,84.0,1.25,-3.57,75.0
+192,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200501,74.0,81.0,-12.94,-8.64,72.0
+193,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200502,81.0,68.0,9.46,19.12,73.0
+194,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200503,72.0,68.0,-11.11,5.88,73.0
+195,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200504,65.0,62.0,-9.72,4.84,74.0
+196,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200505,69.0,68.0,6.15,1.47,74.0
+197,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200506,63.0,67.0,-8.7,-5.97,73.0
+198,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200507,72.0,69.0,14.29,4.35,74.0
+199,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200508,77.0,67.0,6.94,14.93,74.0
+200,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200509,77.0,72.0,0.0,6.94,75.0
+201,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200510,83.0,80.0,7.79,3.75,75.0
+202,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200511,84.0,82.0,1.2,2.44,75.0
+203,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2005,200512,84.0,85.0,0.0,-1.18,75.0
+204,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200401,81.0,79.0,1.25,2.53,68.0
+205,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200402,68.0,76.0,-16.05,-10.53,67.0
+206,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200403,68.0,58.0,0.0,17.24,68.0
+207,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200404,62.0,55.0,-8.82,12.73,68.0
+208,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200405,68.0,65.0,9.68,4.62,69.0
+209,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200406,67.0,59.0,-1.47,13.56,69.0
+210,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200407,69.0,59.0,2.99,16.95,70.0
+211,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200408,67.0,53.0,-2.9,26.42,71.0
+212,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200409,72.0,67.0,7.46,7.46,72.0
+213,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200410,80.0,75.0,11.11,6.67,72.0
+214,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200411,82.0,84.0,2.5,-2.38,72.0
+215,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2004,200412,85.0,80.0,3.66,6.25,72.0
+216,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200301,79.0,81.0,-7.06,-2.47,75.0
+217,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200302,76.0,75.0,-3.8,1.33,75.0
+218,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200303,58.0,71.0,-23.68,-18.31,74.0
+219,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200304,55.0,68.0,-5.17,-19.12,73.0
+220,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200305,65.0,75.0,18.18,-13.33,72.0
+221,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200306,59.0,67.0,-9.23,-11.94,72.0
+222,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200307,59.0,75.0,0.0,-21.33,70.0
+223,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200308,53.0,74.0,-10.17,-28.38,69.0
+224,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200309,67.0,76.0,26.42,-11.84,68.0
+225,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200310,75.0,75.0,11.94,0.0,68.0
+226,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200311,84.0,83.0,12.0,1.2,68.0
+227,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2003,200312,80.0,85.0,-4.76,-5.88,68.0
+228,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200201,81.0,85.0,-8.99,-4.71,79.0
+229,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200202,75.0,79.0,-7.41,-5.06,79.0
+230,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200203,71.0,83.0,-5.33,-14.46,78.0
+231,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200204,68.0,74.0,-4.23,-8.11,77.0
+232,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200205,75.0,67.0,10.29,11.94,78.0
+233,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200206,67.0,73.0,-10.67,-8.22,77.0
+234,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200207,75.0,67.0,11.94,11.94,78.0
+235,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200208,74.0,73.0,-1.33,1.37,78.0
+236,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200209,76.0,87.0,2.7,-12.64,77.0
+237,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200210,75.0,84.0,-1.32,-10.71,76.0
+238,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200211,83.0,91.0,10.67,-8.79,76.0
+239,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2002,200212,85.0,89.0,2.41,-4.49,75.0
+240,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200101,85.0,85.0,-2.3,0.0,77.0
+241,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200102,79.0,76.0,-7.06,3.95,77.0
+242,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200103,83.0,73.0,5.06,13.7,78.0
+243,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200104,74.0,67.0,-10.84,10.45,78.0
+244,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200105,67.0,70.0,-9.46,-4.29,78.0
+245,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200106,73.0,60.0,8.96,21.67,79.0
+246,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200107,67.0,74.0,-8.22,-9.46,78.0
+247,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200108,73.0,70.0,8.96,4.29,79.0
+248,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200109,87.0,85.0,19.18,2.35,79.0
+249,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200110,84.0,88.0,-3.45,-4.55,79.0
+250,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200111,91.0,83.0,8.33,9.64,79.0
+251,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2001,200112,89.0,87.0,-2.2,2.3,79.0
+252,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200001,85.0,,,,85.0
+253,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200002,76.0,,-10.59,,81.0
+254,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200003,73.0,,-3.95,,78.0
+255,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200004,67.0,,-8.22,,75.0
+256,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200005,70.0,,4.48,,74.0
+257,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200006,60.0,,-14.29,,72.0
+258,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200007,74.0,,23.33,,72.0
+259,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200008,70.0,,-5.41,,72.0
+260,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200009,85.0,,21.43,,73.0
+261,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200010,88.0,,3.53,,75.0
+262,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200011,83.0,,-5.68,,76.0
+263,Luftfeuchtigkeit,Mittlere relative Luftfeuchtigkeit,2000,200012,87.0,,4.82,,77.0
+264,Lufttemperatur,Höchste Lufttemperatur,2021,202101,14.5,14.5,,,24.0
+265,Lufttemperatur,Höchste Lufttemperatur,2021,202102,20.0,17.2,,,24.0
+266,Lufttemperatur,Höchste Lufttemperatur,2021,202103,22.7,19.4,,,24.0
+267,Lufttemperatur,Höchste Lufttemperatur,2021,202104,,25.2,,,
+268,Lufttemperatur,Höchste Lufttemperatur,2021,202105,,26.4,,,
+269,Lufttemperatur,Höchste Lufttemperatur,2021,202106,,29.2,,,
+270,Lufttemperatur,Höchste Lufttemperatur,2021,202107,,32.7,,,
+271,Lufttemperatur,Höchste Lufttemperatur,2021,202108,,34.2,,,
+272,Lufttemperatur,Höchste Lufttemperatur,2021,202109,,28.9,,,
+273,Lufttemperatur,Höchste Lufttemperatur,2021,202110,,22.1,,,
+274,Lufttemperatur,Höchste Lufttemperatur,2021,202111,,21.5,,,
+275,Lufttemperatur,Höchste Lufttemperatur,2021,202112,,14.1,,,
+276,Lufttemperatur,Höchste Lufttemperatur,2020,202001,14.5,8.3,,,24.0
+277,Lufttemperatur,Höchste Lufttemperatur,2020,202002,17.2,18.1,,,24.0
+278,Lufttemperatur,Höchste Lufttemperatur,2020,202003,19.4,19.3,,,24.0
+279,Lufttemperatur,Höchste Lufttemperatur,2020,202004,25.2,28.1,,,24.0
+280,Lufttemperatur,Höchste Lufttemperatur,2020,202005,26.4,23.1,,,24.0
+281,Lufttemperatur,Höchste Lufttemperatur,2020,202006,29.2,35.2,,,24.0
+282,Lufttemperatur,Höchste Lufttemperatur,2020,202007,32.7,35.3,,,24.0
+283,Lufttemperatur,Höchste Lufttemperatur,2020,202008,34.2,33.2,,,24.0
+284,Lufttemperatur,Höchste Lufttemperatur,2020,202009,28.9,27.0,,,24.0
+285,Lufttemperatur,Höchste Lufttemperatur,2020,202010,22.1,24.5,,,24.0
+286,Lufttemperatur,Höchste Lufttemperatur,2020,202011,21.5,18.1,,,24.0
+287,Lufttemperatur,Höchste Lufttemperatur,2020,202012,14.1,16.1,,,24.0
+288,Lufttemperatur,Höchste Lufttemperatur,2019,201901,8.3,15.2,,,23.0
+289,Lufttemperatur,Höchste Lufttemperatur,2019,201902,18.1,7.9,,,24.0
+290,Lufttemperatur,Höchste Lufttemperatur,2019,201903,19.3,17.0,,,24.0
+291,Lufttemperatur,Höchste Lufttemperatur,2019,201904,28.1,27.8,,,24.0
+292,Lufttemperatur,Höchste Lufttemperatur,2019,201905,23.1,29.0,,,24.0
+293,Lufttemperatur,Höchste Lufttemperatur,2019,201906,35.2,29.7,,,24.0
+294,Lufttemperatur,Höchste Lufttemperatur,2019,201907,35.3,33.7,,,24.0
+295,Lufttemperatur,Höchste Lufttemperatur,2019,201908,33.2,35.1,,,24.0
+296,Lufttemperatur,Höchste Lufttemperatur,2019,201909,27.0,29.3,,,24.0
+297,Lufttemperatur,Höchste Lufttemperatur,2019,201910,24.5,25.1,,,24.0
+298,Lufttemperatur,Höchste Lufttemperatur,2019,201911,18.1,21.2,,,24.0
+299,Lufttemperatur,Höchste Lufttemperatur,2019,201912,16.1,14.3,,,24.0
+300,Lufttemperatur,Höchste Lufttemperatur,2018,201801,15.2,8.7,,,24.0
+301,Lufttemperatur,Höchste Lufttemperatur,2018,201802,7.9,19.0,,,24.0
+302,Lufttemperatur,Höchste Lufttemperatur,2018,201803,17.0,23.9,,,23.0
+303,Lufttemperatur,Höchste Lufttemperatur,2018,201804,27.8,23.5,,,23.0
+304,Lufttemperatur,Höchste Lufttemperatur,2018,201805,29.0,31.2,,,23.0
+305,Lufttemperatur,Höchste Lufttemperatur,2018,201806,29.7,33.5,,,23.0
+306,Lufttemperatur,Höchste Lufttemperatur,2018,201807,33.7,33.0,,,23.0
+307,Lufttemperatur,Höchste Lufttemperatur,2018,201808,35.1,35.8,,,23.0
+308,Lufttemperatur,Höchste Lufttemperatur,2018,201809,29.3,22.3,,,23.0
+309,Lufttemperatur,Höchste Lufttemperatur,2018,201810,25.1,25.2,,,23.0
+310,Lufttemperatur,Höchste Lufttemperatur,2018,201811,21.2,17.7,,,24.0
+311,Lufttemperatur,Höchste Lufttemperatur,2018,201812,14.3,13.5,,,24.0
+312,Lufttemperatur,Höchste Lufttemperatur,2017,201701,8.7,15.4,,,24.0
+313,Lufttemperatur,Höchste Lufttemperatur,2017,201702,19.0,18.1,,,24.0
+314,Lufttemperatur,Höchste Lufttemperatur,2017,201703,23.9,23.7,,,24.0
+315,Lufttemperatur,Höchste Lufttemperatur,2017,201704,23.5,23.7,,,24.0
+316,Lufttemperatur,Höchste Lufttemperatur,2017,201705,31.2,28.7,,,24.0
+317,Lufttemperatur,Höchste Lufttemperatur,2017,201706,33.5,31.9,,,24.0
+318,Lufttemperatur,Höchste Lufttemperatur,2017,201707,33.0,33.2,,,24.0
+319,Lufttemperatur,Höchste Lufttemperatur,2017,201708,35.8,31.8,,,24.0
+320,Lufttemperatur,Höchste Lufttemperatur,2017,201709,22.3,29.4,,,24.0
+321,Lufttemperatur,Höchste Lufttemperatur,2017,201710,25.2,22.9,,,24.0
+322,Lufttemperatur,Höchste Lufttemperatur,2017,201711,17.7,18.9,,,24.0
+323,Lufttemperatur,Höchste Lufttemperatur,2017,201712,13.5,13.0,,,24.0
+324,Lufttemperatur,Höchste Lufttemperatur,2016,201601,15.4,16.3,,,24.0
+325,Lufttemperatur,Höchste Lufttemperatur,2016,201602,18.1,13.8,,,25.0
+326,Lufttemperatur,Höchste Lufttemperatur,2016,201603,23.7,17.9,,,25.0
+327,Lufttemperatur,Höchste Lufttemperatur,2016,201604,23.7,23.9,,,25.0
+328,Lufttemperatur,Höchste Lufttemperatur,2016,201605,28.7,28.5,,,25.0
+329,Lufttemperatur,Höchste Lufttemperatur,2016,201606,31.9,30.9,,,25.0
+330,Lufttemperatur,Höchste Lufttemperatur,2016,201607,33.2,36.9,,,25.0
+331,Lufttemperatur,Höchste Lufttemperatur,2016,201608,31.8,36.5,,,25.0
+332,Lufttemperatur,Höchste Lufttemperatur,2016,201609,29.4,31.8,,,24.0
+333,Lufttemperatur,Höchste Lufttemperatur,2016,201610,22.9,23.3,,,24.0
+334,Lufttemperatur,Höchste Lufttemperatur,2016,201611,18.9,19.6,,,24.0
+335,Lufttemperatur,Höchste Lufttemperatur,2016,201612,13.0,14.8,,,24.0
+336,Lufttemperatur,Höchste Lufttemperatur,2015,201501,16.3,16.5,,,25.0
+337,Lufttemperatur,Höchste Lufttemperatur,2015,201502,13.8,19.4,,,25.0
+338,Lufttemperatur,Höchste Lufttemperatur,2015,201503,17.9,22.0,,,24.0
+339,Lufttemperatur,Höchste Lufttemperatur,2015,201504,23.9,22.3,,,24.0
+340,Lufttemperatur,Höchste Lufttemperatur,2015,201505,28.5,30.8,,,24.0
+341,Lufttemperatur,Höchste Lufttemperatur,2015,201506,30.9,33.9,,,24.0
+342,Lufttemperatur,Höchste Lufttemperatur,2015,201507,36.9,33.6,,,24.0
+343,Lufttemperatur,Höchste Lufttemperatur,2015,201508,36.5,30.7,,,25.0
+344,Lufttemperatur,Höchste Lufttemperatur,2015,201509,31.8,26.9,,,25.0
+345,Lufttemperatur,Höchste Lufttemperatur,2015,201510,23.3,27.0,,,25.0
+346,Lufttemperatur,Höchste Lufttemperatur,2015,201511,19.6,22.9,,,24.0
+347,Lufttemperatur,Höchste Lufttemperatur,2015,201512,14.8,14.2,,,25.0
+348,Lufttemperatur,Höchste Lufttemperatur,2014,201401,16.5,15.0,,,24.0
+349,Lufttemperatur,Höchste Lufttemperatur,2014,201402,19.4,8.1,,,25.0
+350,Lufttemperatur,Höchste Lufttemperatur,2014,201403,22.0,16.7,,,25.0
+351,Lufttemperatur,Höchste Lufttemperatur,2014,201404,22.3,25.1,,,25.0
+352,Lufttemperatur,Höchste Lufttemperatur,2014,201405,30.8,25.3,,,26.0
+353,Lufttemperatur,Höchste Lufttemperatur,2014,201406,33.9,35.2,,,25.0
+354,Lufttemperatur,Höchste Lufttemperatur,2014,201407,33.6,36.9,,,25.0
+355,Lufttemperatur,Höchste Lufttemperatur,2014,201408,30.7,35.2,,,25.0
+356,Lufttemperatur,Höchste Lufttemperatur,2014,201409,26.9,28.1,,,25.0
+357,Lufttemperatur,Höchste Lufttemperatur,2014,201410,27.0,24.1,,,25.0
+358,Lufttemperatur,Höchste Lufttemperatur,2014,201411,22.9,19.3,,,25.0
+359,Lufttemperatur,Höchste Lufttemperatur,2014,201412,14.2,16.7,,,25.0
+360,Lufttemperatur,Höchste Lufttemperatur,2013,201301,15.0,12.0,,,25.0
+361,Lufttemperatur,Höchste Lufttemperatur,2013,201302,8.1,13.4,,,25.0
+362,Lufttemperatur,Höchste Lufttemperatur,2013,201303,16.7,21.8,,,24.0
+363,Lufttemperatur,Höchste Lufttemperatur,2013,201304,25.1,32.2,,,24.0
+364,Lufttemperatur,Höchste Lufttemperatur,2013,201305,25.3,31.2,,,23.0
+365,Lufttemperatur,Höchste Lufttemperatur,2013,201306,35.2,32.5,,,23.0
+366,Lufttemperatur,Höchste Lufttemperatur,2013,201307,36.9,33.8,,,24.0
+367,Lufttemperatur,Höchste Lufttemperatur,2013,201308,35.2,34.7,,,24.0
+368,Lufttemperatur,Höchste Lufttemperatur,2013,201309,28.1,27.9,,,24.0
+369,Lufttemperatur,Höchste Lufttemperatur,2013,201310,24.1,24.0,,,24.0
+370,Lufttemperatur,Höchste Lufttemperatur,2013,201311,19.3,18.9,,,24.0
+371,Lufttemperatur,Höchste Lufttemperatur,2013,201312,16.7,16.3,,,24.0
+372,Lufttemperatur,Höchste Lufttemperatur,2012,201201,12.0,14.5,,,24.0
+373,Lufttemperatur,Höchste Lufttemperatur,2012,201202,13.4,16.6,,,23.0
+374,Lufttemperatur,Höchste Lufttemperatur,2012,201203,21.8,18.9,,,24.0
+375,Lufttemperatur,Höchste Lufttemperatur,2012,201204,32.2,25.2,,,24.0
+376,Lufttemperatur,Höchste Lufttemperatur,2012,201205,31.2,28.4,,,24.0
+377,Lufttemperatur,Höchste Lufttemperatur,2012,201206,32.5,30.2,,,25.0
+378,Lufttemperatur,Höchste Lufttemperatur,2012,201207,33.8,29.3,,,25.0
+379,Lufttemperatur,Höchste Lufttemperatur,2012,201208,34.7,35.8,,,25.0
+380,Lufttemperatur,Höchste Lufttemperatur,2012,201209,27.9,30.2,,,25.0
+381,Lufttemperatur,Höchste Lufttemperatur,2012,201210,24.0,23.7,,,25.0
+382,Lufttemperatur,Höchste Lufttemperatur,2012,201211,18.9,17.4,,,25.0
+383,Lufttemperatur,Höchste Lufttemperatur,2012,201212,16.3,16.6,,,25.0
+384,Lufttemperatur,Höchste Lufttemperatur,2011,201101,14.5,6.7,,,24.0
+385,Lufttemperatur,Höchste Lufttemperatur,2011,201102,16.6,13.9,,,24.0
+386,Lufttemperatur,Höchste Lufttemperatur,2011,201103,18.9,24.0,,,24.0
+387,Lufttemperatur,Höchste Lufttemperatur,2011,201104,25.2,26.6,,,23.0
+388,Lufttemperatur,Höchste Lufttemperatur,2011,201105,28.4,26.9,,,24.0
+389,Lufttemperatur,Höchste Lufttemperatur,2011,201106,30.2,33.5,,,23.0
+390,Lufttemperatur,Höchste Lufttemperatur,2011,201107,29.3,33.7,,,23.0
+391,Lufttemperatur,Höchste Lufttemperatur,2011,201108,35.8,31.2,,,23.0
+392,Lufttemperatur,Höchste Lufttemperatur,2011,201109,30.2,25.0,,,24.0
+393,Lufttemperatur,Höchste Lufttemperatur,2011,201110,23.7,22.2,,,24.0
+394,Lufttemperatur,Höchste Lufttemperatur,2011,201111,17.4,18.8,,,24.0
+395,Lufttemperatur,Höchste Lufttemperatur,2011,201112,16.6,15.4,,,24.0
+396,Lufttemperatur,Höchste Lufttemperatur,2010,201001,6.7,8.0,,,23.0
+397,Lufttemperatur,Höchste Lufttemperatur,2010,201002,13.9,11.8,,,23.0
+398,Lufttemperatur,Höchste Lufttemperatur,2010,201003,24.0,13.8,,,24.0
+399,Lufttemperatur,Höchste Lufttemperatur,2010,201004,26.6,23.8,,,24.0
+400,Lufttemperatur,Höchste Lufttemperatur,2010,201005,26.9,30.5,,,24.0
+401,Lufttemperatur,Höchste Lufttemperatur,2010,201006,33.5,29.3,,,24.0
+402,Lufttemperatur,Höchste Lufttemperatur,2010,201007,33.7,35.2,,,24.0
+403,Lufttemperatur,Höchste Lufttemperatur,2010,201008,31.2,32.4,,,24.0
+404,Lufttemperatur,Höchste Lufttemperatur,2010,201009,25.0,31.7,,,23.0
+405,Lufttemperatur,Höchste Lufttemperatur,2010,201010,22.2,27.2,,,23.0
+406,Lufttemperatur,Höchste Lufttemperatur,2010,201011,18.8,20.0,,,23.0
+407,Lufttemperatur,Höchste Lufttemperatur,2010,201012,15.4,12.6,,,23.0
+408,Lufttemperatur,Höchste Lufttemperatur,2009,200901,8.0,12.9,,,24.0
+409,Lufttemperatur,Höchste Lufttemperatur,2009,200902,11.8,21.0,,,23.0
+410,Lufttemperatur,Höchste Lufttemperatur,2009,200903,13.8,21.7,,,22.0
+411,Lufttemperatur,Höchste Lufttemperatur,2009,200904,23.8,22.6,,,22.0
+412,Lufttemperatur,Höchste Lufttemperatur,2009,200905,30.5,31.2,,,22.0
+413,Lufttemperatur,Höchste Lufttemperatur,2009,200906,29.3,32.6,,,22.0
+414,Lufttemperatur,Höchste Lufttemperatur,2009,200907,35.2,32.3,,,22.0
+415,Lufttemperatur,Höchste Lufttemperatur,2009,200908,32.4,33.0,,,22.0
+416,Lufttemperatur,Höchste Lufttemperatur,2009,200909,31.7,28.8,,,22.0
+417,Lufttemperatur,Höchste Lufttemperatur,2009,200910,27.2,22.7,,,23.0
+418,Lufttemperatur,Höchste Lufttemperatur,2009,200911,20.0,19.2,,,23.0
+419,Lufttemperatur,Höchste Lufttemperatur,2009,200912,12.6,9.4,,,23.0
+420,Lufttemperatur,Höchste Lufttemperatur,2008,200801,12.9,15.5,,,23.0
+421,Lufttemperatur,Höchste Lufttemperatur,2008,200802,21.0,14.8,,,23.0
+422,Lufttemperatur,Höchste Lufttemperatur,2008,200803,21.7,16.8,,,24.0
+423,Lufttemperatur,Höchste Lufttemperatur,2008,200804,22.6,25.6,,,23.0
+424,Lufttemperatur,Höchste Lufttemperatur,2008,200805,31.2,30.7,,,23.0
+425,Lufttemperatur,Höchste Lufttemperatur,2008,200806,32.6,30.8,,,24.0
+426,Lufttemperatur,Höchste Lufttemperatur,2008,200807,32.3,35.2,,,23.0
+427,Lufttemperatur,Höchste Lufttemperatur,2008,200808,33.0,31.1,,,24.0
+428,Lufttemperatur,Höchste Lufttemperatur,2008,200809,28.8,25.3,,,24.0
+429,Lufttemperatur,Höchste Lufttemperatur,2008,200810,22.7,24.3,,,24.0
+430,Lufttemperatur,Höchste Lufttemperatur,2008,200811,19.2,12.0,,,24.0
+431,Lufttemperatur,Höchste Lufttemperatur,2008,200812,9.4,13.7,,,24.0
+432,Lufttemperatur,Höchste Lufttemperatur,2007,200701,15.5,5.9,,,24.0
+433,Lufttemperatur,Höchste Lufttemperatur,2007,200702,14.8,10.0,,,24.0
+434,Lufttemperatur,Höchste Lufttemperatur,2007,200703,16.8,21.1,,,24.0
+435,Lufttemperatur,Höchste Lufttemperatur,2007,200704,25.6,21.4,,,24.0
+436,Lufttemperatur,Höchste Lufttemperatur,2007,200705,30.7,28.7,,,24.0
+437,Lufttemperatur,Höchste Lufttemperatur,2007,200706,30.8,32.0,,,24.0
+438,Lufttemperatur,Höchste Lufttemperatur,2007,200707,35.2,34.8,,,24.0
+439,Lufttemperatur,Höchste Lufttemperatur,2007,200708,31.1,28.3,,,24.0
+440,Lufttemperatur,Höchste Lufttemperatur,2007,200709,25.3,29.6,,,24.0
+441,Lufttemperatur,Höchste Lufttemperatur,2007,200710,24.3,24.6,,,24.0
+442,Lufttemperatur,Höchste Lufttemperatur,2007,200711,12.0,19.7,,,23.0
+443,Lufttemperatur,Höchste Lufttemperatur,2007,200712,13.7,17.0,,,23.0
+444,Lufttemperatur,Höchste Lufttemperatur,2006,200601,5.9,16.1,,,22.0
+445,Lufttemperatur,Höchste Lufttemperatur,2006,200602,10.0,10.8,,,22.0
+446,Lufttemperatur,Höchste Lufttemperatur,2006,200603,21.1,19.6,,,22.0
+447,Lufttemperatur,Höchste Lufttemperatur,2006,200604,21.4,23.9,,,22.0
+448,Lufttemperatur,Höchste Lufttemperatur,2006,200605,28.7,30.7,,,22.0
+449,Lufttemperatur,Höchste Lufttemperatur,2006,200606,32.0,31.8,,,22.0
+450,Lufttemperatur,Höchste Lufttemperatur,2006,200607,34.8,33.5,,,22.0
+451,Lufttemperatur,Höchste Lufttemperatur,2006,200608,28.3,26.9,,,22.0
+452,Lufttemperatur,Höchste Lufttemperatur,2006,200609,29.6,29.4,,,22.0
+453,Lufttemperatur,Höchste Lufttemperatur,2006,200610,24.6,22.2,,,22.0
+454,Lufttemperatur,Höchste Lufttemperatur,2006,200611,19.7,20.0,,,22.0
+455,Lufttemperatur,Höchste Lufttemperatur,2006,200612,17.0,8.9,,,23.0
+456,Lufttemperatur,Höchste Lufttemperatur,2005,200501,16.1,11.9,,,23.0
+457,Lufttemperatur,Höchste Lufttemperatur,2005,200502,10.8,18.3,,,23.0
+458,Lufttemperatur,Höchste Lufttemperatur,2005,200503,19.6,22.8,,,22.0
+459,Lufttemperatur,Höchste Lufttemperatur,2005,200504,23.9,24.7,,,22.0
+460,Lufttemperatur,Höchste Lufttemperatur,2005,200505,30.7,25.3,,,23.0
+461,Lufttemperatur,Höchste Lufttemperatur,2005,200506,31.8,30.3,,,23.0
+462,Lufttemperatur,Höchste Lufttemperatur,2005,200507,33.5,29.8,,,23.0
+463,Lufttemperatur,Höchste Lufttemperatur,2005,200508,26.9,31.5,,,23.0
+464,Lufttemperatur,Höchste Lufttemperatur,2005,200509,29.4,28.3,,,23.0
+465,Lufttemperatur,Höchste Lufttemperatur,2005,200510,22.2,28.2,,,22.0
+466,Lufttemperatur,Höchste Lufttemperatur,2005,200511,20.0,13.9,,,23.0
+467,Lufttemperatur,Höchste Lufttemperatur,2005,200512,8.9,10.2,,,23.0
+468,Lufttemperatur,Höchste Lufttemperatur,2004,200401,11.9,13.9,,,24.0
+469,Lufttemperatur,Höchste Lufttemperatur,2004,200402,18.3,12.7,,,24.0
+470,Lufttemperatur,Höchste Lufttemperatur,2004,200403,22.8,20.6,,,24.0
+471,Lufttemperatur,Höchste Lufttemperatur,2004,200404,24.7,25.0,,,24.0
+472,Lufttemperatur,Höchste Lufttemperatur,2004,200405,25.3,31.8,,,24.0
+473,Lufttemperatur,Höchste Lufttemperatur,2004,200406,30.3,34.8,,,24.0
+474,Lufttemperatur,Höchste Lufttemperatur,2004,200407,29.8,34.1,,,23.0
+475,Lufttemperatur,Höchste Lufttemperatur,2004,200408,31.5,37.0,,,23.0
+476,Lufttemperatur,Höchste Lufttemperatur,2004,200409,28.3,28.7,,,23.0
+477,Lufttemperatur,Höchste Lufttemperatur,2004,200410,28.2,22.6,,,23.0
+478,Lufttemperatur,Höchste Lufttemperatur,2004,200411,13.9,14.6,,,23.0
+479,Lufttemperatur,Höchste Lufttemperatur,2004,200412,10.2,11.9,,,23.0
+480,Lufttemperatur,Höchste Lufttemperatur,2003,200301,13.9,18.3,,,23.0
+481,Lufttemperatur,Höchste Lufttemperatur,2003,200302,12.7,17.3,,,22.0
+482,Lufttemperatur,Höchste Lufttemperatur,2003,200303,20.6,20.1,,,22.0
+483,Lufttemperatur,Höchste Lufttemperatur,2003,200304,25.0,20.8,,,23.0
+484,Lufttemperatur,Höchste Lufttemperatur,2003,200305,31.8,27.8,,,23.0
+485,Lufttemperatur,Höchste Lufttemperatur,2003,200306,34.8,33.9,,,23.0
+486,Lufttemperatur,Höchste Lufttemperatur,2003,200307,34.1,31.6,,,23.0
+487,Lufttemperatur,Höchste Lufttemperatur,2003,200308,37.0,29.0,,,24.0
+488,Lufttemperatur,Höchste Lufttemperatur,2003,200309,28.7,27.8,,,24.0
+489,Lufttemperatur,Höchste Lufttemperatur,2003,200310,22.6,22.3,,,24.0
+490,Lufttemperatur,Höchste Lufttemperatur,2003,200311,14.6,15.7,,,24.0
+491,Lufttemperatur,Höchste Lufttemperatur,2003,200312,11.9,13.5,,,24.0
+492,Lufttemperatur,Höchste Lufttemperatur,2002,200201,18.3,10.7,,,23.0
+493,Lufttemperatur,Höchste Lufttemperatur,2002,200202,17.3,18.3,,,23.0
+494,Lufttemperatur,Höchste Lufttemperatur,2002,200203,20.1,18.5,,,23.0
+495,Lufttemperatur,Höchste Lufttemperatur,2002,200204,20.8,26.3,,,23.0
+496,Lufttemperatur,Höchste Lufttemperatur,2002,200205,27.8,27.5,,,23.0
+497,Lufttemperatur,Höchste Lufttemperatur,2002,200206,33.9,30.7,,,23.0
+498,Lufttemperatur,Höchste Lufttemperatur,2002,200207,31.6,31.8,,,23.0
+499,Lufttemperatur,Höchste Lufttemperatur,2002,200208,29.0,32.1,,,23.0
+500,Lufttemperatur,Höchste Lufttemperatur,2002,200209,27.8,22.9,,,23.0
+501,Lufttemperatur,Höchste Lufttemperatur,2002,200210,22.3,27.8,,,23.0
+502,Lufttemperatur,Höchste Lufttemperatur,2002,200211,15.7,14.1,,,23.0
+503,Lufttemperatur,Höchste Lufttemperatur,2002,200212,13.5,10.6,,,23.0
+504,Lufttemperatur,Höchste Lufttemperatur,2001,200101,10.7,10.5,,,24.0
+505,Lufttemperatur,Höchste Lufttemperatur,2001,200102,18.3,19.6,,,24.0
+506,Lufttemperatur,Höchste Lufttemperatur,2001,200103,18.5,17.2,,,24.0
+507,Lufttemperatur,Höchste Lufttemperatur,2001,200104,26.3,27.5,,,24.0
+508,Lufttemperatur,Höchste Lufttemperatur,2001,200105,27.5,27.8,,,24.0
+509,Lufttemperatur,Höchste Lufttemperatur,2001,200106,30.7,32.1,,,24.0
+510,Lufttemperatur,Höchste Lufttemperatur,2001,200107,31.8,29.1,,,24.0
+511,Lufttemperatur,Höchste Lufttemperatur,2001,200108,32.1,33.5,,,24.0
+512,Lufttemperatur,Höchste Lufttemperatur,2001,200109,22.9,26.0,,,23.0
+513,Lufttemperatur,Höchste Lufttemperatur,2001,200110,27.8,25.6,,,24.0
+514,Lufttemperatur,Höchste Lufttemperatur,2001,200111,14.1,20.1,,,23.0
+515,Lufttemperatur,Höchste Lufttemperatur,2001,200112,10.6,16.5,,,23.0
+516,Lufttemperatur,Höchste Lufttemperatur,2000,200001,10.5,,,,11.0
+517,Lufttemperatur,Höchste Lufttemperatur,2000,200002,19.6,,,,15.0
+518,Lufttemperatur,Höchste Lufttemperatur,2000,200003,17.2,,,,16.0
+519,Lufttemperatur,Höchste Lufttemperatur,2000,200004,27.5,,,,19.0
+520,Lufttemperatur,Höchste Lufttemperatur,2000,200005,27.8,,,,21.0
+521,Lufttemperatur,Höchste Lufttemperatur,2000,200006,32.1,,,,22.0
+522,Lufttemperatur,Höchste Lufttemperatur,2000,200007,29.1,,,,23.0
+523,Lufttemperatur,Höchste Lufttemperatur,2000,200008,33.5,,,,25.0
+524,Lufttemperatur,Höchste Lufttemperatur,2000,200009,26.0,,,,25.0
+525,Lufttemperatur,Höchste Lufttemperatur,2000,200010,25.6,,,,25.0
+526,Lufttemperatur,Höchste Lufttemperatur,2000,200011,20.1,,,,24.0
+527,Lufttemperatur,Höchste Lufttemperatur,2000,200012,16.5,,,,24.0
+528,Lufttemperatur,Mittlere Lufttemperatur,2021,202101,0.4,3.2,,,11.0
+529,Lufttemperatur,Mittlere Lufttemperatur,2021,202102,3.9,6.2,,,11.0
+530,Lufttemperatur,Mittlere Lufttemperatur,2021,202103,5.2,6.1,,,10.0
+531,Lufttemperatur,Mittlere Lufttemperatur,2021,202104,,12.6,,,
+532,Lufttemperatur,Mittlere Lufttemperatur,2021,202105,,12.9,,,
+533,Lufttemperatur,Mittlere Lufttemperatur,2021,202106,,16.8,,,
+534,Lufttemperatur,Mittlere Lufttemperatur,2021,202107,,20.0,,,
+535,Lufttemperatur,Mittlere Lufttemperatur,2021,202108,,20.2,,,
+536,Lufttemperatur,Mittlere Lufttemperatur,2021,202109,,15.8,,,
+537,Lufttemperatur,Mittlere Lufttemperatur,2021,202110,,10.0,,,
+538,Lufttemperatur,Mittlere Lufttemperatur,2021,202111,,5.9,,,
+539,Lufttemperatur,Mittlere Lufttemperatur,2021,202112,,2.2,,,
+540,Lufttemperatur,Mittlere Lufttemperatur,2020,202001,3.2,0.0,,,11.0
+541,Lufttemperatur,Mittlere Lufttemperatur,2020,202002,6.2,4.0,,,11.0
+542,Lufttemperatur,Mittlere Lufttemperatur,2020,202003,6.1,7.5,,,11.0
+543,Lufttemperatur,Mittlere Lufttemperatur,2020,202004,12.6,10.9,,,11.0
+544,Lufttemperatur,Mittlere Lufttemperatur,2020,202005,12.9,11.5,,,12.0
+545,Lufttemperatur,Mittlere Lufttemperatur,2020,202006,16.8,20.9,,,11.0
+546,Lufttemperatur,Mittlere Lufttemperatur,2020,202007,20.0,20.6,,,11.0
+547,Lufttemperatur,Mittlere Lufttemperatur,2020,202008,20.2,19.9,,,11.0
+548,Lufttemperatur,Mittlere Lufttemperatur,2020,202009,15.8,15.0,,,11.0
+549,Lufttemperatur,Mittlere Lufttemperatur,2020,202010,10.0,11.8,,,11.0
+550,Lufttemperatur,Mittlere Lufttemperatur,2020,202011,5.9,5.5,,,11.0
+551,Lufttemperatur,Mittlere Lufttemperatur,2020,202012,2.2,4.0,,,11.0
+552,Lufttemperatur,Mittlere Lufttemperatur,2019,201901,0.0,4.8,,,11.0
+553,Lufttemperatur,Mittlere Lufttemperatur,2019,201902,4.0,-1.8,,,11.0
+554,Lufttemperatur,Mittlere Lufttemperatur,2019,201903,7.5,4.0,,,12.0
+555,Lufttemperatur,Mittlere Lufttemperatur,2019,201904,10.9,14.7,,,11.0
+556,Lufttemperatur,Mittlere Lufttemperatur,2019,201905,11.5,16.8,,,11.0
+557,Lufttemperatur,Mittlere Lufttemperatur,2019,201906,20.9,18.5,,,11.0
+558,Lufttemperatur,Mittlere Lufttemperatur,2019,201907,20.6,20.7,,,11.0
+559,Lufttemperatur,Mittlere Lufttemperatur,2019,201908,19.9,21.5,,,11.0
+560,Lufttemperatur,Mittlere Lufttemperatur,2019,201909,15.0,16.2,,,11.0
+561,Lufttemperatur,Mittlere Lufttemperatur,2019,201910,11.8,11.5,,,11.0
+562,Lufttemperatur,Mittlere Lufttemperatur,2019,201911,5.5,5.2,,,11.0
+563,Lufttemperatur,Mittlere Lufttemperatur,2019,201912,4.0,3.6,,,11.0
+564,Lufttemperatur,Mittlere Lufttemperatur,2018,201801,4.8,-3.6,,,11.0
+565,Lufttemperatur,Mittlere Lufttemperatur,2018,201802,-1.8,3.9,,,11.0
+566,Lufttemperatur,Mittlere Lufttemperatur,2018,201803,4.0,8.6,,,10.0
+567,Lufttemperatur,Mittlere Lufttemperatur,2018,201804,14.7,8.4,,,11.0
+568,Lufttemperatur,Mittlere Lufttemperatur,2018,201805,16.8,15.1,,,11.0
+569,Lufttemperatur,Mittlere Lufttemperatur,2018,201806,18.5,20.3,,,11.0
+570,Lufttemperatur,Mittlere Lufttemperatur,2018,201807,20.7,20.0,,,11.0
+571,Lufttemperatur,Mittlere Lufttemperatur,2018,201808,21.5,20.2,,,11.0
+572,Lufttemperatur,Mittlere Lufttemperatur,2018,201809,16.2,13.2,,,11.0
+573,Lufttemperatur,Mittlere Lufttemperatur,2018,201810,11.5,11.6,,,11.0
+574,Lufttemperatur,Mittlere Lufttemperatur,2018,201811,5.2,5.2,,,11.0
+575,Lufttemperatur,Mittlere Lufttemperatur,2018,201812,3.6,2.1,,,11.0
+576,Lufttemperatur,Mittlere Lufttemperatur,2017,201701,-3.6,2.7,,,10.0
+577,Lufttemperatur,Mittlere Lufttemperatur,2017,201702,3.9,4.9,,,10.0
+578,Lufttemperatur,Mittlere Lufttemperatur,2017,201703,8.6,5.0,,,10.0
+579,Lufttemperatur,Mittlere Lufttemperatur,2017,201704,8.4,9.6,,,10.0
+580,Lufttemperatur,Mittlere Lufttemperatur,2017,201705,15.1,13.5,,,10.0
+581,Lufttemperatur,Mittlere Lufttemperatur,2017,201706,20.3,17.5,,,10.0
+582,Lufttemperatur,Mittlere Lufttemperatur,2017,201707,20.0,20.2,,,10.0
+583,Lufttemperatur,Mittlere Lufttemperatur,2017,201708,20.2,19.1,,,10.0
+584,Lufttemperatur,Mittlere Lufttemperatur,2017,201709,13.2,17.1,,,10.0
+585,Lufttemperatur,Mittlere Lufttemperatur,2017,201710,11.6,9.1,,,10.0
+586,Lufttemperatur,Mittlere Lufttemperatur,2017,201711,5.2,4.8,,,10.0
+587,Lufttemperatur,Mittlere Lufttemperatur,2017,201712,2.1,1.5,,,10.0
+588,Lufttemperatur,Mittlere Lufttemperatur,2016,201601,2.7,2.4,,,11.0
+589,Lufttemperatur,Mittlere Lufttemperatur,2016,201602,4.9,-0.2,,,12.0
+590,Lufttemperatur,Mittlere Lufttemperatur,2016,201603,5.0,6.1,,,11.0
+591,Lufttemperatur,Mittlere Lufttemperatur,2016,201604,9.6,10.2,,,11.0
+592,Lufttemperatur,Mittlere Lufttemperatur,2016,201605,13.5,14.2,,,11.0
+593,Lufttemperatur,Mittlere Lufttemperatur,2016,201606,17.5,18.1,,,11.0
+594,Lufttemperatur,Mittlere Lufttemperatur,2016,201607,20.2,22.6,,,11.0
+595,Lufttemperatur,Mittlere Lufttemperatur,2016,201608,19.1,21.9,,,11.0
+596,Lufttemperatur,Mittlere Lufttemperatur,2016,201609,17.1,14.2,,,11.0
+597,Lufttemperatur,Mittlere Lufttemperatur,2016,201610,9.1,9.0,,,11.0
+598,Lufttemperatur,Mittlere Lufttemperatur,2016,201611,4.8,8.4,,,11.0
+599,Lufttemperatur,Mittlere Lufttemperatur,2016,201612,1.5,5.8,,,10.0
+600,Lufttemperatur,Mittlere Lufttemperatur,2015,201501,2.4,3.3,,,11.0
+601,Lufttemperatur,Mittlere Lufttemperatur,2015,201502,-0.2,4.9,,,11.0
+602,Lufttemperatur,Mittlere Lufttemperatur,2015,201503,6.1,7.9,,,10.0
+603,Lufttemperatur,Mittlere Lufttemperatur,2015,201504,10.2,11.3,,,10.0
+604,Lufttemperatur,Mittlere Lufttemperatur,2015,201505,14.2,13.1,,,10.0
+605,Lufttemperatur,Mittlere Lufttemperatur,2015,201506,18.1,18.3,,,10.0
+606,Lufttemperatur,Mittlere Lufttemperatur,2015,201507,22.6,19.3,,,11.0
+607,Lufttemperatur,Mittlere Lufttemperatur,2015,201508,21.9,17.2,,,11.0
+608,Lufttemperatur,Mittlere Lufttemperatur,2015,201509,14.2,14.5,,,11.0
+609,Lufttemperatur,Mittlere Lufttemperatur,2015,201510,9.0,12.2,,,11.0
+610,Lufttemperatur,Mittlere Lufttemperatur,2015,201511,8.4,6.4,,,11.0
+611,Lufttemperatur,Mittlere Lufttemperatur,2015,201512,5.8,3.7,,,11.0
+612,Lufttemperatur,Mittlere Lufttemperatur,2014,201401,3.3,0.8,,,10.0
+613,Lufttemperatur,Mittlere Lufttemperatur,2014,201402,4.9,-1.2,,,10.0
+614,Lufttemperatur,Mittlere Lufttemperatur,2014,201403,7.9,2.3,,,11.0
+615,Lufttemperatur,Mittlere Lufttemperatur,2014,201404,11.3,9.7,,,11.0
+616,Lufttemperatur,Mittlere Lufttemperatur,2014,201405,13.1,12.1,,,11.0
+617,Lufttemperatur,Mittlere Lufttemperatur,2014,201406,18.3,16.5,,,11.0
+618,Lufttemperatur,Mittlere Lufttemperatur,2014,201407,19.3,21.5,,,11.0
+619,Lufttemperatur,Mittlere Lufttemperatur,2014,201408,17.2,19.3,,,11.0
+620,Lufttemperatur,Mittlere Lufttemperatur,2014,201409,14.5,14.3,,,11.0
+621,Lufttemperatur,Mittlere Lufttemperatur,2014,201410,12.2,10.9,,,11.0
+622,Lufttemperatur,Mittlere Lufttemperatur,2014,201411,6.4,4.7,,,11.0
+623,Lufttemperatur,Mittlere Lufttemperatur,2014,201412,3.7,2.9,,,11.0
+624,Lufttemperatur,Mittlere Lufttemperatur,2013,201301,0.8,1.9,,,10.0
+625,Lufttemperatur,Mittlere Lufttemperatur,2013,201302,-1.2,-3.2,,,10.0
+626,Lufttemperatur,Mittlere Lufttemperatur,2013,201303,2.3,7.7,,,10.0
+627,Lufttemperatur,Mittlere Lufttemperatur,2013,201304,9.7,10.0,,,10.0
+628,Lufttemperatur,Mittlere Lufttemperatur,2013,201305,12.1,15.4,,,9.0
+629,Lufttemperatur,Mittlere Lufttemperatur,2013,201306,16.5,18.2,,,9.0
+630,Lufttemperatur,Mittlere Lufttemperatur,2013,201307,21.5,19.3,,,10.0
+631,Lufttemperatur,Mittlere Lufttemperatur,2013,201308,19.3,20.0,,,9.0
+632,Lufttemperatur,Mittlere Lufttemperatur,2013,201309,14.3,14.9,,,9.0
+633,Lufttemperatur,Mittlere Lufttemperatur,2013,201310,10.9,9.5,,,10.0
+634,Lufttemperatur,Mittlere Lufttemperatur,2013,201311,4.7,5.7,,,9.0
+635,Lufttemperatur,Mittlere Lufttemperatur,2013,201312,2.9,2.4,,,9.0
+636,Lufttemperatur,Mittlere Lufttemperatur,2012,201201,1.9,1.0,,,10.0
+637,Lufttemperatur,Mittlere Lufttemperatur,2012,201202,-3.2,2.0,,,10.0
+638,Lufttemperatur,Mittlere Lufttemperatur,2012,201203,7.7,6.4,,,10.0
+639,Lufttemperatur,Mittlere Lufttemperatur,2012,201204,10.0,12.5,,,10.0
+640,Lufttemperatur,Mittlere Lufttemperatur,2012,201205,15.4,15.1,,,10.0
+641,Lufttemperatur,Mittlere Lufttemperatur,2012,201206,18.2,17.2,,,10.0
+642,Lufttemperatur,Mittlere Lufttemperatur,2012,201207,19.3,17.1,,,10.0
+643,Lufttemperatur,Mittlere Lufttemperatur,2012,201208,20.0,20.0,,,10.0
+644,Lufttemperatur,Mittlere Lufttemperatur,2012,201209,14.9,16.3,,,10.0
+645,Lufttemperatur,Mittlere Lufttemperatur,2012,201210,9.5,9.3,,,10.0
+646,Lufttemperatur,Mittlere Lufttemperatur,2012,201211,5.7,4.1,,,10.0
+647,Lufttemperatur,Mittlere Lufttemperatur,2012,201212,2.4,4.0,,,10.0
+648,Lufttemperatur,Mittlere Lufttemperatur,2011,201101,1.0,-2.5,,,9.0
+649,Lufttemperatur,Mittlere Lufttemperatur,2011,201102,2.0,0.5,,,9.0
+650,Lufttemperatur,Mittlere Lufttemperatur,2011,201103,6.4,5.1,,,9.0
+651,Lufttemperatur,Mittlere Lufttemperatur,2011,201104,12.5,9.8,,,10.0
+652,Lufttemperatur,Mittlere Lufttemperatur,2011,201105,15.1,11.8,,,10.0
+653,Lufttemperatur,Mittlere Lufttemperatur,2011,201106,17.2,17.1,,,10.0
+654,Lufttemperatur,Mittlere Lufttemperatur,2011,201107,17.1,20.7,,,10.0
+655,Lufttemperatur,Mittlere Lufttemperatur,2011,201108,20.0,17.6,,,10.0
+656,Lufttemperatur,Mittlere Lufttemperatur,2011,201109,16.3,12.9,,,10.0
+657,Lufttemperatur,Mittlere Lufttemperatur,2011,201110,9.3,8.5,,,10.0
+658,Lufttemperatur,Mittlere Lufttemperatur,2011,201111,4.1,5.6,,,10.0
+659,Lufttemperatur,Mittlere Lufttemperatur,2011,201112,4.0,-1.2,,,10.0
+660,Lufttemperatur,Mittlere Lufttemperatur,2010,201001,-2.5,-2.3,,,10.0
+661,Lufttemperatur,Mittlere Lufttemperatur,2010,201002,0.5,-0.2,,,10.0
+662,Lufttemperatur,Mittlere Lufttemperatur,2010,201003,5.1,4.1,,,10.0
+663,Lufttemperatur,Mittlere Lufttemperatur,2010,201004,9.8,13.0,,,10.0
+664,Lufttemperatur,Mittlere Lufttemperatur,2010,201005,11.8,15.4,,,9.0
+665,Lufttemperatur,Mittlere Lufttemperatur,2010,201006,17.1,16.2,,,10.0
+666,Lufttemperatur,Mittlere Lufttemperatur,2010,201007,20.7,19.2,,,10.0
+667,Lufttemperatur,Mittlere Lufttemperatur,2010,201008,17.6,20.1,,,9.0
+668,Lufttemperatur,Mittlere Lufttemperatur,2010,201009,12.9,15.7,,,9.0
+669,Lufttemperatur,Mittlere Lufttemperatur,2010,201010,8.5,9.2,,,9.0
+670,Lufttemperatur,Mittlere Lufttemperatur,2010,201011,5.6,7.6,,,9.0
+671,Lufttemperatur,Mittlere Lufttemperatur,2010,201012,-1.2,1.0,,,9.0
+672,Lufttemperatur,Mittlere Lufttemperatur,2009,200901,-2.3,3.7,,,10.0
+673,Lufttemperatur,Mittlere Lufttemperatur,2009,200902,-0.2,4.2,,,9.0
+674,Lufttemperatur,Mittlere Lufttemperatur,2009,200903,4.1,5.1,,,9.0
+675,Lufttemperatur,Mittlere Lufttemperatur,2009,200904,13.0,8.8,,,10.0
+676,Lufttemperatur,Mittlere Lufttemperatur,2009,200905,15.4,15.4,,,10.0
+677,Lufttemperatur,Mittlere Lufttemperatur,2009,200906,16.2,18.2,,,9.0
+678,Lufttemperatur,Mittlere Lufttemperatur,2009,200907,19.2,18.8,,,9.0
+679,Lufttemperatur,Mittlere Lufttemperatur,2009,200908,20.1,18.7,,,10.0
+680,Lufttemperatur,Mittlere Lufttemperatur,2009,200909,15.7,12.9,,,10.0
+681,Lufttemperatur,Mittlere Lufttemperatur,2009,200910,9.2,10.1,,,10.0
+682,Lufttemperatur,Mittlere Lufttemperatur,2009,200911,7.6,5.0,,,10.0
+683,Lufttemperatur,Mittlere Lufttemperatur,2009,200912,1.0,1.1,,,10.0
+684,Lufttemperatur,Mittlere Lufttemperatur,2008,200801,3.7,5.1,,,10.0
+685,Lufttemperatur,Mittlere Lufttemperatur,2008,200802,4.2,5.3,,,10.0
+686,Lufttemperatur,Mittlere Lufttemperatur,2008,200803,5.1,6.7,,,10.0
+687,Lufttemperatur,Mittlere Lufttemperatur,2008,200804,8.8,13.4,,,10.0
+688,Lufttemperatur,Mittlere Lufttemperatur,2008,200805,15.4,15.6,,,10.0
+689,Lufttemperatur,Mittlere Lufttemperatur,2008,200806,18.2,18.9,,,10.0
+690,Lufttemperatur,Mittlere Lufttemperatur,2008,200807,18.8,18.9,,,10.0
+691,Lufttemperatur,Mittlere Lufttemperatur,2008,200808,18.7,17.8,,,10.0
+692,Lufttemperatur,Mittlere Lufttemperatur,2008,200809,12.9,12.9,,,10.0
+693,Lufttemperatur,Mittlere Lufttemperatur,2008,200810,10.1,8.9,,,10.0
+694,Lufttemperatur,Mittlere Lufttemperatur,2008,200811,5.0,2.6,,,10.0
+695,Lufttemperatur,Mittlere Lufttemperatur,2008,200812,1.1,0.8,,,10.0
+696,Lufttemperatur,Mittlere Lufttemperatur,2007,200701,5.1,-3.2,,,11.0
+697,Lufttemperatur,Mittlere Lufttemperatur,2007,200702,5.3,-0.4,,,11.0
+698,Lufttemperatur,Mittlere Lufttemperatur,2007,200703,6.7,2.5,,,11.0
+699,Lufttemperatur,Mittlere Lufttemperatur,2007,200704,13.4,9.2,,,12.0
+700,Lufttemperatur,Mittlere Lufttemperatur,2007,200705,15.6,13.8,,,12.0
+701,Lufttemperatur,Mittlere Lufttemperatur,2007,200706,18.9,18.2,,,12.0
+702,Lufttemperatur,Mittlere Lufttemperatur,2007,200707,18.9,22.8,,,12.0
+703,Lufttemperatur,Mittlere Lufttemperatur,2007,200708,17.8,15.6,,,12.0
+704,Lufttemperatur,Mittlere Lufttemperatur,2007,200709,12.9,17.2,,,11.0
+705,Lufttemperatur,Mittlere Lufttemperatur,2007,200710,8.9,12.7,,,11.0
+706,Lufttemperatur,Mittlere Lufttemperatur,2007,200711,2.6,6.6,,,11.0
+707,Lufttemperatur,Mittlere Lufttemperatur,2007,200712,0.8,3.3,,,11.0
+708,Lufttemperatur,Mittlere Lufttemperatur,2006,200601,-3.2,1.0,,,9.0
+709,Lufttemperatur,Mittlere Lufttemperatur,2006,200602,-0.4,-1.9,,,9.0
+710,Lufttemperatur,Mittlere Lufttemperatur,2006,200603,2.5,4.3,,,9.0
+711,Lufttemperatur,Mittlere Lufttemperatur,2006,200604,9.2,10.1,,,9.0
+712,Lufttemperatur,Mittlere Lufttemperatur,2006,200605,13.8,13.8,,,9.0
+713,Lufttemperatur,Mittlere Lufttemperatur,2006,200606,18.2,18.3,,,9.0
+714,Lufttemperatur,Mittlere Lufttemperatur,2006,200607,22.8,18.6,,,9.0
+715,Lufttemperatur,Mittlere Lufttemperatur,2006,200608,15.6,16.5,,,9.0
+716,Lufttemperatur,Mittlere Lufttemperatur,2006,200609,17.2,15.7,,,9.0
+717,Lufttemperatur,Mittlere Lufttemperatur,2006,200610,12.7,10.7,,,9.0
+718,Lufttemperatur,Mittlere Lufttemperatur,2006,200611,6.6,3.6,,,10.0
+719,Lufttemperatur,Mittlere Lufttemperatur,2006,200612,3.3,-0.4,,,10.0
+720,Lufttemperatur,Mittlere Lufttemperatur,2005,200501,1.0,0.1,,,10.0
+721,Lufttemperatur,Mittlere Lufttemperatur,2005,200502,-1.9,2.6,,,9.0
+722,Lufttemperatur,Mittlere Lufttemperatur,2005,200503,4.3,4.3,,,9.0
+723,Lufttemperatur,Mittlere Lufttemperatur,2005,200504,10.1,10.1,,,9.0
+724,Lufttemperatur,Mittlere Lufttemperatur,2005,200505,13.8,12.0,,,9.0
+725,Lufttemperatur,Mittlere Lufttemperatur,2005,200506,18.3,16.6,,,10.0
+726,Lufttemperatur,Mittlere Lufttemperatur,2005,200507,18.6,18.2,,,10.0
+727,Lufttemperatur,Mittlere Lufttemperatur,2005,200508,16.5,19.6,,,9.0
+728,Lufttemperatur,Mittlere Lufttemperatur,2005,200509,15.7,15.1,,,9.0
+729,Lufttemperatur,Mittlere Lufttemperatur,2005,200510,10.7,11.5,,,9.0
+730,Lufttemperatur,Mittlere Lufttemperatur,2005,200511,3.6,4.1,,,9.0
+731,Lufttemperatur,Mittlere Lufttemperatur,2005,200512,-0.4,0.1,,,9.0
+732,Lufttemperatur,Mittlere Lufttemperatur,2004,200401,0.1,-0.2,,,10.0
+733,Lufttemperatur,Mittlere Lufttemperatur,2004,200402,2.6,-2.8,,,11.0
+734,Lufttemperatur,Mittlere Lufttemperatur,2004,200403,4.3,6.8,,,10.0
+735,Lufttemperatur,Mittlere Lufttemperatur,2004,200404,10.1,9.4,,,11.0
+736,Lufttemperatur,Mittlere Lufttemperatur,2004,200405,12.0,15.8,,,10.0
+737,Lufttemperatur,Mittlere Lufttemperatur,2004,200406,16.6,22.1,,,10.0
+738,Lufttemperatur,Mittlere Lufttemperatur,2004,200407,18.2,20.1,,,10.0
+739,Lufttemperatur,Mittlere Lufttemperatur,2004,200408,19.6,23.3,,,9.0
+740,Lufttemperatur,Mittlere Lufttemperatur,2004,200409,15.1,14.7,,,9.0
+741,Lufttemperatur,Mittlere Lufttemperatur,2004,200410,11.5,6.7,,,10.0
+742,Lufttemperatur,Mittlere Lufttemperatur,2004,200411,4.1,5.2,,,10.0
+743,Lufttemperatur,Mittlere Lufttemperatur,2004,200412,0.1,1.1,,,10.0
+744,Lufttemperatur,Mittlere Lufttemperatur,2003,200301,-0.2,0.6,,,10.0
+745,Lufttemperatur,Mittlere Lufttemperatur,2003,200302,-2.8,5.9,,,10.0
+746,Lufttemperatur,Mittlere Lufttemperatur,2003,200303,6.8,6.9,,,10.0
+747,Lufttemperatur,Mittlere Lufttemperatur,2003,200304,9.4,8.8,,,10.0
+748,Lufttemperatur,Mittlere Lufttemperatur,2003,200305,15.8,14.4,,,10.0
+749,Lufttemperatur,Mittlere Lufttemperatur,2003,200306,22.1,19.7,,,10.0
+750,Lufttemperatur,Mittlere Lufttemperatur,2003,200307,20.1,18.7,,,10.0
+751,Lufttemperatur,Mittlere Lufttemperatur,2003,200308,23.3,18.7,,,11.0
+752,Lufttemperatur,Mittlere Lufttemperatur,2003,200309,14.7,12.8,,,11.0
+753,Lufttemperatur,Mittlere Lufttemperatur,2003,200310,6.7,9.9,,,10.0
+754,Lufttemperatur,Mittlere Lufttemperatur,2003,200311,5.2,6.8,,,10.0
+755,Lufttemperatur,Mittlere Lufttemperatur,2003,200312,1.1,2.3,,,10.0
+756,Lufttemperatur,Mittlere Lufttemperatur,2002,200201,0.6,0.7,,,10.0
+757,Lufttemperatur,Mittlere Lufttemperatur,2002,200202,5.9,3.4,,,10.0
+758,Lufttemperatur,Mittlere Lufttemperatur,2002,200203,6.9,7.0,,,10.0
+759,Lufttemperatur,Mittlere Lufttemperatur,2002,200204,8.8,7.8,,,10.0
+760,Lufttemperatur,Mittlere Lufttemperatur,2002,200205,14.4,16.1,,,10.0
+761,Lufttemperatur,Mittlere Lufttemperatur,2002,200206,19.7,15.3,,,10.0
+762,Lufttemperatur,Mittlere Lufttemperatur,2002,200207,18.7,19.2,,,10.0
+763,Lufttemperatur,Mittlere Lufttemperatur,2002,200208,18.7,19.7,,,10.0
+764,Lufttemperatur,Mittlere Lufttemperatur,2002,200209,12.8,11.8,,,10.0
+765,Lufttemperatur,Mittlere Lufttemperatur,2002,200210,9.9,13.7,,,10.0
+766,Lufttemperatur,Mittlere Lufttemperatur,2002,200211,6.8,2.9,,,10.0
+767,Lufttemperatur,Mittlere Lufttemperatur,2002,200212,2.3,-0.8,,,10.0
+768,Lufttemperatur,Mittlere Lufttemperatur,2001,200101,0.7,-0.4,,,11.0
+769,Lufttemperatur,Mittlere Lufttemperatur,2001,200102,3.4,4.7,,,11.0
+770,Lufttemperatur,Mittlere Lufttemperatur,2001,200103,7.0,5.9,,,11.0
+771,Lufttemperatur,Mittlere Lufttemperatur,2001,200104,7.8,11.3,,,10.0
+772,Lufttemperatur,Mittlere Lufttemperatur,2001,200105,16.1,15.6,,,10.0
+773,Lufttemperatur,Mittlere Lufttemperatur,2001,200106,15.3,18.8,,,10.0
+774,Lufttemperatur,Mittlere Lufttemperatur,2001,200107,19.2,16.5,,,10.0
+775,Lufttemperatur,Mittlere Lufttemperatur,2001,200108,19.7,19.7,,,10.0
+776,Lufttemperatur,Mittlere Lufttemperatur,2001,200109,11.8,14.7,,,10.0
+777,Lufttemperatur,Mittlere Lufttemperatur,2001,200110,13.7,10.8,,,10.0
+778,Lufttemperatur,Mittlere Lufttemperatur,2001,200111,2.9,6.3,,,10.0
+779,Lufttemperatur,Mittlere Lufttemperatur,2001,200112,-0.8,3.2,,,10.0
+780,Lufttemperatur,Mittlere Lufttemperatur,2000,200001,-0.4,,,,0.0
+781,Lufttemperatur,Mittlere Lufttemperatur,2000,200002,4.7,,,,2.0
+782,Lufttemperatur,Mittlere Lufttemperatur,2000,200003,5.9,,,,3.0
+783,Lufttemperatur,Mittlere Lufttemperatur,2000,200004,11.3,,,,5.0
+784,Lufttemperatur,Mittlere Lufttemperatur,2000,200005,15.6,,,,7.0
+785,Lufttemperatur,Mittlere Lufttemperatur,2000,200006,18.8,,,,9.0
+786,Lufttemperatur,Mittlere Lufttemperatur,2000,200007,16.5,,,,10.0
+787,Lufttemperatur,Mittlere Lufttemperatur,2000,200008,19.7,,,,12.0
+788,Lufttemperatur,Mittlere Lufttemperatur,2000,200009,14.7,,,,12.0
+789,Lufttemperatur,Mittlere Lufttemperatur,2000,200010,10.8,,,,12.0
+790,Lufttemperatur,Mittlere Lufttemperatur,2000,200011,6.3,,,,11.0
+791,Lufttemperatur,Mittlere Lufttemperatur,2000,200012,3.2,,,,11.0
+792,Lufttemperatur,Tiefste Lufttemperatur,2021,202101,-7.9,-4.6,,,1.0
+793,Lufttemperatur,Tiefste Lufttemperatur,2021,202102,-11.3,-3.6,,,0.0
+794,Lufttemperatur,Tiefste Lufttemperatur,2021,202103,-4.2,-4.3,,,0.0
+795,Lufttemperatur,Tiefste Lufttemperatur,2021,202104,,-3.4,,,
+796,Lufttemperatur,Tiefste Lufttemperatur,2021,202105,,1.6,,,
+797,Lufttemperatur,Tiefste Lufttemperatur,2021,202106,,8.3,,,
+798,Lufttemperatur,Tiefste Lufttemperatur,2021,202107,,10.6,,,
+799,Lufttemperatur,Tiefste Lufttemperatur,2021,202108,,10.0,,,
+800,Lufttemperatur,Tiefste Lufttemperatur,2021,202109,,4.9,,,
+801,Lufttemperatur,Tiefste Lufttemperatur,2021,202110,,1.3,,,
+802,Lufttemperatur,Tiefste Lufttemperatur,2021,202111,,-4.3,,,
+803,Lufttemperatur,Tiefste Lufttemperatur,2021,202112,,-4.9,,,
+804,Lufttemperatur,Tiefste Lufttemperatur,2020,202001,-4.6,-8.0,,,2.0
+805,Lufttemperatur,Tiefste Lufttemperatur,2020,202002,-3.6,-6.6,,,2.0
+806,Lufttemperatur,Tiefste Lufttemperatur,2020,202003,-4.3,-1.4,,,2.0
+807,Lufttemperatur,Tiefste Lufttemperatur,2020,202004,-3.4,2.4,,,1.0
+808,Lufttemperatur,Tiefste Lufttemperatur,2020,202005,1.6,2.1,,,1.0
+809,Lufttemperatur,Tiefste Lufttemperatur,2020,202006,8.3,9.7,,,1.0
+810,Lufttemperatur,Tiefste Lufttemperatur,2020,202007,10.6,11.0,,,1.0
+811,Lufttemperatur,Tiefste Lufttemperatur,2020,202008,10.0,9.8,,,1.0
+812,Lufttemperatur,Tiefste Lufttemperatur,2020,202009,4.9,3.4,,,1.0
+813,Lufttemperatur,Tiefste Lufttemperatur,2020,202010,1.3,2.9,,,1.0
+814,Lufttemperatur,Tiefste Lufttemperatur,2020,202011,-4.3,-1.7,,,1.0
+815,Lufttemperatur,Tiefste Lufttemperatur,2020,202012,-4.9,-4.8,,,1.0
+816,Lufttemperatur,Tiefste Lufttemperatur,2019,201901,-8.0,-2.5,,,0.0
+817,Lufttemperatur,Tiefste Lufttemperatur,2019,201902,-6.6,-13.4,,,1.0
+818,Lufttemperatur,Tiefste Lufttemperatur,2019,201903,-1.4,-11.3,,,2.0
+819,Lufttemperatur,Tiefste Lufttemperatur,2019,201904,2.4,1.9,,,2.0
+820,Lufttemperatur,Tiefste Lufttemperatur,2019,201905,2.1,8.8,,,1.0
+821,Lufttemperatur,Tiefste Lufttemperatur,2019,201906,9.7,8.9,,,1.0
+822,Lufttemperatur,Tiefste Lufttemperatur,2019,201907,11.0,11.0,,,1.0
+823,Lufttemperatur,Tiefste Lufttemperatur,2019,201908,9.8,8.3,,,1.0
+824,Lufttemperatur,Tiefste Lufttemperatur,2019,201909,3.4,2.7,,,1.0
+825,Lufttemperatur,Tiefste Lufttemperatur,2019,201910,2.9,1.2,,,2.0
+826,Lufttemperatur,Tiefste Lufttemperatur,2019,201911,-1.7,-1.8,,,2.0
+827,Lufttemperatur,Tiefste Lufttemperatur,2019,201912,-4.8,-5.4,,,2.0
+828,Lufttemperatur,Tiefste Lufttemperatur,2018,201801,-2.5,-14.8,,,2.0
+829,Lufttemperatur,Tiefste Lufttemperatur,2018,201802,-13.4,-4.2,,,1.0
+830,Lufttemperatur,Tiefste Lufttemperatur,2018,201803,-11.3,-1.4,,,0.0
+831,Lufttemperatur,Tiefste Lufttemperatur,2018,201804,1.9,-1.3,,,0.0
+832,Lufttemperatur,Tiefste Lufttemperatur,2018,201805,8.8,2.1,,,1.0
+833,Lufttemperatur,Tiefste Lufttemperatur,2018,201806,8.9,7.2,,,1.0
+834,Lufttemperatur,Tiefste Lufttemperatur,2018,201807,11.0,11.4,,,1.0
+835,Lufttemperatur,Tiefste Lufttemperatur,2018,201808,8.3,9.2,,,1.0
+836,Lufttemperatur,Tiefste Lufttemperatur,2018,201809,2.7,5.4,,,1.0
+837,Lufttemperatur,Tiefste Lufttemperatur,2018,201810,1.2,0.3,,,1.0
+838,Lufttemperatur,Tiefste Lufttemperatur,2018,201811,-1.8,-1.6,,,1.0
+839,Lufttemperatur,Tiefste Lufttemperatur,2018,201812,-5.4,-4.5,,,1.0
+840,Lufttemperatur,Tiefste Lufttemperatur,2017,201701,-14.8,-8.1,,,1.0
+841,Lufttemperatur,Tiefste Lufttemperatur,2017,201702,-4.2,-2.6,,,1.0
+842,Lufttemperatur,Tiefste Lufttemperatur,2017,201703,-1.4,-2.7,,,1.0
+843,Lufttemperatur,Tiefste Lufttemperatur,2017,201704,-1.3,0.0,,,1.0
+844,Lufttemperatur,Tiefste Lufttemperatur,2017,201705,2.1,3.0,,,0.0
+845,Lufttemperatur,Tiefste Lufttemperatur,2017,201706,7.2,9.8,,,0.0
+846,Lufttemperatur,Tiefste Lufttemperatur,2017,201707,11.4,9.6,,,0.0
+847,Lufttemperatur,Tiefste Lufttemperatur,2017,201708,9.2,10.0,,,0.0
+848,Lufttemperatur,Tiefste Lufttemperatur,2017,201709,5.4,5.9,,,0.0
+849,Lufttemperatur,Tiefste Lufttemperatur,2017,201710,0.3,1.9,,,0.0
+850,Lufttemperatur,Tiefste Lufttemperatur,2017,201711,-1.6,-5.9,,,1.0
+851,Lufttemperatur,Tiefste Lufttemperatur,2017,201712,-4.5,-6.2,,,1.0
+852,Lufttemperatur,Tiefste Lufttemperatur,2016,201601,-8.1,-5.8,,,1.0
+853,Lufttemperatur,Tiefste Lufttemperatur,2016,201602,-2.6,-9.1,,,2.0
+854,Lufttemperatur,Tiefste Lufttemperatur,2016,201603,-2.7,-2.0,,,2.0
+855,Lufttemperatur,Tiefste Lufttemperatur,2016,201604,0.0,-1.5,,,2.0
+856,Lufttemperatur,Tiefste Lufttemperatur,2016,201605,3.0,5.7,,,2.0
+857,Lufttemperatur,Tiefste Lufttemperatur,2016,201606,9.8,9.0,,,2.0
+858,Lufttemperatur,Tiefste Lufttemperatur,2016,201607,9.6,10.3,,,2.0
+859,Lufttemperatur,Tiefste Lufttemperatur,2016,201608,10.0,10.8,,,2.0
+860,Lufttemperatur,Tiefste Lufttemperatur,2016,201609,5.9,5.9,,,2.0
+861,Lufttemperatur,Tiefste Lufttemperatur,2016,201610,1.9,0.7,,,2.0
+862,Lufttemperatur,Tiefste Lufttemperatur,2016,201611,-5.9,-3.6,,,1.0
+863,Lufttemperatur,Tiefste Lufttemperatur,2016,201612,-6.2,-3.7,,,1.0
+864,Lufttemperatur,Tiefste Lufttemperatur,2015,201501,-5.8,-5.7,,,1.0
+865,Lufttemperatur,Tiefste Lufttemperatur,2015,201502,-9.1,-3.2,,,0.0
+866,Lufttemperatur,Tiefste Lufttemperatur,2015,201503,-2.0,-1.1,,,0.0
+867,Lufttemperatur,Tiefste Lufttemperatur,2015,201504,-1.5,-0.8,,,0.0
+868,Lufttemperatur,Tiefste Lufttemperatur,2015,201505,5.7,1.9,,,1.0
+869,Lufttemperatur,Tiefste Lufttemperatur,2015,201506,9.0,7.8,,,1.0
+870,Lufttemperatur,Tiefste Lufttemperatur,2015,201507,10.3,9.5,,,1.0
+871,Lufttemperatur,Tiefste Lufttemperatur,2015,201508,10.8,9.2,,,1.0
+872,Lufttemperatur,Tiefste Lufttemperatur,2015,201509,5.9,4.0,,,1.0
+873,Lufttemperatur,Tiefste Lufttemperatur,2015,201510,0.7,1.1,,,1.0
+874,Lufttemperatur,Tiefste Lufttemperatur,2015,201511,-3.6,0.4,,,1.0
+875,Lufttemperatur,Tiefste Lufttemperatur,2015,201512,-3.7,-11.6,,,1.0
+876,Lufttemperatur,Tiefste Lufttemperatur,2014,201401,-5.7,-6.7,,,0.0
+877,Lufttemperatur,Tiefste Lufttemperatur,2014,201402,-3.2,-9.2,,,1.0
+878,Lufttemperatur,Tiefste Lufttemperatur,2014,201403,-1.1,-5.6,,,1.0
+879,Lufttemperatur,Tiefste Lufttemperatur,2014,201404,-0.8,-1.9,,,1.0
+880,Lufttemperatur,Tiefste Lufttemperatur,2014,201405,1.9,3.9,,,1.0
+881,Lufttemperatur,Tiefste Lufttemperatur,2014,201406,7.8,5.8,,,1.0
+882,Lufttemperatur,Tiefste Lufttemperatur,2014,201407,9.5,11.2,,,1.0
+883,Lufttemperatur,Tiefste Lufttemperatur,2014,201408,9.2,9.7,,,1.0
+884,Lufttemperatur,Tiefste Lufttemperatur,2014,201409,4.0,6.0,,,1.0
+885,Lufttemperatur,Tiefste Lufttemperatur,2014,201410,1.1,1.4,,,1.0
+886,Lufttemperatur,Tiefste Lufttemperatur,2014,201411,0.4,-6.1,,,2.0
+887,Lufttemperatur,Tiefste Lufttemperatur,2014,201412,-11.6,-5.0,,,1.0
+888,Lufttemperatur,Tiefste Lufttemperatur,2013,201301,-6.7,-7.4,,,-1.0
+889,Lufttemperatur,Tiefste Lufttemperatur,2013,201302,-9.2,-16.6,,,0.0
+890,Lufttemperatur,Tiefste Lufttemperatur,2013,201303,-5.6,-2.1,,,-1.0
+891,Lufttemperatur,Tiefste Lufttemperatur,2013,201304,-1.9,-1.9,,,-1.0
+892,Lufttemperatur,Tiefste Lufttemperatur,2013,201305,3.9,2.0,,,0.0
+893,Lufttemperatur,Tiefste Lufttemperatur,2013,201306,5.8,8.1,,,-1.0
+894,Lufttemperatur,Tiefste Lufttemperatur,2013,201307,11.2,8.6,,,0.0
+895,Lufttemperatur,Tiefste Lufttemperatur,2013,201308,9.7,10.3,,,0.0
+896,Lufttemperatur,Tiefste Lufttemperatur,2013,201309,6.0,4.9,,,0.0
+897,Lufttemperatur,Tiefste Lufttemperatur,2013,201310,1.4,-1.9,,,0.0
+898,Lufttemperatur,Tiefste Lufttemperatur,2013,201311,-6.1,-2.6,,,0.0
+899,Lufttemperatur,Tiefste Lufttemperatur,2013,201312,-5.0,-12.2,,,0.0
+900,Lufttemperatur,Tiefste Lufttemperatur,2012,201201,-7.4,-10.5,,,1.0
+901,Lufttemperatur,Tiefste Lufttemperatur,2012,201202,-16.6,-8.7,,,0.0
+902,Lufttemperatur,Tiefste Lufttemperatur,2012,201203,-2.1,-5.3,,,0.0
+903,Lufttemperatur,Tiefste Lufttemperatur,2012,201204,-1.9,0.5,,,0.0
+904,Lufttemperatur,Tiefste Lufttemperatur,2012,201205,2.0,0.6,,,0.0
+905,Lufttemperatur,Tiefste Lufttemperatur,2012,201206,8.1,9.6,,,0.0
+906,Lufttemperatur,Tiefste Lufttemperatur,2012,201207,8.6,9.2,,,0.0
+907,Lufttemperatur,Tiefste Lufttemperatur,2012,201208,10.3,9.7,,,0.0
+908,Lufttemperatur,Tiefste Lufttemperatur,2012,201209,4.9,7.1,,,0.0
+909,Lufttemperatur,Tiefste Lufttemperatur,2012,201210,-1.9,-2.5,,,0.0
+910,Lufttemperatur,Tiefste Lufttemperatur,2012,201211,-2.6,-2.8,,,0.0
+911,Lufttemperatur,Tiefste Lufttemperatur,2012,201212,-12.2,-3.1,,,-1.0
+912,Lufttemperatur,Tiefste Lufttemperatur,2011,201101,-10.5,-9.6,,,-1.0
+913,Lufttemperatur,Tiefste Lufttemperatur,2011,201102,-8.7,-9.6,,,-1.0
+914,Lufttemperatur,Tiefste Lufttemperatur,2011,201103,-5.3,-10.9,,,-1.0
+915,Lufttemperatur,Tiefste Lufttemperatur,2011,201104,0.5,0.3,,,-1.0
+916,Lufttemperatur,Tiefste Lufttemperatur,2011,201105,0.6,4.4,,,-1.0
+917,Lufttemperatur,Tiefste Lufttemperatur,2011,201106,9.6,7.6,,,-1.0
+918,Lufttemperatur,Tiefste Lufttemperatur,2011,201107,9.2,9.9,,,-1.0
+919,Lufttemperatur,Tiefste Lufttemperatur,2011,201108,9.7,8.0,,,-1.0
+920,Lufttemperatur,Tiefste Lufttemperatur,2011,201109,7.1,5.4,,,-1.0
+921,Lufttemperatur,Tiefste Lufttemperatur,2011,201110,-2.5,-1.8,,,-1.0
+922,Lufttemperatur,Tiefste Lufttemperatur,2011,201111,-2.8,-8.5,,,0.0
+923,Lufttemperatur,Tiefste Lufttemperatur,2011,201112,-3.1,-8.6,,,0.0
+924,Lufttemperatur,Tiefste Lufttemperatur,2010,201001,-9.6,-12.3,,,0.0
+925,Lufttemperatur,Tiefste Lufttemperatur,2010,201002,-9.6,-10.8,,,0.0
+926,Lufttemperatur,Tiefste Lufttemperatur,2010,201003,-10.9,-3.5,,,-1.0
+927,Lufttemperatur,Tiefste Lufttemperatur,2010,201004,0.3,1.8,,,-1.0
+928,Lufttemperatur,Tiefste Lufttemperatur,2010,201005,4.4,3.0,,,-1.0
+929,Lufttemperatur,Tiefste Lufttemperatur,2010,201006,7.6,8.4,,,-1.0
+930,Lufttemperatur,Tiefste Lufttemperatur,2010,201007,9.9,9.5,,,-1.0
+931,Lufttemperatur,Tiefste Lufttemperatur,2010,201008,8.0,8.5,,,-1.0
+932,Lufttemperatur,Tiefste Lufttemperatur,2010,201009,5.4,7.7,,,-1.0
+933,Lufttemperatur,Tiefste Lufttemperatur,2010,201010,-1.8,-1.4,,,-1.0
+934,Lufttemperatur,Tiefste Lufttemperatur,2010,201011,-8.5,-0.9,,,-2.0
+935,Lufttemperatur,Tiefste Lufttemperatur,2010,201012,-8.6,-15.8,,,-1.0
+936,Lufttemperatur,Tiefste Lufttemperatur,2009,200901,-12.3,-5.8,,,-1.0
+937,Lufttemperatur,Tiefste Lufttemperatur,2009,200902,-10.8,-7.1,,,-1.0
+938,Lufttemperatur,Tiefste Lufttemperatur,2009,200903,-3.5,-5.6,,,-1.0
+939,Lufttemperatur,Tiefste Lufttemperatur,2009,200904,1.8,-1.7,,,0.0
+940,Lufttemperatur,Tiefste Lufttemperatur,2009,200905,3.0,5.1,,,-1.0
+941,Lufttemperatur,Tiefste Lufttemperatur,2009,200906,8.4,7.0,,,0.0
+942,Lufttemperatur,Tiefste Lufttemperatur,2009,200907,9.5,9.9,,,0.0
+943,Lufttemperatur,Tiefste Lufttemperatur,2009,200908,8.5,8.1,,,0.0
+944,Lufttemperatur,Tiefste Lufttemperatur,2009,200909,7.7,2.5,,,0.0
+945,Lufttemperatur,Tiefste Lufttemperatur,2009,200910,-1.4,0.0,,,0.0
+946,Lufttemperatur,Tiefste Lufttemperatur,2009,200911,-0.9,-4.3,,,0.0
+947,Lufttemperatur,Tiefste Lufttemperatur,2009,200912,-15.8,-7.9,,,0.0
+948,Lufttemperatur,Tiefste Lufttemperatur,2008,200801,-5.8,-7.9,,,1.0
+949,Lufttemperatur,Tiefste Lufttemperatur,2008,200802,-7.1,-2.5,,,1.0
+950,Lufttemperatur,Tiefste Lufttemperatur,2008,200803,-5.6,-1.3,,,0.0
+951,Lufttemperatur,Tiefste Lufttemperatur,2008,200804,-1.7,0.5,,,0.0
+952,Lufttemperatur,Tiefste Lufttemperatur,2008,200805,5.1,4.4,,,0.0
+953,Lufttemperatur,Tiefste Lufttemperatur,2008,200806,7.0,8.8,,,0.0
+954,Lufttemperatur,Tiefste Lufttemperatur,2008,200807,9.9,8.7,,,0.0
+955,Lufttemperatur,Tiefste Lufttemperatur,2008,200808,8.1,8.3,,,0.0
+956,Lufttemperatur,Tiefste Lufttemperatur,2008,200809,2.5,5.4,,,0.0
+957,Lufttemperatur,Tiefste Lufttemperatur,2008,200810,0.0,-0.2,,,0.0
+958,Lufttemperatur,Tiefste Lufttemperatur,2008,200811,-4.3,-6.8,,,0.0
+959,Lufttemperatur,Tiefste Lufttemperatur,2008,200812,-7.9,-8.9,,,0.0
+960,Lufttemperatur,Tiefste Lufttemperatur,2007,200701,-7.9,-13.3,,,0.0
+961,Lufttemperatur,Tiefste Lufttemperatur,2007,200702,-2.5,-10.8,,,1.0
+962,Lufttemperatur,Tiefste Lufttemperatur,2007,200703,-1.3,-7.6,,,1.0
+963,Lufttemperatur,Tiefste Lufttemperatur,2007,200704,0.5,-2.0,,,1.0
+964,Lufttemperatur,Tiefste Lufttemperatur,2007,200705,4.4,3.7,,,2.0
+965,Lufttemperatur,Tiefste Lufttemperatur,2007,200706,8.8,3.7,,,2.0
+966,Lufttemperatur,Tiefste Lufttemperatur,2007,200707,8.7,12.9,,,2.0
+967,Lufttemperatur,Tiefste Lufttemperatur,2007,200708,8.3,8.3,,,2.0
+968,Lufttemperatur,Tiefste Lufttemperatur,2007,200709,5.4,7.7,,,1.0
+969,Lufttemperatur,Tiefste Lufttemperatur,2007,200710,-0.2,0.3,,,1.0
+970,Lufttemperatur,Tiefste Lufttemperatur,2007,200711,-6.8,-2.0,,,1.0
+971,Lufttemperatur,Tiefste Lufttemperatur,2007,200712,-8.9,-5.8,,,1.0
+972,Lufttemperatur,Tiefste Lufttemperatur,2006,200601,-13.3,-11.7,,,-2.0
+973,Lufttemperatur,Tiefste Lufttemperatur,2006,200602,-10.8,-14.3,,,-2.0
+974,Lufttemperatur,Tiefste Lufttemperatur,2006,200603,-7.6,-16.0,,,-1.0
+975,Lufttemperatur,Tiefste Lufttemperatur,2006,200604,-2.0,0.1,,,-1.0
+976,Lufttemperatur,Tiefste Lufttemperatur,2006,200605,3.7,1.9,,,-1.0
+977,Lufttemperatur,Tiefste Lufttemperatur,2006,200606,3.7,6.4,,,-2.0
+978,Lufttemperatur,Tiefste Lufttemperatur,2006,200607,12.9,9.2,,,-1.0
+979,Lufttemperatur,Tiefste Lufttemperatur,2006,200608,8.3,8.8,,,-1.0
+980,Lufttemperatur,Tiefste Lufttemperatur,2006,200609,7.7,5.8,,,-1.0
+981,Lufttemperatur,Tiefste Lufttemperatur,2006,200610,0.3,0.9,,,-1.0
+982,Lufttemperatur,Tiefste Lufttemperatur,2006,200611,-2.0,-6.5,,,-1.0
+983,Lufttemperatur,Tiefste Lufttemperatur,2006,200612,-5.8,-9.9,,,0.0
+984,Lufttemperatur,Tiefste Lufttemperatur,2005,200501,-11.7,-11.5,,,0.0
+985,Lufttemperatur,Tiefste Lufttemperatur,2005,200502,-14.3,-6.7,,,-1.0
+986,Lufttemperatur,Tiefste Lufttemperatur,2005,200503,-16.0,-6.0,,,-2.0
+987,Lufttemperatur,Tiefste Lufttemperatur,2005,200504,0.1,-0.9,,,-2.0
+988,Lufttemperatur,Tiefste Lufttemperatur,2005,200505,1.9,2.1,,,-2.0
+989,Lufttemperatur,Tiefste Lufttemperatur,2005,200506,6.4,7.7,,,-2.0
+990,Lufttemperatur,Tiefste Lufttemperatur,2005,200507,9.2,9.9,,,-2.0
+991,Lufttemperatur,Tiefste Lufttemperatur,2005,200508,8.8,11.0,,,-2.0
+992,Lufttemperatur,Tiefste Lufttemperatur,2005,200509,5.8,6.3,,,-2.0
+993,Lufttemperatur,Tiefste Lufttemperatur,2005,200510,0.9,1.9,,,-2.0
+994,Lufttemperatur,Tiefste Lufttemperatur,2005,200511,-6.5,-5.0,,,-2.0
+995,Lufttemperatur,Tiefste Lufttemperatur,2005,200512,-9.9,-10.4,,,-2.0
+996,Lufttemperatur,Tiefste Lufttemperatur,2004,200401,-11.5,-13.1,,,-1.0
+997,Lufttemperatur,Tiefste Lufttemperatur,2004,200402,-6.7,-12.2,,,0.0
+998,Lufttemperatur,Tiefste Lufttemperatur,2004,200403,-6.0,-3.5,,,-1.0
+999,Lufttemperatur,Tiefste Lufttemperatur,2004,200404,-0.9,-4.8,,,0.0
+1000,Lufttemperatur,Tiefste Lufttemperatur,2004,200405,2.1,2.8,,,0.0
+1001,Lufttemperatur,Tiefste Lufttemperatur,2004,200406,7.7,11.0,,,-1.0
+1002,Lufttemperatur,Tiefste Lufttemperatur,2004,200407,9.9,11.3,,,-1.0
+1003,Lufttemperatur,Tiefste Lufttemperatur,2004,200408,11.0,10.6,,,-1.0
+1004,Lufttemperatur,Tiefste Lufttemperatur,2004,200409,6.3,4.4,,,0.0
+1005,Lufttemperatur,Tiefste Lufttemperatur,2004,200410,1.9,-4.2,,,0.0
+1006,Lufttemperatur,Tiefste Lufttemperatur,2004,200411,-5.0,-1.9,,,0.0
+1007,Lufttemperatur,Tiefste Lufttemperatur,2004,200412,-10.4,-11.4,,,0.0
+1008,Lufttemperatur,Tiefste Lufttemperatur,2003,200301,-13.1,-12.5,,,1.0
+1009,Lufttemperatur,Tiefste Lufttemperatur,2003,200302,-12.2,-3.7,,,0.0
+1010,Lufttemperatur,Tiefste Lufttemperatur,2003,200303,-3.5,-2.4,,,0.0
+1011,Lufttemperatur,Tiefste Lufttemperatur,2003,200304,-4.8,-1.8,,,0.0
+1012,Lufttemperatur,Tiefste Lufttemperatur,2003,200305,2.8,5.5,,,0.0
+1013,Lufttemperatur,Tiefste Lufttemperatur,2003,200306,11.0,9.0,,,0.0
+1014,Lufttemperatur,Tiefste Lufttemperatur,2003,200307,11.3,9.3,,,0.0
+1015,Lufttemperatur,Tiefste Lufttemperatur,2003,200308,10.6,12.0,,,0.0
+1016,Lufttemperatur,Tiefste Lufttemperatur,2003,200309,4.4,0.6,,,0.0
+1017,Lufttemperatur,Tiefste Lufttemperatur,2003,200310,-4.2,2.3,,,0.0
+1018,Lufttemperatur,Tiefste Lufttemperatur,2003,200311,-1.9,0.5,,,-1.0
+1019,Lufttemperatur,Tiefste Lufttemperatur,2003,200312,-11.4,-8.0,,,-1.0
+1020,Lufttemperatur,Tiefste Lufttemperatur,2002,200201,-12.5,-10.3,,,0.0
+1021,Lufttemperatur,Tiefste Lufttemperatur,2002,200202,-3.7,-6.1,,,0.0
+1022,Lufttemperatur,Tiefste Lufttemperatur,2002,200203,-2.4,-1.6,,,0.0
+1023,Lufttemperatur,Tiefste Lufttemperatur,2002,200204,-1.8,-2.3,,,0.0
+1024,Lufttemperatur,Tiefste Lufttemperatur,2002,200205,5.5,6.6,,,0.0
+1025,Lufttemperatur,Tiefste Lufttemperatur,2002,200206,9.0,5.7,,,0.0
+1026,Lufttemperatur,Tiefste Lufttemperatur,2002,200207,9.3,10.5,,,0.0
+1027,Lufttemperatur,Tiefste Lufttemperatur,2002,200208,12.0,9.8,,,0.0
+1028,Lufttemperatur,Tiefste Lufttemperatur,2002,200209,0.6,3.2,,,0.0
+1029,Lufttemperatur,Tiefste Lufttemperatur,2002,200210,2.3,5.9,,,0.0
+1030,Lufttemperatur,Tiefste Lufttemperatur,2002,200211,0.5,-4.8,,,0.0
+1031,Lufttemperatur,Tiefste Lufttemperatur,2002,200212,-8.0,-15.5,,,1.0
+1032,Lufttemperatur,Tiefste Lufttemperatur,2001,200101,-10.3,-16.4,,,1.0
+1033,Lufttemperatur,Tiefste Lufttemperatur,2001,200102,-6.1,-3.3,,,1.0
+1034,Lufttemperatur,Tiefste Lufttemperatur,2001,200103,-1.6,-2.7,,,1.0
+1035,Lufttemperatur,Tiefste Lufttemperatur,2001,200104,-2.3,-1.2,,,1.0
+1036,Lufttemperatur,Tiefste Lufttemperatur,2001,200105,6.6,5.3,,,1.0
+1037,Lufttemperatur,Tiefste Lufttemperatur,2001,200106,5.7,6.7,,,1.0
+1038,Lufttemperatur,Tiefste Lufttemperatur,2001,200107,10.5,8.5,,,1.0
+1039,Lufttemperatur,Tiefste Lufttemperatur,2001,200108,9.8,10.9,,,1.0
+1040,Lufttemperatur,Tiefste Lufttemperatur,2001,200109,3.2,6.6,,,1.0
+1041,Lufttemperatur,Tiefste Lufttemperatur,2001,200110,5.9,4.5,,,1.0
+1042,Lufttemperatur,Tiefste Lufttemperatur,2001,200111,-4.8,-2.4,,,1.0
+1043,Lufttemperatur,Tiefste Lufttemperatur,2001,200112,-15.5,-8.1,,,0.0
+1044,Lufttemperatur,Tiefste Lufttemperatur,2000,200001,-16.4,,,,-16.0
+1045,Lufttemperatur,Tiefste Lufttemperatur,2000,200002,-3.3,,,,-10.0
+1046,Lufttemperatur,Tiefste Lufttemperatur,2000,200003,-2.7,,,,-7.0
+1047,Lufttemperatur,Tiefste Lufttemperatur,2000,200004,-1.2,,,,-6.0
+1048,Lufttemperatur,Tiefste Lufttemperatur,2000,200005,5.3,,,,-4.0
+1049,Lufttemperatur,Tiefste Lufttemperatur,2000,200006,6.7,,,,-2.0
+1050,Lufttemperatur,Tiefste Lufttemperatur,2000,200007,8.5,,,,0.0
+1051,Lufttemperatur,Tiefste Lufttemperatur,2000,200008,10.9,,,,1.0
+1052,Lufttemperatur,Tiefste Lufttemperatur,2000,200009,6.6,,,,2.0
+1053,Lufttemperatur,Tiefste Lufttemperatur,2000,200010,4.5,,,,2.0
+1054,Lufttemperatur,Tiefste Lufttemperatur,2000,200011,-2.4,,,,2.0
+1055,Lufttemperatur,Tiefste Lufttemperatur,2000,200012,-8.1,,,,1.0
+1056,Niederschlag,Niederschlagsmenge insgesamt,2021,202101,66.0,23.0,100.0,186.96,84.0
+1057,Niederschlag,Niederschlagsmenge insgesamt,2021,202102,46.0,122.0,-30.3,-62.3,77.0
+1058,Niederschlag,Niederschlagsmenge insgesamt,2021,202103,42.0,61.0,-8.7,-31.15,76.0
+1059,Niederschlag,Niederschlagsmenge insgesamt,2021,202104,,32.0,,,
+1060,Niederschlag,Niederschlagsmenge insgesamt,2021,202105,,65.0,,,
+1061,Niederschlag,Niederschlagsmenge insgesamt,2021,202106,,207.0,,,
+1062,Niederschlag,Niederschlagsmenge insgesamt,2021,202107,,95.0,,,
+1063,Niederschlag,Niederschlagsmenge insgesamt,2021,202108,,151.0,,,
+1064,Niederschlag,Niederschlagsmenge insgesamt,2021,202109,,63.0,,,
+1065,Niederschlag,Niederschlagsmenge insgesamt,2021,202110,,93.0,,,
+1066,Niederschlag,Niederschlagsmenge insgesamt,2021,202111,,17.0,,,
+1067,Niederschlag,Niederschlagsmenge insgesamt,2021,202112,,33.0,,,
+1068,Niederschlag,Niederschlagsmenge insgesamt,2020,202001,23.0,88.0,-51.06,-73.86,75.0
+1069,Niederschlag,Niederschlagsmenge insgesamt,2020,202002,122.0,52.0,430.43,134.62,81.0
+1070,Niederschlag,Niederschlagsmenge insgesamt,2020,202003,61.0,44.0,-50.0,38.64,82.0
+1071,Niederschlag,Niederschlagsmenge insgesamt,2020,202004,32.0,21.0,-47.54,52.38,83.0
+1072,Niederschlag,Niederschlagsmenge insgesamt,2020,202005,65.0,192.0,103.13,-66.15,73.0
+1073,Niederschlag,Niederschlagsmenge insgesamt,2020,202006,207.0,69.0,218.46,200.0,84.0
+1074,Niederschlag,Niederschlagsmenge insgesamt,2020,202007,95.0,124.0,-54.11,-23.39,82.0
+1075,Niederschlag,Niederschlagsmenge insgesamt,2020,202008,151.0,151.0,58.95,0.0,82.0
+1076,Niederschlag,Niederschlagsmenge insgesamt,2020,202009,63.0,66.0,-58.28,-4.55,82.0
+1077,Niederschlag,Niederschlagsmenge insgesamt,2020,202010,93.0,86.0,47.62,8.14,82.0
+1078,Niederschlag,Niederschlagsmenge insgesamt,2020,202011,17.0,26.0,-81.72,-34.62,81.0
+1079,Niederschlag,Niederschlagsmenge insgesamt,2020,202012,33.0,47.0,94.12,-29.79,80.0
+1080,Niederschlag,Niederschlagsmenge insgesamt,2019,201901,88.0,105.0,4.76,-16.19,78.0
+1081,Niederschlag,Niederschlagsmenge insgesamt,2019,201902,52.0,53.0,-40.91,-1.89,77.0
+1082,Niederschlag,Niederschlagsmenge insgesamt,2019,201903,44.0,39.0,-15.38,12.82,78.0
+1083,Niederschlag,Niederschlagsmenge insgesamt,2019,201904,21.0,10.0,-52.27,110.0,79.0
+1084,Niederschlag,Niederschlagsmenge insgesamt,2019,201905,192.0,141.0,814.29,36.17,83.0
+1085,Niederschlag,Niederschlagsmenge insgesamt,2019,201906,69.0,133.0,-64.06,-48.12,78.0
+1086,Niederschlag,Niederschlagsmenge insgesamt,2019,201907,124.0,92.0,79.71,34.78,80.0
+1087,Niederschlag,Niederschlagsmenge insgesamt,2019,201908,151.0,101.0,21.77,49.5,85.0
+1088,Niederschlag,Niederschlagsmenge insgesamt,2019,201909,66.0,118.0,-56.29,-44.07,80.0
+1089,Niederschlag,Niederschlagsmenge insgesamt,2019,201910,86.0,46.0,30.3,86.96,84.0
+1090,Niederschlag,Niederschlagsmenge insgesamt,2019,201911,26.0,25.0,-69.77,4.0,84.0
+1091,Niederschlag,Niederschlagsmenge insgesamt,2019,201912,47.0,84.0,80.77,-44.05,81.0
+1092,Niederschlag,Niederschlagsmenge insgesamt,2018,201801,105.0,45.0,75.0,133.33,82.0
+1093,Niederschlag,Niederschlagsmenge insgesamt,2018,201802,53.0,36.0,-49.52,47.22,83.0
+1094,Niederschlag,Niederschlagsmenge insgesamt,2018,201803,39.0,39.0,-26.42,0.0,83.0
+1095,Niederschlag,Niederschlagsmenge insgesamt,2018,201804,10.0,104.0,-74.36,-90.38,75.0
+1096,Niederschlag,Niederschlagsmenge insgesamt,2018,201805,141.0,98.0,1310.0,43.88,79.0
+1097,Niederschlag,Niederschlagsmenge insgesamt,2018,201806,133.0,77.0,-5.67,72.73,84.0
+1098,Niederschlag,Niederschlagsmenge insgesamt,2018,201807,92.0,138.0,-30.83,-33.33,80.0
+1099,Niederschlag,Niederschlagsmenge insgesamt,2018,201808,101.0,139.0,9.78,-27.34,77.0
+1100,Niederschlag,Niederschlagsmenge insgesamt,2018,201809,118.0,55.0,16.83,114.55,82.0
+1101,Niederschlag,Niederschlagsmenge insgesamt,2018,201810,46.0,59.0,-61.02,-22.03,81.0
+1102,Niederschlag,Niederschlagsmenge insgesamt,2018,201811,25.0,72.0,-45.65,-65.28,77.0
+1103,Niederschlag,Niederschlagsmenge insgesamt,2018,201812,84.0,60.0,236.0,40.0,79.0
+1104,Niederschlag,Niederschlagsmenge insgesamt,2017,201701,45.0,93.0,800.0,-51.61,75.0
+1105,Niederschlag,Niederschlagsmenge insgesamt,2017,201702,36.0,75.0,-20.0,-52.0,72.0
+1106,Niederschlag,Niederschlagsmenge insgesamt,2017,201703,39.0,43.0,8.33,-9.3,72.0
+1107,Niederschlag,Niederschlagsmenge insgesamt,2017,201704,104.0,62.0,166.67,67.74,75.0
+1108,Niederschlag,Niederschlagsmenge insgesamt,2017,201705,98.0,119.0,-5.77,-17.65,74.0
+1109,Niederschlag,Niederschlagsmenge insgesamt,2017,201706,77.0,104.0,-21.43,-25.96,71.0
+1110,Niederschlag,Niederschlagsmenge insgesamt,2017,201707,138.0,116.0,79.22,18.97,73.0
+1111,Niederschlag,Niederschlagsmenge insgesamt,2017,201708,139.0,105.0,0.72,32.38,76.0
+1112,Niederschlag,Niederschlagsmenge insgesamt,2017,201709,55.0,117.0,-60.43,-52.99,71.0
+1113,Niederschlag,Niederschlagsmenge insgesamt,2017,201710,59.0,45.0,7.27,31.11,72.0
+1114,Niederschlag,Niederschlagsmenge insgesamt,2017,201711,72.0,69.0,22.03,4.35,72.0
+1115,Niederschlag,Niederschlagsmenge insgesamt,2017,201712,60.0,5.0,-16.67,1100.0,77.0
+1116,Niederschlag,Niederschlagsmenge insgesamt,2016,201601,93.0,87.0,287.5,6.9,71.0
+1117,Niederschlag,Niederschlagsmenge insgesamt,2016,201602,75.0,20.0,-19.35,275.0,76.0
+1118,Niederschlag,Niederschlagsmenge insgesamt,2016,201603,43.0,66.0,-42.67,-34.85,74.0
+1119,Niederschlag,Niederschlagsmenge insgesamt,2016,201604,62.0,62.0,44.19,0.0,74.0
+1120,Niederschlag,Niederschlagsmenge insgesamt,2016,201605,119.0,136.0,91.94,-12.5,73.0
+1121,Niederschlag,Niederschlagsmenge insgesamt,2016,201606,104.0,130.0,-12.61,-20.0,70.0
+1122,Niederschlag,Niederschlagsmenge insgesamt,2016,201607,116.0,43.0,11.54,169.77,76.0
+1123,Niederschlag,Niederschlagsmenge insgesamt,2016,201608,105.0,66.0,-9.48,59.09,80.0
+1124,Niederschlag,Niederschlagsmenge insgesamt,2016,201609,117.0,58.0,11.43,101.72,85.0
+1125,Niederschlag,Niederschlagsmenge insgesamt,2016,201610,45.0,89.0,-61.54,-49.44,81.0
+1126,Niederschlag,Niederschlagsmenge insgesamt,2016,201611,69.0,68.0,53.33,1.47,81.0
+1127,Niederschlag,Niederschlagsmenge insgesamt,2016,201612,5.0,24.0,-92.75,-79.17,79.0
+1128,Niederschlag,Niederschlagsmenge insgesamt,2015,201501,87.0,68.0,31.82,27.94,73.0
+1129,Niederschlag,Niederschlagsmenge insgesamt,2015,201502,20.0,15.0,-77.01,33.33,73.0
+1130,Niederschlag,Niederschlagsmenge insgesamt,2015,201503,66.0,28.0,230.0,135.71,76.0
+1131,Niederschlag,Niederschlagsmenge insgesamt,2015,201504,62.0,38.0,-6.06,63.16,78.0
+1132,Niederschlag,Niederschlagsmenge insgesamt,2015,201505,136.0,74.0,119.35,83.78,84.0
+1133,Niederschlag,Niederschlagsmenge insgesamt,2015,201506,130.0,67.0,-4.41,94.03,89.0
+1134,Niederschlag,Niederschlagsmenge insgesamt,2015,201507,43.0,142.0,-66.92,-69.72,81.0
+1135,Niederschlag,Niederschlagsmenge insgesamt,2015,201508,66.0,125.0,53.49,-47.2,76.0
+1136,Niederschlag,Niederschlagsmenge insgesamt,2015,201509,58.0,102.0,-12.12,-43.14,72.0
+1137,Niederschlag,Niederschlagsmenge insgesamt,2015,201510,89.0,85.0,53.45,4.71,72.0
+1138,Niederschlag,Niederschlagsmenge insgesamt,2015,201511,68.0,45.0,-23.6,51.11,74.0
+1139,Niederschlag,Niederschlagsmenge insgesamt,2015,201512,24.0,66.0,-64.71,-63.64,71.0
+1140,Niederschlag,Niederschlagsmenge insgesamt,2014,201401,68.0,81.0,655.56,-16.05,76.0
+1141,Niederschlag,Niederschlagsmenge insgesamt,2014,201402,15.0,84.0,-77.94,-82.14,71.0
+1142,Niederschlag,Niederschlagsmenge insgesamt,2014,201403,28.0,49.0,86.67,-42.86,69.0
+1143,Niederschlag,Niederschlagsmenge insgesamt,2014,201404,38.0,24.0,35.71,58.33,70.0
+1144,Niederschlag,Niederschlagsmenge insgesamt,2014,201405,74.0,155.0,94.74,-52.26,63.0
+1145,Niederschlag,Niederschlagsmenge insgesamt,2014,201406,67.0,173.0,-9.46,-61.27,55.0
+1146,Niederschlag,Niederschlagsmenge insgesamt,2014,201407,142.0,21.0,111.94,576.19,65.0
+1147,Niederschlag,Niederschlagsmenge insgesamt,2014,201408,125.0,94.0,-11.97,32.98,67.0
+1148,Niederschlag,Niederschlagsmenge insgesamt,2014,201409,102.0,89.0,-18.4,14.61,68.0
+1149,Niederschlag,Niederschlagsmenge insgesamt,2014,201410,85.0,94.0,-16.67,-9.57,68.0
+1150,Niederschlag,Niederschlagsmenge insgesamt,2014,201411,45.0,57.0,-47.06,-21.05,67.0
+1151,Niederschlag,Niederschlagsmenge insgesamt,2014,201412,66.0,9.0,46.67,633.33,71.0
+1152,Niederschlag,Niederschlagsmenge insgesamt,2013,201301,81.0,95.0,-1.22,-14.74,79.0
+1153,Niederschlag,Niederschlagsmenge insgesamt,2013,201302,84.0,22.0,3.7,281.82,84.0
+1154,Niederschlag,Niederschlagsmenge insgesamt,2013,201303,49.0,24.0,-41.67,104.17,86.0
+1155,Niederschlag,Niederschlagsmenge insgesamt,2013,201304,24.0,70.0,-51.02,-65.71,82.0
+1156,Niederschlag,Niederschlagsmenge insgesamt,2013,201305,155.0,66.0,545.83,134.85,90.0
+1157,Niederschlag,Niederschlagsmenge insgesamt,2013,201306,173.0,187.0,11.61,-7.49,89.0
+1158,Niederschlag,Niederschlagsmenge insgesamt,2013,201307,21.0,66.0,-87.86,-68.18,85.0
+1159,Niederschlag,Niederschlagsmenge insgesamt,2013,201308,94.0,175.0,347.62,-46.29,78.0
+1160,Niederschlag,Niederschlagsmenge insgesamt,2013,201309,89.0,56.0,-5.32,58.93,81.0
+1161,Niederschlag,Niederschlagsmenge insgesamt,2013,201310,94.0,58.0,5.62,62.07,84.0
+1162,Niederschlag,Niederschlagsmenge insgesamt,2013,201311,57.0,61.0,-39.36,-6.56,84.0
+1163,Niederschlag,Niederschlagsmenge insgesamt,2013,201312,9.0,82.0,-84.21,-89.02,78.0
+1164,Niederschlag,Niederschlagsmenge insgesamt,2012,201201,95.0,55.0,-10.38,72.73,84.0
+1165,Niederschlag,Niederschlagsmenge insgesamt,2012,201202,22.0,13.0,-76.84,69.23,85.0
+1166,Niederschlag,Niederschlagsmenge insgesamt,2012,201203,24.0,70.0,9.09,-65.71,81.0
+1167,Niederschlag,Niederschlagsmenge insgesamt,2012,201204,70.0,22.0,191.67,218.18,85.0
+1168,Niederschlag,Niederschlagsmenge insgesamt,2012,201205,66.0,115.0,-5.71,-42.61,81.0
+1169,Niederschlag,Niederschlagsmenge insgesamt,2012,201206,187.0,185.0,183.33,1.08,81.0
+1170,Niederschlag,Niederschlagsmenge insgesamt,2012,201207,66.0,166.0,-64.71,-60.24,73.0
+1171,Niederschlag,Niederschlagsmenge insgesamt,2012,201208,175.0,78.0,165.15,124.36,81.0
+1172,Niederschlag,Niederschlagsmenge insgesamt,2012,201209,56.0,114.0,-68.0,-50.88,76.0
+1173,Niederschlag,Niederschlagsmenge insgesamt,2012,201210,58.0,47.0,3.57,23.4,77.0
+1174,Niederschlag,Niederschlagsmenge insgesamt,2012,201211,61.0,1.0,5.17,6000.0,82.0
+1175,Niederschlag,Niederschlagsmenge insgesamt,2012,201212,82.0,106.0,34.43,-22.64,80.0
+1176,Niederschlag,Niederschlagsmenge insgesamt,2011,201101,55.0,36.0,-40.86,52.78,86.0
+1177,Niederschlag,Niederschlagsmenge insgesamt,2011,201102,13.0,34.0,-76.36,-61.76,85.0
+1178,Niederschlag,Niederschlagsmenge insgesamt,2011,201103,70.0,39.0,438.46,79.49,87.0
+1179,Niederschlag,Niederschlagsmenge insgesamt,2011,201104,22.0,37.0,-68.57,-40.54,86.0
+1180,Niederschlag,Niederschlagsmenge insgesamt,2011,201105,115.0,149.0,422.73,-22.82,83.0
+1181,Niederschlag,Niederschlagsmenge insgesamt,2011,201106,185.0,143.0,60.87,29.37,87.0
+1182,Niederschlag,Niederschlagsmenge insgesamt,2011,201107,166.0,161.0,-10.27,3.11,87.0
+1183,Niederschlag,Niederschlagsmenge insgesamt,2011,201108,78.0,186.0,-53.01,-58.06,78.0
+1184,Niederschlag,Niederschlagsmenge insgesamt,2011,201109,114.0,50.0,46.15,128.0,83.0
+1185,Niederschlag,Niederschlagsmenge insgesamt,2011,201110,47.0,43.0,-58.77,9.3,84.0
+1186,Niederschlag,Niederschlagsmenge insgesamt,2011,201111,1.0,47.0,-97.87,-97.87,80.0
+1187,Niederschlag,Niederschlagsmenge insgesamt,2011,201112,106.0,93.0,10500.0,13.98,81.0
+1188,Niederschlag,Niederschlagsmenge insgesamt,2010,201001,36.0,25.0,-52.63,44.0,77.0
+1189,Niederschlag,Niederschlagsmenge insgesamt,2010,201002,34.0,57.0,-5.56,-40.35,76.0
+1190,Niederschlag,Niederschlagsmenge insgesamt,2010,201003,39.0,94.0,14.71,-58.51,71.0
+1191,Niederschlag,Niederschlagsmenge insgesamt,2010,201004,37.0,25.0,-5.13,48.0,72.0
+1192,Niederschlag,Niederschlagsmenge insgesamt,2010,201005,149.0,84.0,302.7,77.38,77.0
+1193,Niederschlag,Niederschlagsmenge insgesamt,2010,201006,143.0,185.0,-4.03,-22.7,74.0
+1194,Niederschlag,Niederschlagsmenge insgesamt,2010,201007,161.0,162.0,12.59,-0.62,74.0
+1195,Niederschlag,Niederschlagsmenge insgesamt,2010,201008,186.0,57.0,15.53,226.32,85.0
+1196,Niederschlag,Niederschlagsmenge insgesamt,2010,201009,50.0,43.0,-73.12,16.28,85.0
+1197,Niederschlag,Niederschlagsmenge insgesamt,2010,201010,43.0,63.0,-14.0,-31.75,83.0
+1198,Niederschlag,Niederschlagsmenge insgesamt,2010,201011,47.0,47.0,9.3,0.0,83.0
+1199,Niederschlag,Niederschlagsmenge insgesamt,2010,201012,93.0,76.0,97.87,22.37,85.0
+1200,Niederschlag,Niederschlagsmenge insgesamt,2009,200901,25.0,35.0,-26.47,-28.57,71.0
+1201,Niederschlag,Niederschlagsmenge insgesamt,2009,200902,57.0,21.0,128.0,171.43,74.0
+1202,Niederschlag,Niederschlagsmenge insgesamt,2009,200903,94.0,59.0,64.91,59.32,77.0
+1203,Niederschlag,Niederschlagsmenge insgesamt,2009,200904,25.0,143.0,-73.4,-82.52,67.0
+1204,Niederschlag,Niederschlagsmenge insgesamt,2009,200905,84.0,44.0,236.0,90.91,70.0
+1205,Niederschlag,Niederschlagsmenge insgesamt,2009,200906,185.0,152.0,120.24,21.71,73.0
+1206,Niederschlag,Niederschlagsmenge insgesamt,2009,200907,162.0,116.0,-12.43,39.66,77.0
+1207,Niederschlag,Niederschlagsmenge insgesamt,2009,200908,57.0,96.0,-64.81,-40.63,74.0
+1208,Niederschlag,Niederschlagsmenge insgesamt,2009,200909,43.0,48.0,-24.56,-10.42,73.0
+1209,Niederschlag,Niederschlagsmenge insgesamt,2009,200910,63.0,61.0,46.51,3.28,73.0
+1210,Niederschlag,Niederschlagsmenge insgesamt,2009,200911,47.0,51.0,-25.4,-7.84,73.0
+1211,Niederschlag,Niederschlagsmenge insgesamt,2009,200912,76.0,34.0,61.7,123.53,77.0
+1212,Niederschlag,Niederschlagsmenge insgesamt,2008,200801,35.0,56.0,-28.57,-37.5,88.0
+1213,Niederschlag,Niederschlagsmenge insgesamt,2008,200802,21.0,55.0,-40.0,-61.82,85.0
+1214,Niederschlag,Niederschlagsmenge insgesamt,2008,200803,59.0,32.0,180.95,84.38,87.0
+1215,Niederschlag,Niederschlagsmenge insgesamt,2008,200804,143.0,17.0,142.37,741.18,98.0
+1216,Niederschlag,Niederschlagsmenge insgesamt,2008,200805,44.0,174.0,-69.23,-74.71,87.0
+1217,Niederschlag,Niederschlagsmenge insgesamt,2008,200806,152.0,68.0,245.45,123.53,94.0
+1218,Niederschlag,Niederschlagsmenge insgesamt,2008,200807,116.0,220.0,-23.68,-47.27,85.0
+1219,Niederschlag,Niederschlagsmenge insgesamt,2008,200808,96.0,153.0,-17.24,-37.25,80.0
+1220,Niederschlag,Niederschlagsmenge insgesamt,2008,200809,48.0,135.0,-50.0,-64.44,73.0
+1221,Niederschlag,Niederschlagsmenge insgesamt,2008,200810,61.0,25.0,27.08,144.0,76.0
+1222,Niederschlag,Niederschlagsmenge insgesamt,2008,200811,51.0,88.0,-16.39,-42.05,73.0
+1223,Niederschlag,Niederschlagsmenge insgesamt,2008,200812,34.0,49.0,-33.33,-30.61,72.0
+1224,Niederschlag,Niederschlagsmenge insgesamt,2007,200701,56.0,26.0,33.33,115.38,74.0
+1225,Niederschlag,Niederschlagsmenge insgesamt,2007,200702,55.0,46.0,-1.79,19.57,75.0
+1226,Niederschlag,Niederschlagsmenge insgesamt,2007,200703,32.0,112.0,-41.82,-71.43,68.0
+1227,Niederschlag,Niederschlagsmenge insgesamt,2007,200704,17.0,131.0,-46.88,-87.02,58.0
+1228,Niederschlag,Niederschlagsmenge insgesamt,2007,200705,174.0,101.0,923.53,72.28,64.0
+1229,Niederschlag,Niederschlagsmenge insgesamt,2007,200706,68.0,80.0,-60.92,-15.0,63.0
+1230,Niederschlag,Niederschlagsmenge insgesamt,2007,200707,220.0,45.0,223.53,388.89,78.0
+1231,Niederschlag,Niederschlagsmenge insgesamt,2007,200708,153.0,155.0,-30.45,-1.29,78.0
+1232,Niederschlag,Niederschlagsmenge insgesamt,2007,200709,135.0,38.0,-11.76,255.26,86.0
+1233,Niederschlag,Niederschlagsmenge insgesamt,2007,200710,25.0,48.0,-81.48,-47.92,84.0
+1234,Niederschlag,Niederschlagsmenge insgesamt,2007,200711,88.0,31.0,252.0,183.87,89.0
+1235,Niederschlag,Niederschlagsmenge insgesamt,2007,200712,49.0,42.0,-44.32,16.67,89.0
+1236,Niederschlag,Niederschlagsmenge insgesamt,2006,200601,26.0,44.0,-50.94,-40.91,83.0
+1237,Niederschlag,Niederschlagsmenge insgesamt,2006,200602,46.0,70.0,76.92,-34.29,81.0
+1238,Niederschlag,Niederschlagsmenge insgesamt,2006,200603,112.0,48.0,143.48,133.33,87.0
+1239,Niederschlag,Niederschlagsmenge insgesamt,2006,200604,131.0,111.0,16.96,18.02,88.0
+1240,Niederschlag,Niederschlagsmenge insgesamt,2006,200605,101.0,114.0,-22.9,-11.4,87.0
+1241,Niederschlag,Niederschlagsmenge insgesamt,2006,200606,80.0,120.0,-20.79,-33.33,84.0
+1242,Niederschlag,Niederschlagsmenge insgesamt,2006,200607,45.0,138.0,-43.75,-67.39,76.0
+1243,Niederschlag,Niederschlagsmenge insgesamt,2006,200608,155.0,150.0,244.44,3.33,77.0
+1244,Niederschlag,Niederschlagsmenge insgesamt,2006,200609,38.0,83.0,-75.48,-54.22,73.0
+1245,Niederschlag,Niederschlagsmenge insgesamt,2006,200610,48.0,42.0,26.32,14.29,73.0
+1246,Niederschlag,Niederschlagsmenge insgesamt,2006,200611,31.0,44.0,-35.42,-29.55,72.0
+1247,Niederschlag,Niederschlagsmenge insgesamt,2006,200612,42.0,53.0,35.48,-20.75,71.0
+1248,Niederschlag,Niederschlagsmenge insgesamt,2005,200501,44.0,125.0,41.94,-64.8,61.0
+1249,Niederschlag,Niederschlagsmenge insgesamt,2005,200502,70.0,37.0,59.09,89.19,64.0
+1250,Niederschlag,Niederschlagsmenge insgesamt,2005,200503,48.0,56.0,-31.43,-14.29,63.0
+1251,Niederschlag,Niederschlagsmenge insgesamt,2005,200504,111.0,56.0,131.25,98.21,68.0
+1252,Niederschlag,Niederschlagsmenge insgesamt,2005,200505,114.0,60.0,2.7,90.0,72.0
+1253,Niederschlag,Niederschlagsmenge insgesamt,2005,200506,120.0,87.0,5.26,37.93,75.0
+1254,Niederschlag,Niederschlagsmenge insgesamt,2005,200507,138.0,114.0,15.0,21.05,77.0
+1255,Niederschlag,Niederschlagsmenge insgesamt,2005,200508,150.0,72.0,8.7,108.33,84.0
+1256,Niederschlag,Niederschlagsmenge insgesamt,2005,200509,83.0,64.0,-44.67,29.69,85.0
+1257,Niederschlag,Niederschlagsmenge insgesamt,2005,200510,42.0,76.0,-49.4,-44.74,82.0
+1258,Niederschlag,Niederschlagsmenge insgesamt,2005,200511,44.0,36.0,4.76,22.22,83.0
+1259,Niederschlag,Niederschlagsmenge insgesamt,2005,200512,53.0,31.0,20.45,70.97,85.0
+1260,Niederschlag,Niederschlagsmenge insgesamt,2004,200401,125.0,61.0,204.88,104.92,60.0
+1261,Niederschlag,Niederschlagsmenge insgesamt,2004,200402,37.0,34.0,-70.4,8.82,60.0
+1262,Niederschlag,Niederschlagsmenge insgesamt,2004,200403,56.0,22.0,51.35,154.55,63.0
+1263,Niederschlag,Niederschlagsmenge insgesamt,2004,200404,56.0,25.0,0.0,124.0,66.0
+1264,Niederschlag,Niederschlagsmenge insgesamt,2004,200405,60.0,58.0,7.14,3.45,66.0
+1265,Niederschlag,Niederschlagsmenge insgesamt,2004,200406,87.0,94.0,45.0,-7.45,65.0
+1266,Niederschlag,Niederschlagsmenge insgesamt,2004,200407,114.0,101.0,31.03,12.87,66.0
+1267,Niederschlag,Niederschlagsmenge insgesamt,2004,200408,72.0,48.0,-36.84,50.0,68.0
+1268,Niederschlag,Niederschlagsmenge insgesamt,2004,200409,64.0,30.0,-11.11,113.33,71.0
+1269,Niederschlag,Niederschlagsmenge insgesamt,2004,200410,76.0,111.0,18.75,-31.53,68.0
+1270,Niederschlag,Niederschlagsmenge insgesamt,2004,200411,36.0,32.0,-52.63,12.5,69.0
+1271,Niederschlag,Niederschlagsmenge insgesamt,2004,200412,31.0,41.0,-13.89,-24.39,68.0
+1272,Niederschlag,Niederschlagsmenge insgesamt,2003,200301,61.0,10.0,-34.41,510.0,98.0
+1273,Niederschlag,Niederschlagsmenge insgesamt,2003,200302,34.0,58.0,-44.26,-41.38,96.0
+1274,Niederschlag,Niederschlagsmenge insgesamt,2003,200303,22.0,79.0,-35.29,-72.15,91.0
+1275,Niederschlag,Niederschlagsmenge insgesamt,2003,200304,25.0,27.0,13.64,-7.41,91.0
+1276,Niederschlag,Niederschlagsmenge insgesamt,2003,200305,58.0,151.0,132.0,-61.59,84.0
+1277,Niederschlag,Niederschlagsmenge insgesamt,2003,200306,94.0,93.0,62.07,1.08,84.0
+1278,Niederschlag,Niederschlagsmenge insgesamt,2003,200307,101.0,138.0,7.45,-26.81,81.0
+1279,Niederschlag,Niederschlagsmenge insgesamt,2003,200308,48.0,142.0,-52.48,-66.2,73.0
+1280,Niederschlag,Niederschlagsmenge insgesamt,2003,200309,30.0,127.0,-37.5,-76.38,65.0
+1281,Niederschlag,Niederschlagsmenge insgesamt,2003,200310,111.0,89.0,270.0,24.72,66.0
+1282,Niederschlag,Niederschlagsmenge insgesamt,2003,200311,32.0,120.0,-71.17,-73.33,59.0
+1283,Niederschlag,Niederschlagsmenge insgesamt,2003,200312,41.0,93.0,28.13,-55.91,55.0
+1284,Niederschlag,Niederschlagsmenge insgesamt,2002,200201,10.0,58.0,-85.29,-82.76,84.0
+1285,Niederschlag,Niederschlagsmenge insgesamt,2002,200202,58.0,52.0,480.0,11.54,84.0
+1286,Niederschlag,Niederschlagsmenge insgesamt,2002,200203,79.0,126.0,36.21,-37.3,80.0
+1287,Niederschlag,Niederschlagsmenge insgesamt,2002,200204,27.0,63.0,-65.82,-57.14,77.0
+1288,Niederschlag,Niederschlagsmenge insgesamt,2002,200205,151.0,100.0,459.26,51.0,82.0
+1289,Niederschlag,Niederschlagsmenge insgesamt,2002,200206,93.0,145.0,-38.41,-35.86,77.0
+1290,Niederschlag,Niederschlagsmenge insgesamt,2002,200207,138.0,41.0,48.39,236.59,85.0
+1291,Niederschlag,Niederschlagsmenge insgesamt,2002,200208,142.0,136.0,2.9,4.41,86.0
+1292,Niederschlag,Niederschlagsmenge insgesamt,2002,200209,127.0,124.0,-10.56,2.42,86.0
+1293,Niederschlag,Niederschlagsmenge insgesamt,2002,200210,89.0,42.0,-29.92,111.9,90.0
+1294,Niederschlag,Niederschlagsmenge insgesamt,2002,200211,120.0,98.0,34.83,22.45,92.0
+1295,Niederschlag,Niederschlagsmenge insgesamt,2002,200212,93.0,68.0,-22.5,36.76,94.0
+1296,Niederschlag,Niederschlagsmenge insgesamt,2001,200101,58.0,43.0,26.09,34.88,101.0
+1297,Niederschlag,Niederschlagsmenge insgesamt,2001,200102,52.0,65.0,-10.34,-20.0,100.0
+1298,Niederschlag,Niederschlagsmenge insgesamt,2001,200103,126.0,111.0,142.31,13.51,101.0
+1299,Niederschlag,Niederschlagsmenge insgesamt,2001,200104,63.0,38.0,-50.0,65.79,103.0
+1300,Niederschlag,Niederschlagsmenge insgesamt,2001,200105,100.0,217.0,58.73,-53.92,93.0
+1301,Niederschlag,Niederschlagsmenge insgesamt,2001,200106,145.0,65.0,45.0,123.08,100.0
+1302,Niederschlag,Niederschlagsmenge insgesamt,2001,200107,41.0,142.0,-71.72,-71.13,91.0
+1303,Niederschlag,Niederschlagsmenge insgesamt,2001,200108,136.0,173.0,231.71,-21.39,88.0
+1304,Niederschlag,Niederschlagsmenge insgesamt,2001,200109,124.0,151.0,-8.82,-17.88,86.0
+1305,Niederschlag,Niederschlagsmenge insgesamt,2001,200110,42.0,98.0,-66.13,-57.14,81.0
+1306,Niederschlag,Niederschlagsmenge insgesamt,2001,200111,98.0,43.0,133.33,127.91,86.0
+1307,Niederschlag,Niederschlagsmenge insgesamt,2001,200112,68.0,46.0,-30.61,47.83,88.0
+1308,Niederschlag,Niederschlagsmenge insgesamt,2000,200001,43.0,,,,43.0
+1309,Niederschlag,Niederschlagsmenge insgesamt,2000,200002,65.0,,51.16,,54.0
+1310,Niederschlag,Niederschlagsmenge insgesamt,2000,200003,111.0,,70.77,,73.0
+1311,Niederschlag,Niederschlagsmenge insgesamt,2000,200004,38.0,,-65.77,,64.0
+1312,Niederschlag,Niederschlagsmenge insgesamt,2000,200005,217.0,,471.05,,95.0
+1313,Niederschlag,Niederschlagsmenge insgesamt,2000,200006,65.0,,-70.05,,90.0
+1314,Niederschlag,Niederschlagsmenge insgesamt,2000,200007,142.0,,118.46,,97.0
+1315,Niederschlag,Niederschlagsmenge insgesamt,2000,200008,173.0,,21.83,,107.0
+1316,Niederschlag,Niederschlagsmenge insgesamt,2000,200009,151.0,,-12.72,,112.0
+1317,Niederschlag,Niederschlagsmenge insgesamt,2000,200010,98.0,,-35.1,,110.0
+1318,Niederschlag,Niederschlagsmenge insgesamt,2000,200011,43.0,,-56.12,,104.0
+1319,Niederschlag,Niederschlagsmenge insgesamt,2000,200012,46.0,,6.98,,99.0
+1320,Niederschlag,Tage mit Niederschlägen,2021,Summe,44.0,151.0,,-70.86,
+1321,Niederschlag,Tage mit Niederschlägen,2021,202101,17.0,12.0,41.67,41.67,13.0
+1322,Niederschlag,Tage mit Niederschlägen,2021,202102,11.0,18.0,-35.29,-38.89,12.0
+1323,Niederschlag,Tage mit Niederschlägen,2021,202103,16.0,14.0,45.45,14.29,13.0
+1324,Niederschlag,Tage mit Niederschlägen,2021,202104,,5.0,,,
+1325,Niederschlag,Tage mit Niederschlägen,2021,202105,,14.0,,,
+1326,Niederschlag,Tage mit Niederschlägen,2021,202106,,19.0,,,
+1327,Niederschlag,Tage mit Niederschlägen,2021,202107,,10.0,,,
+1328,Niederschlag,Tage mit Niederschlägen,2021,202108,,13.0,,,
+1329,Niederschlag,Tage mit Niederschlägen,2021,202109,,10.0,,,
+1330,Niederschlag,Tage mit Niederschlägen,2021,202110,,18.0,,,
+1331,Niederschlag,Tage mit Niederschlägen,2021,202111,,6.0,,,
+1332,Niederschlag,Tage mit Niederschlägen,2021,202112,,12.0,,,
+1333,Niederschlag,Tage mit Niederschlägen,2020,Summe,151.0,167.0,,-9.58,
+1334,Niederschlag,Tage mit Niederschlägen,2020,202001,12.0,20.0,-20.0,-40.0,13.0
+1335,Niederschlag,Tage mit Niederschlägen,2020,202002,18.0,11.0,50.0,63.64,14.0
+1336,Niederschlag,Tage mit Niederschlägen,2020,202003,14.0,14.0,-22.22,0.0,14.0
+1337,Niederschlag,Tage mit Niederschlägen,2020,202004,5.0,6.0,-64.29,-16.67,14.0
+1338,Niederschlag,Tage mit Niederschlägen,2020,202005,14.0,17.0,180.0,-17.65,14.0
+1339,Niederschlag,Tage mit Niederschlägen,2020,202006,19.0,9.0,35.71,111.11,14.0
+1340,Niederschlag,Tage mit Niederschlägen,2020,202007,10.0,17.0,-47.37,-41.18,14.0
+1341,Niederschlag,Tage mit Niederschlägen,2020,202008,13.0,14.0,30.0,-7.14,14.0
+1342,Niederschlag,Tage mit Niederschlägen,2020,202009,10.0,14.0,-23.08,-28.57,13.0
+1343,Niederschlag,Tage mit Niederschlägen,2020,202010,18.0,14.0,80.0,28.57,14.0
+1344,Niederschlag,Tage mit Niederschlägen,2020,202011,6.0,16.0,-66.67,-62.5,13.0
+1345,Niederschlag,Tage mit Niederschlägen,2020,202012,12.0,15.0,100.0,-20.0,13.0
+1346,Niederschlag,Tage mit Niederschlägen,2019,Summe,167.0,159.0,,5.03,
+1347,Niederschlag,Tage mit Niederschlägen,2019,201901,20.0,16.0,5.26,25.0,14.0
+1348,Niederschlag,Tage mit Niederschlägen,2019,201902,11.0,12.0,-45.0,-8.33,14.0
+1349,Niederschlag,Tage mit Niederschlägen,2019,201903,14.0,22.0,27.27,-36.36,13.0
+1350,Niederschlag,Tage mit Niederschlägen,2019,201904,6.0,9.0,-57.14,-33.33,13.0
+1351,Niederschlag,Tage mit Niederschlägen,2019,201905,17.0,12.0,183.33,41.67,13.0
+1352,Niederschlag,Tage mit Niederschlägen,2019,201906,9.0,14.0,-47.06,-35.71,13.0
+1353,Niederschlag,Tage mit Niederschlägen,2019,201907,17.0,14.0,88.89,21.43,13.0
+1354,Niederschlag,Tage mit Niederschlägen,2019,201908,14.0,10.0,-17.65,40.0,13.0
+1355,Niederschlag,Tage mit Niederschlägen,2019,201909,14.0,14.0,0.0,0.0,13.0
+1356,Niederschlag,Tage mit Niederschlägen,2019,201910,14.0,7.0,0.0,100.0,14.0
+1357,Niederschlag,Tage mit Niederschlägen,2019,201911,16.0,10.0,14.29,60.0,14.0
+1358,Niederschlag,Tage mit Niederschlägen,2019,201912,15.0,19.0,-6.25,-21.05,14.0
+1359,Niederschlag,Tage mit Niederschlägen,2018,Summe,159.0,178.0,,-10.67,
+1360,Niederschlag,Tage mit Niederschlägen,2018,201801,16.0,14.0,-20.0,14.29,15.0
+1361,Niederschlag,Tage mit Niederschlägen,2018,201802,12.0,9.0,-25.0,33.33,15.0
+1362,Niederschlag,Tage mit Niederschlägen,2018,201803,22.0,12.0,83.33,83.33,16.0
+1363,Niederschlag,Tage mit Niederschlägen,2018,201804,9.0,13.0,-59.09,-30.77,16.0
+1364,Niederschlag,Tage mit Niederschlägen,2018,201805,12.0,14.0,33.33,-14.29,16.0
+1365,Niederschlag,Tage mit Niederschlägen,2018,201806,14.0,11.0,16.67,27.27,16.0
+1366,Niederschlag,Tage mit Niederschlägen,2018,201807,14.0,18.0,0.0,-22.22,16.0
+1367,Niederschlag,Tage mit Niederschlägen,2018,201808,10.0,16.0,-28.57,-37.5,15.0
+1368,Niederschlag,Tage mit Niederschlägen,2018,201809,14.0,19.0,40.0,-26.32,15.0
+1369,Niederschlag,Tage mit Niederschlägen,2018,201810,7.0,15.0,-50.0,-53.33,14.0
+1370,Niederschlag,Tage mit Niederschlägen,2018,201811,10.0,17.0,42.86,-41.18,13.0
+1371,Niederschlag,Tage mit Niederschlägen,2018,201812,19.0,20.0,90.0,-5.0,13.0
+1372,Niederschlag,Tage mit Niederschlägen,2017,Summe,178.0,184.0,,-3.26,
+1373,Niederschlag,Tage mit Niederschlägen,2017,201701,14.0,23.0,55.56,-39.13,15.0
+1374,Niederschlag,Tage mit Niederschlägen,2017,201702,9.0,17.0,-35.71,-47.06,14.0
+1375,Niederschlag,Tage mit Niederschlägen,2017,201703,12.0,11.0,33.33,9.09,14.0
+1376,Niederschlag,Tage mit Niederschlägen,2017,201704,13.0,17.0,8.33,-23.53,14.0
+1377,Niederschlag,Tage mit Niederschlägen,2017,201705,14.0,16.0,7.69,-12.5,14.0
+1378,Niederschlag,Tage mit Niederschlägen,2017,201706,11.0,20.0,-21.43,-45.0,13.0
+1379,Niederschlag,Tage mit Niederschlägen,2017,201707,18.0,14.0,63.64,28.57,13.0
+1380,Niederschlag,Tage mit Niederschlägen,2017,201708,16.0,16.0,-11.11,0.0,13.0
+1381,Niederschlag,Tage mit Niederschlägen,2017,201709,19.0,7.0,18.75,171.43,14.0
+1382,Niederschlag,Tage mit Niederschlägen,2017,201710,15.0,19.0,-21.05,-21.05,14.0
+1383,Niederschlag,Tage mit Niederschlägen,2017,201711,17.0,15.0,13.33,13.33,14.0
+1384,Niederschlag,Tage mit Niederschlägen,2017,201712,20.0,9.0,17.65,122.22,15.0
+1385,Niederschlag,Tage mit Niederschlägen,2016,Summe,184.0,175.0,,5.14,
+1386,Niederschlag,Tage mit Niederschlägen,2016,201601,23.0,21.0,187.5,9.52,15.0
+1387,Niederschlag,Tage mit Niederschlägen,2016,201602,17.0,11.0,-26.09,54.55,15.0
+1388,Niederschlag,Tage mit Niederschlägen,2016,201603,11.0,15.0,-35.29,-26.67,15.0
+1389,Niederschlag,Tage mit Niederschlägen,2016,201604,17.0,14.0,54.55,21.43,15.0
+1390,Niederschlag,Tage mit Niederschlägen,2016,201605,16.0,21.0,-5.88,-23.81,15.0
+1391,Niederschlag,Tage mit Niederschlägen,2016,201606,20.0,16.0,25.0,25.0,15.0
+1392,Niederschlag,Tage mit Niederschlägen,2016,201607,14.0,13.0,-30.0,7.69,15.0
+1393,Niederschlag,Tage mit Niederschlägen,2016,201608,16.0,11.0,14.29,45.45,16.0
+1394,Niederschlag,Tage mit Niederschlägen,2016,201609,7.0,15.0,-56.25,-53.33,15.0
+1395,Niederschlag,Tage mit Niederschlägen,2016,201610,19.0,16.0,171.43,18.75,15.0
+1396,Niederschlag,Tage mit Niederschlägen,2016,201611,15.0,14.0,-21.05,7.14,15.0
+1397,Niederschlag,Tage mit Niederschlägen,2016,201612,9.0,8.0,-40.0,12.5,15.0
+1398,Niederschlag,Tage mit Niederschlägen,2015,Summe,175.0,173.0,,1.16,
+1399,Niederschlag,Tage mit Niederschlägen,2015,201501,21.0,15.0,5.0,40.0,15.0
+1400,Niederschlag,Tage mit Niederschlägen,2015,201502,11.0,11.0,-47.62,0.0,15.0
+1401,Niederschlag,Tage mit Niederschlägen,2015,201503,15.0,8.0,36.36,87.5,16.0
+1402,Niederschlag,Tage mit Niederschlägen,2015,201504,14.0,16.0,-6.67,-12.5,15.0
+1403,Niederschlag,Tage mit Niederschlägen,2015,201505,21.0,20.0,50.0,5.0,15.0
+1404,Niederschlag,Tage mit Niederschlägen,2015,201506,16.0,12.0,-23.81,33.33,16.0
+1405,Niederschlag,Tage mit Niederschlägen,2015,201507,13.0,17.0,-18.75,-23.53,15.0
+1406,Niederschlag,Tage mit Niederschlägen,2015,201508,11.0,20.0,-15.38,-45.0,15.0
+1407,Niederschlag,Tage mit Niederschlägen,2015,201509,15.0,16.0,36.36,-6.25,15.0
+1408,Niederschlag,Tage mit Niederschlägen,2015,201510,16.0,12.0,6.67,33.33,15.0
+1409,Niederschlag,Tage mit Niederschlägen,2015,201511,14.0,6.0,-12.5,133.33,16.0
+1410,Niederschlag,Tage mit Niederschlägen,2015,201512,8.0,20.0,-42.86,-60.0,15.0
+1411,Niederschlag,Tage mit Niederschlägen,2014,Summe,173.0,185.0,,-6.49,
+1412,Niederschlag,Tage mit Niederschlägen,2014,201401,15.0,23.0,87.5,-34.78,15.0
+1413,Niederschlag,Tage mit Niederschlägen,2014,201402,11.0,18.0,-26.67,-38.89,14.0
+1414,Niederschlag,Tage mit Niederschlägen,2014,201403,8.0,19.0,-27.27,-57.89,13.0
+1415,Niederschlag,Tage mit Niederschlägen,2014,201404,16.0,9.0,100.0,77.78,14.0
+1416,Niederschlag,Tage mit Niederschlägen,2014,201405,20.0,22.0,25.0,-9.09,14.0
+1417,Niederschlag,Tage mit Niederschlägen,2014,201406,12.0,17.0,-40.0,-29.41,13.0
+1418,Niederschlag,Tage mit Niederschlägen,2014,201407,17.0,7.0,41.67,142.86,14.0
+1419,Niederschlag,Tage mit Niederschlägen,2014,201408,20.0,11.0,17.65,81.82,15.0
+1420,Niederschlag,Tage mit Niederschlägen,2014,201409,16.0,14.0,-20.0,14.29,15.0
+1421,Niederschlag,Tage mit Niederschlägen,2014,201410,12.0,18.0,-25.0,-33.33,15.0
+1422,Niederschlag,Tage mit Niederschlägen,2014,201411,6.0,19.0,-50.0,-68.42,13.0
+1423,Niederschlag,Tage mit Niederschlägen,2014,201412,20.0,8.0,233.33,150.0,14.0
+1424,Niederschlag,Tage mit Niederschlägen,2013,Summe,185.0,196.0,,-5.61,
+1425,Niederschlag,Tage mit Niederschlägen,2013,201301,23.0,22.0,9.52,4.55,16.0
+1426,Niederschlag,Tage mit Niederschlägen,2013,201302,18.0,15.0,-21.74,20.0,17.0
+1427,Niederschlag,Tage mit Niederschlägen,2013,201303,19.0,11.0,5.56,72.73,17.0
+1428,Niederschlag,Tage mit Niederschlägen,2013,201304,9.0,19.0,-52.63,-52.63,17.0
+1429,Niederschlag,Tage mit Niederschlägen,2013,201305,22.0,15.0,144.44,46.67,17.0
+1430,Niederschlag,Tage mit Niederschlägen,2013,201306,17.0,20.0,-22.73,-15.0,17.0
+1431,Niederschlag,Tage mit Niederschlägen,2013,201307,7.0,19.0,-58.82,-63.16,16.0
+1432,Niederschlag,Tage mit Niederschlägen,2013,201308,11.0,16.0,57.14,-31.25,15.0
+1433,Niederschlag,Tage mit Niederschlägen,2013,201309,14.0,13.0,27.27,7.69,16.0
+1434,Niederschlag,Tage mit Niederschlägen,2013,201310,18.0,13.0,28.57,38.46,16.0
+1435,Niederschlag,Tage mit Niederschlägen,2013,201311,19.0,12.0,5.56,58.33,17.0
+1436,Niederschlag,Tage mit Niederschlägen,2013,201312,8.0,21.0,-57.89,-61.9,15.0
+1437,Niederschlag,Tage mit Niederschlägen,2012,Summe,196.0,161.0,,21.74,
+1438,Niederschlag,Tage mit Niederschlägen,2012,201201,22.0,20.0,-4.35,10.0,14.0
+1439,Niederschlag,Tage mit Niederschlägen,2012,201202,15.0,10.0,-31.82,50.0,14.0
+1440,Niederschlag,Tage mit Niederschlägen,2012,201203,11.0,7.0,-26.67,57.14,14.0
+1441,Niederschlag,Tage mit Niederschlägen,2012,201204,19.0,9.0,72.73,111.11,15.0
+1442,Niederschlag,Tage mit Niederschlägen,2012,201205,15.0,11.0,-21.05,36.36,16.0
+1443,Niederschlag,Tage mit Niederschlägen,2012,201206,20.0,21.0,33.33,-4.76,15.0
+1444,Niederschlag,Tage mit Niederschlägen,2012,201207,19.0,19.0,-5.0,0.0,15.0
+1445,Niederschlag,Tage mit Niederschlägen,2012,201208,16.0,16.0,-15.79,0.0,15.0
+1446,Niederschlag,Tage mit Niederschlägen,2012,201209,13.0,13.0,-18.75,0.0,15.0
+1447,Niederschlag,Tage mit Niederschlägen,2012,201210,13.0,10.0,0.0,30.0,16.0
+1448,Niederschlag,Tage mit Niederschlägen,2012,201211,12.0,2.0,-7.69,500.0,17.0
+1449,Niederschlag,Tage mit Niederschlägen,2012,201212,21.0,23.0,75.0,-8.7,16.0
+1450,Niederschlag,Tage mit Niederschlägen,2011,Summe,161.0,195.0,,-17.44,
+1451,Niederschlag,Tage mit Niederschlägen,2011,201101,20.0,18.0,-9.09,11.11,16.0
+1452,Niederschlag,Tage mit Niederschlägen,2011,201102,10.0,16.0,-50.0,-37.5,16.0
+1453,Niederschlag,Tage mit Niederschlägen,2011,201103,7.0,14.0,-30.0,-50.0,15.0
+1454,Niederschlag,Tage mit Niederschlägen,2011,201104,9.0,10.0,28.57,-10.0,15.0
+1455,Niederschlag,Tage mit Niederschlägen,2011,201105,11.0,26.0,22.22,-57.69,14.0
+1456,Niederschlag,Tage mit Niederschlägen,2011,201106,21.0,16.0,90.91,31.25,14.0
+1457,Niederschlag,Tage mit Niederschlägen,2011,201107,19.0,14.0,-9.52,35.71,15.0
+1458,Niederschlag,Tage mit Niederschlägen,2011,201108,16.0,21.0,-15.79,-23.81,14.0
+1459,Niederschlag,Tage mit Niederschlägen,2011,201109,13.0,14.0,-18.75,-7.14,14.0
+1460,Niederschlag,Tage mit Niederschlägen,2011,201110,10.0,9.0,-23.08,11.11,14.0
+1461,Niederschlag,Tage mit Niederschlägen,2011,201111,2.0,15.0,-80.0,-86.67,13.0
+1462,Niederschlag,Tage mit Niederschlägen,2011,201112,23.0,22.0,1050.0,4.55,13.0
+1463,Niederschlag,Tage mit Niederschlägen,2010,Summe,195.0,189.0,,3.17,
+1464,Niederschlag,Tage mit Niederschlägen,2010,201001,18.0,8.0,-25.0,125.0,17.0
+1465,Niederschlag,Tage mit Niederschlägen,2010,201002,16.0,17.0,-11.11,-5.88,17.0
+1466,Niederschlag,Tage mit Niederschlägen,2010,201003,14.0,23.0,-12.5,-39.13,16.0
+1467,Niederschlag,Tage mit Niederschlägen,2010,201004,10.0,8.0,-28.57,25.0,16.0
+1468,Niederschlag,Tage mit Niederschlägen,2010,201005,26.0,21.0,160.0,23.81,16.0
+1469,Niederschlag,Tage mit Niederschlägen,2010,201006,16.0,20.0,-38.46,-20.0,16.0
+1470,Niederschlag,Tage mit Niederschlägen,2010,201007,14.0,15.0,-12.5,-6.67,16.0
+1471,Niederschlag,Tage mit Niederschlägen,2010,201008,21.0,10.0,50.0,110.0,17.0
+1472,Niederschlag,Tage mit Niederschlägen,2010,201009,14.0,10.0,-33.33,40.0,17.0
+1473,Niederschlag,Tage mit Niederschlägen,2010,201010,9.0,18.0,-35.71,-50.0,16.0
+1474,Niederschlag,Tage mit Niederschlägen,2010,201011,15.0,15.0,66.67,0.0,16.0
+1475,Niederschlag,Tage mit Niederschlägen,2010,201012,22.0,24.0,46.67,-8.33,16.0
+1476,Niederschlag,Tage mit Niederschlägen,2009,Summe,189.0,184.0,,2.72,
+1477,Niederschlag,Tage mit Niederschlägen,2009,200901,8.0,12.0,-50.0,-33.33,15.0
+1478,Niederschlag,Tage mit Niederschlägen,2009,200902,17.0,11.0,112.5,54.55,16.0
+1479,Niederschlag,Tage mit Niederschlägen,2009,200903,23.0,19.0,35.29,21.05,16.0
+1480,Niederschlag,Tage mit Niederschlägen,2009,200904,8.0,20.0,-65.22,-60.0,15.0
+1481,Niederschlag,Tage mit Niederschlägen,2009,200905,21.0,13.0,162.5,61.54,16.0
+1482,Niederschlag,Tage mit Niederschlägen,2009,200906,20.0,21.0,-4.76,-4.76,15.0
+1483,Niederschlag,Tage mit Niederschlägen,2009,200907,15.0,16.0,-25.0,-6.25,15.0
+1484,Niederschlag,Tage mit Niederschlägen,2009,200908,10.0,15.0,-33.33,-33.33,15.0
+1485,Niederschlag,Tage mit Niederschlägen,2009,200909,10.0,15.0,0.0,-33.33,15.0
+1486,Niederschlag,Tage mit Niederschlägen,2009,200910,18.0,11.0,80.0,63.64,15.0
+1487,Niederschlag,Tage mit Niederschlägen,2009,200911,15.0,15.0,-16.67,0.0,15.0
+1488,Niederschlag,Tage mit Niederschlägen,2009,200912,24.0,16.0,60.0,50.0,16.0
+1489,Niederschlag,Tage mit Niederschlägen,2008,Summe,184.0,191.0,,-3.66,
+1490,Niederschlag,Tage mit Niederschlägen,2008,200801,12.0,23.0,-25.0,-47.83,15.0
+1491,Niederschlag,Tage mit Niederschlägen,2008,200802,11.0,17.0,-8.33,-35.29,15.0
+1492,Niederschlag,Tage mit Niederschlägen,2008,200803,19.0,14.0,72.73,35.71,15.0
+1493,Niederschlag,Tage mit Niederschlägen,2008,200804,20.0,3.0,5.26,566.67,16.0
+1494,Niederschlag,Tage mit Niederschlägen,2008,200805,13.0,16.0,-35.0,-18.75,16.0
+1495,Niederschlag,Tage mit Niederschlägen,2008,200806,21.0,14.0,61.54,50.0,17.0
+1496,Niederschlag,Tage mit Niederschlägen,2008,200807,16.0,21.0,-23.81,-23.81,16.0
+1497,Niederschlag,Tage mit Niederschlägen,2008,200808,15.0,18.0,-6.25,-16.67,16.0
+1498,Niederschlag,Tage mit Niederschlägen,2008,200809,15.0,18.0,0.0,-16.67,16.0
+1499,Niederschlag,Tage mit Niederschlägen,2008,200810,11.0,11.0,-26.67,0.0,16.0
+1500,Niederschlag,Tage mit Niederschlägen,2008,200811,15.0,20.0,36.36,-25.0,15.0
+1501,Niederschlag,Tage mit Niederschlägen,2008,200812,16.0,16.0,6.67,0.0,15.0
+1502,Niederschlag,Tage mit Niederschlägen,2007,Summe,191.0,173.0,,10.4,
+1503,Niederschlag,Tage mit Niederschlägen,2007,200701,23.0,8.0,91.67,187.5,16.0
+1504,Niederschlag,Tage mit Niederschlägen,2007,200702,17.0,15.0,-26.09,13.33,16.0
+1505,Niederschlag,Tage mit Niederschlägen,2007,200703,14.0,21.0,-17.65,-33.33,15.0
+1506,Niederschlag,Tage mit Niederschlägen,2007,200704,3.0,20.0,-78.57,-85.0,14.0
+1507,Niederschlag,Tage mit Niederschlägen,2007,200705,16.0,20.0,433.33,-20.0,14.0
+1508,Niederschlag,Tage mit Niederschlägen,2007,200706,14.0,14.0,-12.5,0.0,14.0
+1509,Niederschlag,Tage mit Niederschlägen,2007,200707,21.0,8.0,50.0,162.5,15.0
+1510,Niederschlag,Tage mit Niederschlägen,2007,200708,18.0,22.0,-14.29,-18.18,14.0
+1511,Niederschlag,Tage mit Niederschlägen,2007,200709,18.0,8.0,0.0,125.0,15.0
+1512,Niederschlag,Tage mit Niederschlägen,2007,200710,11.0,11.0,-38.89,0.0,15.0
+1513,Niederschlag,Tage mit Niederschlägen,2007,200711,20.0,14.0,81.82,42.86,16.0
+1514,Niederschlag,Tage mit Niederschlägen,2007,200712,16.0,12.0,-20.0,33.33,16.0
+1515,Niederschlag,Tage mit Niederschlägen,2006,Summe,173.0,186.0,,-6.99,
+1516,Niederschlag,Tage mit Niederschlägen,2006,200601,8.0,18.0,-65.22,-55.56,15.0
+1517,Niederschlag,Tage mit Niederschlägen,2006,200602,15.0,17.0,87.5,-11.76,15.0
+1518,Niederschlag,Tage mit Niederschlägen,2006,200603,21.0,16.0,40.0,31.25,15.0
+1519,Niederschlag,Tage mit Niederschlägen,2006,200604,20.0,12.0,-4.76,66.67,16.0
+1520,Niederschlag,Tage mit Niederschlägen,2006,200605,20.0,15.0,0.0,33.33,16.0
+1521,Niederschlag,Tage mit Niederschlägen,2006,200606,14.0,13.0,-30.0,7.69,16.0
+1522,Niederschlag,Tage mit Niederschlägen,2006,200607,8.0,20.0,-42.86,-60.0,15.0
+1523,Niederschlag,Tage mit Niederschlägen,2006,200608,22.0,18.0,175.0,22.22,15.0
+1524,Niederschlag,Tage mit Niederschlägen,2006,200609,8.0,11.0,-63.64,-27.27,15.0
+1525,Niederschlag,Tage mit Niederschlägen,2006,200610,11.0,7.0,37.5,57.14,16.0
+1526,Niederschlag,Tage mit Niederschlägen,2006,200611,14.0,16.0,27.27,-12.5,15.0
+1527,Niederschlag,Tage mit Niederschlägen,2006,200612,12.0,23.0,-14.29,-47.83,14.0
+1528,Niederschlag,Tage mit Niederschlägen,2005,Summe,186.0,193.0,,-3.63,
+1529,Niederschlag,Tage mit Niederschlägen,2005,200501,18.0,24.0,80.0,-25.0,16.0
+1530,Niederschlag,Tage mit Niederschlägen,2005,200502,17.0,12.0,-5.56,41.67,16.0
+1531,Niederschlag,Tage mit Niederschlägen,2005,200503,16.0,11.0,-5.88,45.45,16.0
+1532,Niederschlag,Tage mit Niederschlägen,2005,200504,12.0,14.0,-25.0,-14.29,16.0
+1533,Niederschlag,Tage mit Niederschlägen,2005,200505,15.0,20.0,25.0,-25.0,16.0
+1534,Niederschlag,Tage mit Niederschlägen,2005,200506,13.0,19.0,-13.33,-31.58,15.0
+1535,Niederschlag,Tage mit Niederschlägen,2005,200507,20.0,21.0,53.85,-4.76,15.0
+1536,Niederschlag,Tage mit Niederschlägen,2005,200508,18.0,16.0,-10.0,12.5,15.0
+1537,Niederschlag,Tage mit Niederschlägen,2005,200509,11.0,14.0,-38.89,-21.43,15.0
+1538,Niederschlag,Tage mit Niederschlägen,2005,200510,7.0,16.0,-36.36,-56.25,14.0
+1539,Niederschlag,Tage mit Niederschlägen,2005,200511,16.0,16.0,128.57,0.0,14.0
+1540,Niederschlag,Tage mit Niederschlägen,2005,200512,23.0,10.0,43.75,130.0,16.0
+1541,Niederschlag,Tage mit Niederschlägen,2004,Summe,193.0,153.0,,26.14,
+1542,Niederschlag,Tage mit Niederschlägen,2004,200401,24.0,18.0,71.43,33.33,13.0
+1543,Niederschlag,Tage mit Niederschlägen,2004,200402,12.0,8.0,-50.0,50.0,14.0
+1544,Niederschlag,Tage mit Niederschlägen,2004,200403,11.0,9.0,-8.33,22.22,14.0
+1545,Niederschlag,Tage mit Niederschlägen,2004,200404,14.0,10.0,27.27,40.0,14.0
+1546,Niederschlag,Tage mit Niederschlägen,2004,200405,20.0,20.0,42.86,0.0,14.0
+1547,Niederschlag,Tage mit Niederschlägen,2004,200406,19.0,14.0,-5.0,35.71,15.0
+1548,Niederschlag,Tage mit Niederschlägen,2004,200407,21.0,13.0,10.53,61.54,15.0
+1549,Niederschlag,Tage mit Niederschlägen,2004,200408,16.0,9.0,-23.81,77.78,16.0
+1550,Niederschlag,Tage mit Niederschlägen,2004,200409,14.0,12.0,-12.5,16.67,16.0
+1551,Niederschlag,Tage mit Niederschlägen,2004,200410,16.0,16.0,14.29,0.0,16.0
+1552,Niederschlag,Tage mit Niederschlägen,2004,200411,16.0,10.0,0.0,60.0,16.0
+1553,Niederschlag,Tage mit Niederschlägen,2004,200412,10.0,14.0,-37.5,-28.57,16.0
+1554,Niederschlag,Tage mit Niederschlägen,2003,Summe,153.0,183.0,,-16.39,
+1555,Niederschlag,Tage mit Niederschlägen,2003,200301,18.0,9.0,0.0,100.0,16.0
+1556,Niederschlag,Tage mit Niederschlägen,2003,200302,8.0,17.0,-55.56,-52.94,15.0
+1557,Niederschlag,Tage mit Niederschlägen,2003,200303,9.0,9.0,12.5,0.0,15.0
+1558,Niederschlag,Tage mit Niederschlägen,2003,200304,10.0,13.0,11.11,-23.08,15.0
+1559,Niederschlag,Tage mit Niederschlägen,2003,200305,20.0,16.0,100.0,25.0,15.0
+1560,Niederschlag,Tage mit Niederschlägen,2003,200306,14.0,16.0,-30.0,-12.5,15.0
+1561,Niederschlag,Tage mit Niederschlägen,2003,200307,13.0,20.0,-7.14,-35.0,15.0
+1562,Niederschlag,Tage mit Niederschlägen,2003,200308,9.0,13.0,-30.77,-30.77,14.0
+1563,Niederschlag,Tage mit Niederschlägen,2003,200309,12.0,15.0,33.33,-20.0,14.0
+1564,Niederschlag,Tage mit Niederschlägen,2003,200310,16.0,20.0,33.33,-20.0,14.0
+1565,Niederschlag,Tage mit Niederschlägen,2003,200311,10.0,17.0,-37.5,-41.18,13.0
+1566,Niederschlag,Tage mit Niederschlägen,2003,200312,14.0,18.0,40.0,-22.22,13.0
+1567,Niederschlag,Tage mit Niederschlägen,2002,Summe,183.0,208.0,,-12.02,
+1568,Niederschlag,Tage mit Niederschlägen,2002,200201,9.0,18.0,-60.87,-50.0,17.0
+1569,Niederschlag,Tage mit Niederschlägen,2002,200202,17.0,16.0,88.89,6.25,17.0
+1570,Niederschlag,Tage mit Niederschlägen,2002,200203,9.0,22.0,-47.06,-59.09,16.0
+1571,Niederschlag,Tage mit Niederschlägen,2002,200204,13.0,20.0,44.44,-35.0,15.0
+1572,Niederschlag,Tage mit Niederschlägen,2002,200205,16.0,10.0,23.08,60.0,16.0
+1573,Niederschlag,Tage mit Niederschlägen,2002,200206,16.0,19.0,0.0,-15.79,15.0
+1574,Niederschlag,Tage mit Niederschlägen,2002,200207,20.0,13.0,25.0,53.85,16.0
+1575,Niederschlag,Tage mit Niederschlägen,2002,200208,13.0,14.0,-35.0,-7.14,16.0
+1576,Niederschlag,Tage mit Niederschlägen,2002,200209,15.0,25.0,15.38,-40.0,15.0
+1577,Niederschlag,Tage mit Niederschlägen,2002,200210,20.0,11.0,33.33,81.82,16.0
+1578,Niederschlag,Tage mit Niederschlägen,2002,200211,17.0,17.0,-15.0,0.0,16.0
+1579,Niederschlag,Tage mit Niederschlägen,2002,200212,18.0,23.0,5.88,-21.74,15.0
+1580,Niederschlag,Tage mit Niederschlägen,2001,Summe,208.0,192.0,,8.33,
+1581,Niederschlag,Tage mit Niederschlägen,2001,200101,18.0,10.0,20.0,80.0,17.0
+1582,Niederschlag,Tage mit Niederschlägen,2001,200102,16.0,22.0,-11.11,-27.27,16.0
+1583,Niederschlag,Tage mit Niederschlägen,2001,200103,22.0,21.0,37.5,4.76,16.0
+1584,Niederschlag,Tage mit Niederschlägen,2001,200104,20.0,10.0,-9.09,100.0,17.0
+1585,Niederschlag,Tage mit Niederschlägen,2001,200105,10.0,20.0,-50.0,-50.0,16.0
+1586,Niederschlag,Tage mit Niederschlägen,2001,200106,19.0,10.0,90.0,90.0,17.0
+1587,Niederschlag,Tage mit Niederschlägen,2001,200107,13.0,25.0,-31.58,-48.0,16.0
+1588,Niederschlag,Tage mit Niederschlägen,2001,200108,14.0,15.0,7.69,-6.67,16.0
+1589,Niederschlag,Tage mit Niederschlägen,2001,200109,25.0,13.0,78.57,92.31,17.0
+1590,Niederschlag,Tage mit Niederschlägen,2001,200110,11.0,15.0,-56.0,-26.67,17.0
+1591,Niederschlag,Tage mit Niederschlägen,2001,200111,17.0,16.0,54.55,6.25,17.0
+1592,Niederschlag,Tage mit Niederschlägen,2001,200112,23.0,15.0,35.29,53.33,17.0
+1593,Niederschlag,Tage mit Niederschlägen,2000,Summe,192.0,,,,
+1594,Niederschlag,Tage mit Niederschlägen,2000,200001,10.0,,,,10.0
+1595,Niederschlag,Tage mit Niederschlägen,2000,200002,22.0,,120.0,,16.0
+1596,Niederschlag,Tage mit Niederschlägen,2000,200003,21.0,,-4.55,,18.0
+1597,Niederschlag,Tage mit Niederschlägen,2000,200004,10.0,,-52.38,,16.0
+1598,Niederschlag,Tage mit Niederschlägen,2000,200005,20.0,,100.0,,17.0
+1599,Niederschlag,Tage mit Niederschlägen,2000,200006,10.0,,-50.0,,16.0
+1600,Niederschlag,Tage mit Niederschlägen,2000,200007,25.0,,150.0,,17.0
+1601,Niederschlag,Tage mit Niederschlägen,2000,200008,15.0,,-40.0,,17.0
+1602,Niederschlag,Tage mit Niederschlägen,2000,200009,13.0,,-13.33,,16.0
+1603,Niederschlag,Tage mit Niederschlägen,2000,200010,15.0,,15.38,,16.0
+1604,Niederschlag,Tage mit Niederschlägen,2000,200011,16.0,,6.67,,16.0
+1605,Niederschlag,Tage mit Niederschlägen,2000,200012,15.0,,-6.25,,16.0
+1606,Sonnenschein,Sonnenscheindauer,2021,Summe,369.0,2156.0,,-82.88,
+1607,Sonnenschein,Sonnenscheindauer,2021,202101,52.0,123.0,-14.75,-57.72,174.0
+1608,Sonnenschein,Sonnenscheindauer,2021,202102,147.0,107.0,182.69,37.38,177.0
+1609,Sonnenschein,Sonnenscheindauer,2021,202103,170.0,185.0,15.65,-8.11,176.0
+1610,Sonnenschein,Sonnenscheindauer,2021,202104,,318.0,,,
+1611,Sonnenschein,Sonnenscheindauer,2021,202105,,213.0,,,
+1612,Sonnenschein,Sonnenscheindauer,2021,202106,,203.0,,,
+1613,Sonnenschein,Sonnenscheindauer,2021,202107,,291.0,,,
+1614,Sonnenschein,Sonnenscheindauer,2021,202108,,236.0,,,
+1615,Sonnenschein,Sonnenscheindauer,2021,202109,,212.0,,,
+1616,Sonnenschein,Sonnenscheindauer,2021,202110,,92.0,,,
+1617,Sonnenschein,Sonnenscheindauer,2021,202111,,115.0,,,
+1618,Sonnenschein,Sonnenscheindauer,2021,202112,,61.0,,,
+1619,Sonnenschein,Sonnenscheindauer,2020,Summe,2156.0,2012.0,,7.16,
+1620,Sonnenschein,Sonnenscheindauer,2020,202001,123.0,39.0,23.0,215.38,175.0
+1621,Sonnenschein,Sonnenscheindauer,2020,202002,107.0,162.0,-13.01,-33.95,170.0
+1622,Sonnenschein,Sonnenscheindauer,2020,202003,185.0,170.0,72.9,8.82,171.0
+1623,Sonnenschein,Sonnenscheindauer,2020,202004,318.0,198.0,71.89,60.61,181.0
+1624,Sonnenschein,Sonnenscheindauer,2020,202005,213.0,170.0,-33.02,25.29,185.0
+1625,Sonnenschein,Sonnenscheindauer,2020,202006,203.0,318.0,-4.69,-36.16,175.0
+1626,Sonnenschein,Sonnenscheindauer,2020,202007,291.0,253.0,43.35,15.02,179.0
+1627,Sonnenschein,Sonnenscheindauer,2020,202008,236.0,228.0,-18.9,3.51,179.0
+1628,Sonnenschein,Sonnenscheindauer,2020,202009,212.0,196.0,-10.17,8.16,181.0
+1629,Sonnenschein,Sonnenscheindauer,2020,202010,92.0,136.0,-56.6,-32.35,177.0
+1630,Sonnenschein,Sonnenscheindauer,2020,202011,115.0,42.0,25.0,173.81,183.0
+1631,Sonnenschein,Sonnenscheindauer,2020,202012,61.0,100.0,-46.96,-39.0,180.0
+1632,Sonnenschein,Sonnenscheindauer,2019,Summe,2012.0,2164.0,,-7.02,
+1633,Sonnenschein,Sonnenscheindauer,2019,201901,39.0,73.0,-7.14,-46.58,178.0
+1634,Sonnenschein,Sonnenscheindauer,2019,201902,162.0,69.0,315.38,134.78,185.0
+1635,Sonnenschein,Sonnenscheindauer,2019,201903,170.0,110.0,4.94,54.55,190.0
+1636,Sonnenschein,Sonnenscheindauer,2019,201904,198.0,269.0,16.47,-26.39,184.0
+1637,Sonnenschein,Sonnenscheindauer,2019,201905,170.0,256.0,-14.14,-33.59,177.0
+1638,Sonnenschein,Sonnenscheindauer,2019,201906,318.0,252.0,87.06,26.19,183.0
+1639,Sonnenschein,Sonnenscheindauer,2019,201907,253.0,314.0,-20.44,-19.43,178.0
+1640,Sonnenschein,Sonnenscheindauer,2019,201908,228.0,286.0,-9.88,-20.28,173.0
+1641,Sonnenschein,Sonnenscheindauer,2019,201909,196.0,234.0,-14.04,-16.24,170.0
+1642,Sonnenschein,Sonnenscheindauer,2019,201910,136.0,173.0,-30.61,-21.39,167.0
+1643,Sonnenschein,Sonnenscheindauer,2019,201911,42.0,86.0,-69.12,-51.16,163.0
+1644,Sonnenschein,Sonnenscheindauer,2019,201912,100.0,42.0,138.1,138.1,168.0
+1645,Sonnenschein,Sonnenscheindauer,2018,Summe,2164.0,1792.0,,20.76,
+1646,Sonnenschein,Sonnenscheindauer,2018,201801,73.0,89.0,19.67,-17.98,148.0
+1647,Sonnenschein,Sonnenscheindauer,2018,201802,69.0,86.0,-5.48,-19.77,147.0
+1648,Sonnenschein,Sonnenscheindauer,2018,201803,110.0,164.0,59.42,-32.93,142.0
+1649,Sonnenschein,Sonnenscheindauer,2018,201804,269.0,128.0,144.55,110.16,154.0
+1650,Sonnenschein,Sonnenscheindauer,2018,201805,256.0,252.0,-4.83,1.59,154.0
+1651,Sonnenschein,Sonnenscheindauer,2018,201806,252.0,257.0,-1.56,-1.95,154.0
+1652,Sonnenschein,Sonnenscheindauer,2018,201807,314.0,208.0,24.6,50.96,163.0
+1653,Sonnenschein,Sonnenscheindauer,2018,201808,286.0,231.0,-8.92,23.81,167.0
+1654,Sonnenschein,Sonnenscheindauer,2018,201809,234.0,112.0,-18.18,108.93,177.0
+1655,Sonnenschein,Sonnenscheindauer,2018,201810,173.0,157.0,-26.07,10.19,179.0
+1656,Sonnenschein,Sonnenscheindauer,2018,201811,86.0,47.0,-50.29,82.98,182.0
+1657,Sonnenschein,Sonnenscheindauer,2018,201812,42.0,61.0,-51.16,-31.15,180.0
+1658,Sonnenschein,Sonnenscheindauer,2017,Summe,1792.0,1714.0,,4.55,
+1659,Sonnenschein,Sonnenscheindauer,2017,201701,89.0,65.0,-6.32,36.92,145.0
+1660,Sonnenschein,Sonnenscheindauer,2017,201702,86.0,60.0,-3.37,43.33,147.0
+1661,Sonnenschein,Sonnenscheindauer,2017,201703,164.0,121.0,90.7,35.54,151.0
+1662,Sonnenschein,Sonnenscheindauer,2017,201704,128.0,156.0,-21.95,-17.95,148.0
+1663,Sonnenschein,Sonnenscheindauer,2017,201705,252.0,188.0,96.88,34.04,154.0
+1664,Sonnenschein,Sonnenscheindauer,2017,201706,257.0,173.0,1.98,48.55,161.0
+1665,Sonnenschein,Sonnenscheindauer,2017,201707,208.0,225.0,-19.07,-7.56,159.0
+1666,Sonnenschein,Sonnenscheindauer,2017,201708,231.0,246.0,11.06,-6.1,158.0
+1667,Sonnenschein,Sonnenscheindauer,2017,201709,112.0,220.0,-51.52,-49.09,149.0
+1668,Sonnenschein,Sonnenscheindauer,2017,201710,157.0,95.0,40.18,65.26,154.0
+1669,Sonnenschein,Sonnenscheindauer,2017,201711,47.0,70.0,-70.06,-32.86,152.0
+1670,Sonnenschein,Sonnenscheindauer,2017,201712,61.0,95.0,29.79,-35.79,149.0
+1671,Sonnenschein,Sonnenscheindauer,2016,Summe,1714.0,1980.0,,-13.43,
+1672,Sonnenschein,Sonnenscheindauer,2016,201601,65.0,61.0,-54.23,6.56,165.0
+1673,Sonnenschein,Sonnenscheindauer,2016,201602,60.0,93.0,-7.69,-35.48,163.0
+1674,Sonnenschein,Sonnenscheindauer,2016,201603,121.0,154.0,101.67,-21.43,160.0
+1675,Sonnenschein,Sonnenscheindauer,2016,201604,156.0,236.0,28.93,-33.9,153.0
+1676,Sonnenschein,Sonnenscheindauer,2016,201605,188.0,153.0,20.51,22.88,156.0
+1677,Sonnenschein,Sonnenscheindauer,2016,201606,173.0,217.0,-7.98,-20.28,152.0
+1678,Sonnenschein,Sonnenscheindauer,2016,201607,225.0,299.0,30.06,-24.75,146.0
+1679,Sonnenschein,Sonnenscheindauer,2016,201608,246.0,281.0,9.33,-12.46,143.0
+1680,Sonnenschein,Sonnenscheindauer,2016,201609,220.0,138.0,-10.57,59.42,150.0
+1681,Sonnenschein,Sonnenscheindauer,2016,201610,95.0,88.0,-56.82,7.95,151.0
+1682,Sonnenschein,Sonnenscheindauer,2016,201611,70.0,118.0,-26.32,-40.68,147.0
+1683,Sonnenschein,Sonnenscheindauer,2016,201612,95.0,142.0,35.71,-33.1,143.0
+1684,Sonnenschein,Sonnenscheindauer,2015,Summe,1980.0,1665.0,,18.92,
+1685,Sonnenschein,Sonnenscheindauer,2015,201501,61.0,64.0,38.64,-4.69,139.0
+1686,Sonnenschein,Sonnenscheindauer,2015,201502,93.0,118.0,52.46,-21.19,136.0
+1687,Sonnenschein,Sonnenscheindauer,2015,201503,154.0,210.0,65.59,-26.67,132.0
+1688,Sonnenschein,Sonnenscheindauer,2015,201504,236.0,155.0,53.25,52.26,139.0
+1689,Sonnenschein,Sonnenscheindauer,2015,201505,153.0,164.0,-35.17,-6.71,138.0
+1690,Sonnenschein,Sonnenscheindauer,2015,201506,217.0,280.0,41.83,-22.5,132.0
+1691,Sonnenschein,Sonnenscheindauer,2015,201507,299.0,195.0,37.79,53.33,141.0
+1692,Sonnenschein,Sonnenscheindauer,2015,201508,281.0,162.0,-6.02,73.46,151.0
+1693,Sonnenschein,Sonnenscheindauer,2015,201509,138.0,113.0,-50.89,22.12,153.0
+1694,Sonnenschein,Sonnenscheindauer,2015,201510,88.0,100.0,-36.23,-12.0,152.0
+1695,Sonnenschein,Sonnenscheindauer,2015,201511,118.0,60.0,34.09,96.67,157.0
+1696,Sonnenschein,Sonnenscheindauer,2015,201512,142.0,44.0,20.34,222.73,165.0
+1697,Sonnenschein,Sonnenscheindauer,2014,Summe,1665.0,1603.0,,3.87,
+1698,Sonnenschein,Sonnenscheindauer,2014,201401,64.0,31.0,-50.0,106.45,136.0
+1699,Sonnenschein,Sonnenscheindauer,2014,201402,118.0,41.0,84.38,187.8,143.0
+1700,Sonnenschein,Sonnenscheindauer,2014,201403,210.0,109.0,77.97,92.66,151.0
+1701,Sonnenschein,Sonnenscheindauer,2014,201404,155.0,112.0,-26.19,38.39,155.0
+1702,Sonnenschein,Sonnenscheindauer,2014,201405,164.0,113.0,5.81,45.13,159.0
+1703,Sonnenschein,Sonnenscheindauer,2014,201406,280.0,199.0,70.73,40.7,166.0
+1704,Sonnenschein,Sonnenscheindauer,2014,201407,195.0,330.0,-30.36,-40.91,155.0
+1705,Sonnenschein,Sonnenscheindauer,2014,201408,162.0,254.0,-16.92,-36.22,147.0
+1706,Sonnenschein,Sonnenscheindauer,2014,201409,113.0,129.0,-30.25,-12.4,146.0
+1707,Sonnenschein,Sonnenscheindauer,2014,201410,100.0,110.0,-11.5,-9.09,145.0
+1708,Sonnenschein,Sonnenscheindauer,2014,201411,60.0,47.0,-40.0,27.66,146.0
+1709,Sonnenschein,Sonnenscheindauer,2014,201412,44.0,128.0,-26.67,-65.63,139.0
+1710,Sonnenschein,Sonnenscheindauer,2013,Summe,1603.0,1906.0,,-15.9,
+1711,Sonnenschein,Sonnenscheindauer,2013,201301,31.0,70.0,-54.41,-55.71,156.0
+1712,Sonnenschein,Sonnenscheindauer,2013,201302,41.0,98.0,32.26,-58.16,151.0
+1713,Sonnenschein,Sonnenscheindauer,2013,201303,109.0,195.0,165.85,-44.1,144.0
+1714,Sonnenschein,Sonnenscheindauer,2013,201304,112.0,161.0,2.75,-30.43,140.0
+1715,Sonnenschein,Sonnenscheindauer,2013,201305,113.0,252.0,0.89,-55.16,128.0
+1716,Sonnenschein,Sonnenscheindauer,2013,201306,199.0,221.0,76.11,-9.95,126.0
+1717,Sonnenschein,Sonnenscheindauer,2013,201307,330.0,199.0,65.83,65.83,137.0
+1718,Sonnenschein,Sonnenscheindauer,2013,201308,254.0,270.0,-23.03,-5.93,136.0
+1719,Sonnenschein,Sonnenscheindauer,2013,201309,129.0,166.0,-49.21,-22.29,133.0
+1720,Sonnenschein,Sonnenscheindauer,2013,201310,110.0,125.0,-14.73,-12.0,131.0
+1721,Sonnenschein,Sonnenscheindauer,2013,201311,47.0,81.0,-57.27,-41.98,129.0
+1722,Sonnenschein,Sonnenscheindauer,2013,201312,128.0,68.0,172.34,88.24,134.0
+1723,Sonnenschein,Sonnenscheindauer,2012,Summe,1906.0,2085.0,,-8.59,
+1724,Sonnenschein,Sonnenscheindauer,2012,201201,70.0,46.0,40.0,52.17,176.0
+1725,Sonnenschein,Sonnenscheindauer,2012,201202,98.0,101.0,40.0,-2.97,176.0
+1726,Sonnenschein,Sonnenscheindauer,2012,201203,195.0,199.0,98.98,-2.01,175.0
+1727,Sonnenschein,Sonnenscheindauer,2012,201204,161.0,271.0,-17.44,-40.59,166.0
+1728,Sonnenschein,Sonnenscheindauer,2012,201205,252.0,282.0,56.52,-10.64,164.0
+1729,Sonnenschein,Sonnenscheindauer,2012,201206,221.0,166.0,-12.3,33.13,168.0
+1730,Sonnenschein,Sonnenscheindauer,2012,201207,199.0,189.0,-9.95,5.29,169.0
+1731,Sonnenschein,Sonnenscheindauer,2012,201208,270.0,265.0,35.68,1.89,169.0
+1732,Sonnenschein,Sonnenscheindauer,2012,201209,166.0,218.0,-38.52,-23.85,165.0
+1733,Sonnenschein,Sonnenscheindauer,2012,201210,125.0,179.0,-24.7,-30.17,161.0
+1734,Sonnenschein,Sonnenscheindauer,2012,201211,81.0,119.0,-35.2,-31.93,157.0
+1735,Sonnenschein,Sonnenscheindauer,2012,201212,68.0,50.0,-16.05,36.0,159.0
+1736,Sonnenschein,Sonnenscheindauer,2011,Summe,2085.0,1634.0,,27.6,
+1737,Sonnenschein,Sonnenscheindauer,2011,201101,46.0,36.0,21.05,27.78,137.0
+1738,Sonnenschein,Sonnenscheindauer,2011,201102,101.0,70.0,119.57,44.29,140.0
+1739,Sonnenschein,Sonnenscheindauer,2011,201103,199.0,169.0,97.03,17.75,142.0
+1740,Sonnenschein,Sonnenscheindauer,2011,201104,271.0,225.0,36.18,20.44,146.0
+1741,Sonnenschein,Sonnenscheindauer,2011,201105,282.0,110.0,4.06,156.36,160.0
+1742,Sonnenschein,Sonnenscheindauer,2011,201106,166.0,195.0,-41.13,-14.87,158.0
+1743,Sonnenschein,Sonnenscheindauer,2011,201107,189.0,276.0,13.86,-31.52,151.0
+1744,Sonnenschein,Sonnenscheindauer,2011,201108,265.0,160.0,40.21,65.63,159.0
+1745,Sonnenschein,Sonnenscheindauer,2011,201109,218.0,164.0,-17.74,32.93,164.0
+1746,Sonnenschein,Sonnenscheindauer,2011,201110,179.0,117.0,-17.89,52.99,169.0
+1747,Sonnenschein,Sonnenscheindauer,2011,201111,119.0,74.0,-33.52,60.81,173.0
+1748,Sonnenschein,Sonnenscheindauer,2011,201112,50.0,38.0,-57.98,31.58,174.0
+1749,Sonnenschein,Sonnenscheindauer,2010,Summe,1634.0,1798.0,,-9.12,
+1750,Sonnenschein,Sonnenscheindauer,2010,201001,36.0,95.0,-38.98,-62.11,145.0
+1751,Sonnenschein,Sonnenscheindauer,2010,201002,70.0,68.0,94.44,2.94,145.0
+1752,Sonnenschein,Sonnenscheindauer,2010,201003,169.0,68.0,141.43,148.53,154.0
+1753,Sonnenschein,Sonnenscheindauer,2010,201004,225.0,241.0,33.14,-6.64,152.0
+1754,Sonnenschein,Sonnenscheindauer,2010,201005,110.0,219.0,-51.11,-49.77,143.0
+1755,Sonnenschein,Sonnenscheindauer,2010,201006,195.0,173.0,77.27,12.72,145.0
+1756,Sonnenschein,Sonnenscheindauer,2010,201007,276.0,221.0,41.54,24.89,150.0
+1757,Sonnenschein,Sonnenscheindauer,2010,201008,160.0,262.0,-42.03,-38.93,141.0
+1758,Sonnenschein,Sonnenscheindauer,2010,201009,164.0,186.0,2.5,-11.83,139.0
+1759,Sonnenschein,Sonnenscheindauer,2010,201010,117.0,106.0,-28.66,10.38,140.0
+1760,Sonnenschein,Sonnenscheindauer,2010,201011,74.0,100.0,-36.75,-26.0,138.0
+1761,Sonnenschein,Sonnenscheindauer,2010,201012,38.0,59.0,-48.65,-35.59,136.0
+1762,Sonnenschein,Sonnenscheindauer,2009,Summe,1798.0,1907.0,,-5.72,
+1763,Sonnenschein,Sonnenscheindauer,2009,200901,95.0,103.0,23.38,-7.77,158.0
+1764,Sonnenschein,Sonnenscheindauer,2009,200902,68.0,184.0,-28.42,-63.04,149.0
+1765,Sonnenschein,Sonnenscheindauer,2009,200903,68.0,125.0,0.0,-45.6,144.0
+1766,Sonnenschein,Sonnenscheindauer,2009,200904,241.0,141.0,254.41,70.92,152.0
+1767,Sonnenschein,Sonnenscheindauer,2009,200905,219.0,259.0,-9.13,-15.44,149.0
+1768,Sonnenschein,Sonnenscheindauer,2009,200906,173.0,211.0,-21.0,-18.01,146.0
+1769,Sonnenschein,Sonnenscheindauer,2009,200907,221.0,239.0,27.75,-7.53,144.0
+1770,Sonnenschein,Sonnenscheindauer,2009,200908,262.0,227.0,18.55,15.42,147.0
+1771,Sonnenschein,Sonnenscheindauer,2009,200909,186.0,122.0,-29.01,52.46,152.0
+1772,Sonnenschein,Sonnenscheindauer,2009,200910,106.0,126.0,-43.01,-15.87,151.0
+1773,Sonnenschein,Sonnenscheindauer,2009,200911,100.0,93.0,-5.66,7.53,151.0
+1774,Sonnenschein,Sonnenscheindauer,2009,200912,59.0,77.0,-41.0,-23.38,150.0
+1775,Sonnenschein,Sonnenscheindauer,2008,Summe,1907.0,1988.0,,-4.07,
+1776,Sonnenschein,Sonnenscheindauer,2008,200801,103.0,52.0,83.93,98.08,170.0
+1777,Sonnenschein,Sonnenscheindauer,2008,200802,184.0,111.0,78.64,65.77,176.0
+1778,Sonnenschein,Sonnenscheindauer,2008,200803,125.0,176.0,-32.07,-28.98,172.0
+1779,Sonnenschein,Sonnenscheindauer,2008,200804,141.0,330.0,12.8,-57.27,156.0
+1780,Sonnenschein,Sonnenscheindauer,2008,200805,259.0,240.0,83.69,7.92,158.0
+1781,Sonnenschein,Sonnenscheindauer,2008,200806,211.0,243.0,-18.53,-13.17,155.0
+1782,Sonnenschein,Sonnenscheindauer,2008,200807,239.0,246.0,13.27,-2.85,154.0
+1783,Sonnenschein,Sonnenscheindauer,2008,200808,227.0,197.0,-5.02,15.23,157.0
+1784,Sonnenschein,Sonnenscheindauer,2008,200809,122.0,144.0,-46.26,-15.28,155.0
+1785,Sonnenschein,Sonnenscheindauer,2008,200810,126.0,134.0,3.28,-5.97,154.0
+1786,Sonnenschein,Sonnenscheindauer,2008,200811,93.0,59.0,-26.19,57.63,157.0
+1787,Sonnenschein,Sonnenscheindauer,2008,200812,77.0,56.0,-17.2,37.5,159.0
+1788,Sonnenschein,Sonnenscheindauer,2007,Summe,1988.0,1997.0,,-0.45,
+1789,Sonnenschein,Sonnenscheindauer,2007,200701,52.0,116.0,-52.73,-55.17,161.0
+1790,Sonnenschein,Sonnenscheindauer,2007,200702,111.0,82.0,113.46,35.37,164.0
+1791,Sonnenschein,Sonnenscheindauer,2007,200703,176.0,104.0,58.56,69.23,170.0
+1792,Sonnenschein,Sonnenscheindauer,2007,200704,330.0,141.0,87.5,134.04,185.0
+1793,Sonnenschein,Sonnenscheindauer,2007,200705,240.0,214.0,-27.27,12.15,187.0
+1794,Sonnenschein,Sonnenscheindauer,2007,200706,243.0,277.0,1.25,-12.27,185.0
+1795,Sonnenschein,Sonnenscheindauer,2007,200707,246.0,339.0,1.23,-27.43,177.0
+1796,Sonnenschein,Sonnenscheindauer,2007,200708,197.0,139.0,-19.92,41.73,182.0
+1797,Sonnenschein,Sonnenscheindauer,2007,200709,144.0,209.0,-26.9,-31.1,176.0
+1798,Sonnenschein,Sonnenscheindauer,2007,200710,134.0,166.0,-6.94,-19.28,174.0
+1799,Sonnenschein,Sonnenscheindauer,2007,200711,59.0,100.0,-55.97,-41.0,170.0
+1800,Sonnenschein,Sonnenscheindauer,2007,200712,56.0,110.0,-5.08,-49.09,166.0
+1801,Sonnenschein,Sonnenscheindauer,2006,Summe,1997.0,1901.0,,5.05,
+1802,Sonnenschein,Sonnenscheindauer,2006,200601,116.0,100.0,141.67,16.0,160.0
+1803,Sonnenschein,Sonnenscheindauer,2006,200602,82.0,77.0,-29.31,6.49,160.0
+1804,Sonnenschein,Sonnenscheindauer,2006,200603,104.0,160.0,26.83,-35.0,156.0
+1805,Sonnenschein,Sonnenscheindauer,2006,200604,141.0,186.0,35.58,-24.19,152.0
+1806,Sonnenschein,Sonnenscheindauer,2006,200605,214.0,241.0,51.77,-11.2,150.0
+1807,Sonnenschein,Sonnenscheindauer,2006,200606,277.0,250.0,29.44,10.8,152.0
+1808,Sonnenschein,Sonnenscheindauer,2006,200607,339.0,208.0,22.38,62.98,163.0
+1809,Sonnenschein,Sonnenscheindauer,2006,200608,139.0,178.0,-59.0,-21.91,159.0
+1810,Sonnenschein,Sonnenscheindauer,2006,200609,209.0,193.0,50.36,8.29,161.0
+1811,Sonnenschein,Sonnenscheindauer,2006,200610,166.0,182.0,-20.57,-8.79,159.0
+1812,Sonnenschein,Sonnenscheindauer,2006,200611,100.0,78.0,-39.76,28.21,161.0
+1813,Sonnenschein,Sonnenscheindauer,2006,200612,110.0,48.0,10.0,129.17,166.0
+1814,Sonnenschein,Sonnenscheindauer,2005,Summe,1901.0,1784.0,,6.56,
+1815,Sonnenschein,Sonnenscheindauer,2005,200501,100.0,51.0,38.89,96.08,153.0
+1816,Sonnenschein,Sonnenscheindauer,2005,200502,77.0,90.0,-23.0,-14.44,152.0
+1817,Sonnenschein,Sonnenscheindauer,2005,200503,160.0,174.0,107.79,-8.05,151.0
+1818,Sonnenschein,Sonnenscheindauer,2005,200504,186.0,192.0,16.25,-3.13,150.0
+1819,Sonnenschein,Sonnenscheindauer,2005,200505,241.0,190.0,29.57,26.84,154.0
+1820,Sonnenschein,Sonnenscheindauer,2005,200506,250.0,203.0,3.73,23.15,158.0
+1821,Sonnenschein,Sonnenscheindauer,2005,200507,208.0,223.0,-16.8,-6.73,157.0
+1822,Sonnenschein,Sonnenscheindauer,2005,200508,178.0,239.0,-14.42,-25.52,152.0
+1823,Sonnenschein,Sonnenscheindauer,2005,200509,193.0,187.0,8.43,3.21,152.0
+1824,Sonnenschein,Sonnenscheindauer,2005,200510,182.0,112.0,-5.7,62.5,158.0
+1825,Sonnenschein,Sonnenscheindauer,2005,200511,78.0,51.0,-57.14,52.94,160.0
+1826,Sonnenschein,Sonnenscheindauer,2005,200512,48.0,72.0,-38.46,-33.33,158.0
+1827,Sonnenschein,Sonnenscheindauer,2004,Summe,1784.0,2172.0,,-17.86,
+1828,Sonnenschein,Sonnenscheindauer,2004,200401,51.0,58.0,-30.14,-12.07,180.0
+1829,Sonnenschein,Sonnenscheindauer,2004,200402,90.0,119.0,76.47,-24.37,178.0
+1830,Sonnenschein,Sonnenscheindauer,2004,200403,174.0,198.0,93.33,-12.12,176.0
+1831,Sonnenschein,Sonnenscheindauer,2004,200404,192.0,213.0,10.34,-9.86,174.0
+1832,Sonnenschein,Sonnenscheindauer,2004,200405,190.0,210.0,-1.04,-9.52,173.0
+1833,Sonnenschein,Sonnenscheindauer,2004,200406,203.0,302.0,6.84,-32.78,164.0
+1834,Sonnenschein,Sonnenscheindauer,2004,200407,223.0,277.0,9.85,-19.49,160.0
+1835,Sonnenschein,Sonnenscheindauer,2004,200408,239.0,301.0,7.17,-20.6,155.0
+1836,Sonnenschein,Sonnenscheindauer,2004,200409,187.0,217.0,-21.76,-13.82,152.0
+1837,Sonnenschein,Sonnenscheindauer,2004,200410,112.0,118.0,-40.11,-5.08,152.0
+1838,Sonnenschein,Sonnenscheindauer,2004,200411,51.0,86.0,-54.46,-40.7,149.0
+1839,Sonnenschein,Sonnenscheindauer,2004,200412,72.0,73.0,41.18,-1.37,149.0
+1840,Sonnenschein,Sonnenscheindauer,2003,Summe,2172.0,1856.0,,17.03,
+1841,Sonnenschein,Sonnenscheindauer,2003,200301,58.0,106.0,65.71,-45.28,151.0
+1842,Sonnenschein,Sonnenscheindauer,2003,200302,119.0,89.0,105.17,33.71,153.0
+1843,Sonnenschein,Sonnenscheindauer,2003,200303,198.0,202.0,66.39,-1.98,153.0
+1844,Sonnenschein,Sonnenscheindauer,2003,200304,213.0,181.0,7.58,17.68,156.0
+1845,Sonnenschein,Sonnenscheindauer,2003,200305,210.0,195.0,-1.41,7.69,157.0
+1846,Sonnenschein,Sonnenscheindauer,2003,200306,302.0,282.0,43.81,7.09,158.0
+1847,Sonnenschein,Sonnenscheindauer,2003,200307,277.0,221.0,-8.28,25.34,163.0
+1848,Sonnenschein,Sonnenscheindauer,2003,200308,301.0,216.0,8.66,39.35,170.0
+1849,Sonnenschein,Sonnenscheindauer,2003,200309,217.0,176.0,-27.91,23.3,174.0
+1850,Sonnenschein,Sonnenscheindauer,2003,200310,118.0,105.0,-45.62,12.38,175.0
+1851,Sonnenschein,Sonnenscheindauer,2003,200311,86.0,48.0,-27.12,79.17,178.0
+1852,Sonnenschein,Sonnenscheindauer,2003,200312,73.0,35.0,-15.12,108.57,181.0
+1853,Sonnenschein,Sonnenscheindauer,2002,Summe,1856.0,1829.0,,1.48,
+1854,Sonnenschein,Sonnenscheindauer,2002,200201,106.0,93.0,45.21,13.98,154.0
+1855,Sonnenschein,Sonnenscheindauer,2002,200202,89.0,87.0,-16.04,2.3,154.0
+1856,Sonnenschein,Sonnenscheindauer,2002,200203,202.0,84.0,126.97,140.48,164.0
+1857,Sonnenschein,Sonnenscheindauer,2002,200204,181.0,143.0,-10.4,26.57,167.0
+1858,Sonnenschein,Sonnenscheindauer,2002,200205,195.0,265.0,7.73,-26.42,161.0
+1859,Sonnenschein,Sonnenscheindauer,2002,200206,282.0,230.0,44.62,22.61,165.0
+1860,Sonnenschein,Sonnenscheindauer,2002,200207,221.0,272.0,-21.63,-18.75,161.0
+1861,Sonnenschein,Sonnenscheindauer,2002,200208,216.0,254.0,-2.26,-14.96,158.0
+1862,Sonnenschein,Sonnenscheindauer,2002,200209,176.0,76.0,-18.52,131.58,166.0
+1863,Sonnenschein,Sonnenscheindauer,2002,200210,105.0,183.0,-40.34,-42.62,160.0
+1864,Sonnenschein,Sonnenscheindauer,2002,200211,48.0,69.0,-54.29,-30.43,158.0
+1865,Sonnenschein,Sonnenscheindauer,2002,200212,35.0,73.0,-27.08,-52.05,155.0
+1866,Sonnenschein,Sonnenscheindauer,2001,Summe,1829.0,1842.0,,-0.71,
+1867,Sonnenschein,Sonnenscheindauer,2001,200101,93.0,82.0,20.78,13.41,154.0
+1868,Sonnenschein,Sonnenscheindauer,2001,200102,87.0,91.0,-6.45,-4.4,154.0
+1869,Sonnenschein,Sonnenscheindauer,2001,200103,84.0,112.0,-3.45,-25.0,152.0
+1870,Sonnenschein,Sonnenscheindauer,2001,200104,143.0,188.0,70.24,-23.94,148.0
+1871,Sonnenschein,Sonnenscheindauer,2001,200105,265.0,237.0,85.31,11.81,150.0
+1872,Sonnenschein,Sonnenscheindauer,2001,200106,230.0,296.0,-13.21,-22.3,145.0
+1873,Sonnenschein,Sonnenscheindauer,2001,200107,272.0,182.0,18.26,49.45,152.0
+1874,Sonnenschein,Sonnenscheindauer,2001,200108,254.0,250.0,-6.62,1.6,153.0
+1875,Sonnenschein,Sonnenscheindauer,2001,200109,76.0,164.0,-70.08,-53.66,145.0
+1876,Sonnenschein,Sonnenscheindauer,2001,200110,183.0,63.0,140.79,190.48,155.0
+1877,Sonnenschein,Sonnenscheindauer,2001,200111,69.0,100.0,-62.3,-31.0,153.0
+1878,Sonnenschein,Sonnenscheindauer,2001,200112,73.0,77.0,5.8,-5.19,152.0
+1879,Sonnenschein,Sonnenscheindauer,2000,Summe,1842.0,,,,
+1880,Sonnenschein,Sonnenscheindauer,2000,200001,82.0,,,,82.0
+1881,Sonnenschein,Sonnenscheindauer,2000,200002,91.0,,10.98,,87.0
+1882,Sonnenschein,Sonnenscheindauer,2000,200003,112.0,,23.08,,95.0
+1883,Sonnenschein,Sonnenscheindauer,2000,200004,188.0,,67.86,,118.0
+1884,Sonnenschein,Sonnenscheindauer,2000,200005,237.0,,26.06,,142.0
+1885,Sonnenschein,Sonnenscheindauer,2000,200006,296.0,,24.89,,168.0
+1886,Sonnenschein,Sonnenscheindauer,2000,200007,182.0,,-38.51,,170.0
+1887,Sonnenschein,Sonnenscheindauer,2000,200008,250.0,,37.36,,180.0
+1888,Sonnenschein,Sonnenscheindauer,2000,200009,164.0,,-34.4,,178.0
+1889,Sonnenschein,Sonnenscheindauer,2000,200010,63.0,,-61.59,,167.0
+1890,Sonnenschein,Sonnenscheindauer,2000,200011,100.0,,58.73,,160.0
+1891,Sonnenschein,Sonnenscheindauer,2000,200012,77.0,,-23.0,,154.0
